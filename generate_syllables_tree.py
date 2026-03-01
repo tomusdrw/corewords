@@ -2,74 +2,21 @@ import csv
 import os
 import shutil
 
+import pyphen
+
 # -----------------------------------------------------------------------------
 # 1. Syllabification Logic
 # -----------------------------------------------------------------------------
 
-VOWELS = set("aąeęioóuy")
-DIGRAPHS = ["sz", "cz", "rz", "ch", "dż", "dz", "dź"]
-COMMON_ONSETS = sorted([
-    "wstrz", "wstr", "zmar", "zmarszcz",
-    "str", "spr", "skr", "zdr", "pst", "tchn",
-    "st", "sp", "sk", "sm", "sn", "sł", "sl", "sw", "sf",
-    "pl", "pr", "bl", "br", "tl", "tr", "dl", "dr", "kl", "kr", "gl", "gr", "fl", "fr",
-    "ch", "cz", "sz", "rz", "dz", "dż", "dź", "rz", "wr", "wz", "ws", "wl",
-    "mn", "mł", "mr", "gn", "gm", "kn", "km", "pn",
-    "zb", "zd", "zg", "zw"
-], key=len, reverse=True)
+syllabifier = pyphen.Pyphen(lang='pl_PL')
 
 def syllabify_polish(word):
     word = word.lower()
-    
-    nuclei = []
-    i = 0
-    while i < len(word):
-        if word[i] in VOWELS:
-            if word[i] == 'i' and i + 1 < len(word) and word[i+1] in VOWELS:
-                pass
-            else:
-                nuclei.append(i)
-        i += 1
-        
-    if not nuclei:
-        return [word]
-    if len(nuclei) == 1:
+    hyphenated = syllabifier.inserted(word)
+    if not hyphenated or '-' not in hyphenated:
         return [word]
 
-    syllables = []
-    start = 0
-    
-    for k in range(len(nuclei) - 1):
-        n1 = nuclei[k]
-        n2 = nuclei[k+1]
-        mid = word[n1+1 : n2]
-        split_pos = 0
-        
-        if not mid:
-            split_pos = n1 + 1
-        else:
-            suffix_len = 1
-            found_onset = False
-            for onset in COMMON_ONSETS:
-                if mid.endswith(onset):
-                    suffix_len = len(onset)
-                    found_onset = True
-                    break
-            
-            if not found_onset and len(mid) >= 2:
-                 if mid[-2:] in DIGRAPHS:
-                     suffix_len = 2
-
-            if suffix_len > len(mid):
-                suffix_len = len(mid)
-            
-            split_idx = len(mid) - suffix_len
-            split_pos = n1 + 1 + split_idx
-        
-        syllables.append(word[start:split_pos])
-        start = split_pos
-        
-    syllables.append(word[start:])
+    syllables = [segment for segment in hyphenated.split('-') if segment]
     return syllables
 
 # -----------------------------------------------------------------------------

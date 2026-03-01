@@ -2,8 +2,9 @@ syllable,weight,is_word,word_rank,full_word,has_children
 koło,340,True,161,koło,False
 kolacja,314,True,187,kolacja,False
 kochać,264,True,237,kochać,False
-kopnąć,241,True,260,kopnąć,False
 kolorowy,208,True,293,kolorowy,False
 koszulka,83,True,418,koszulka,False
+kobieta,75,True,426,kobieta,False
 kolega,71,True,430,kolega,False
 kolor,51,True,450,kolor,False
+koniec,46,True,455,koniec,False
