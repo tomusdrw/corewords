@@ -1,0 +1,5 @@
+syllable,weight,is_word,word_rank,full_word,has_children
+taki,357,True,144,taki,False
+tata,329,True,172,tata,False
+tablet,293,True,208,tablet,False
+tani,189,True,312,tani,False

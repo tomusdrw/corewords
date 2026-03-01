@@ -1,0 +1,4662 @@
+[
+  {
+    "syllable": "o",
+    "weight": 3153,
+    "is_word": true,
+    "word_rank": 152,
+    "full_word": "o",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "o",
+        "weight": 3153,
+        "is_word": true,
+        "word_rank": 152,
+        "full_word": "o",
+        "has_children": false
+      },
+      {
+        "syllable": "ona",
+        "weight": 487,
+        "is_word": true,
+        "word_rank": 14,
+        "full_word": "ona",
+        "has_children": false
+      },
+      {
+        "syllable": "oni",
+        "weight": 484,
+        "is_word": true,
+        "word_rank": 17,
+        "full_word": "oni",
+        "has_children": false
+      },
+      {
+        "syllable": "one",
+        "weight": 483,
+        "is_word": true,
+        "word_rank": 18,
+        "full_word": "one",
+        "has_children": false
+      },
+      {
+        "syllable": "oglądać",
+        "weight": 418,
+        "is_word": true,
+        "word_rank": 83,
+        "full_word": "oglądać",
+        "has_children": false
+      },
+      {
+        "syllable": "ostry",
+        "weight": 170,
+        "is_word": true,
+        "word_rank": 331,
+        "full_word": "ostry",
+        "has_children": false
+      },
+      {
+        "syllable": "ostatni",
+        "weight": 159,
+        "is_word": true,
+        "word_rank": 342,
+        "full_word": "ostatni",
+        "has_children": false
+      },
+      {
+        "syllable": "oko",
+        "weight": 131,
+        "is_word": true,
+        "word_rank": 370,
+        "full_word": "oko",
+        "has_children": false
+      },
+      {
+        "syllable": "owoc",
+        "weight": 115,
+        "is_word": true,
+        "word_rank": 386,
+        "full_word": "owoc",
+        "has_children": false
+      },
+      {
+        "syllable": "ogród",
+        "weight": 104,
+        "is_word": true,
+        "word_rank": 397,
+        "full_word": "ogród",
+        "has_children": false
+      },
+      {
+        "syllable": "okno",
+        "weight": 97,
+        "is_word": true,
+        "word_rank": 404,
+        "full_word": "okno",
+        "has_children": false
+      },
+      {
+        "syllable": "okulary",
+        "weight": 87,
+        "is_word": true,
+        "word_rank": 414,
+        "full_word": "okulary",
+        "has_children": false
+      },
+      {
+        "syllable": "obok",
+        "weight": 36,
+        "is_word": true,
+        "word_rank": 465,
+        "full_word": "obok",
+        "has_children": false
+      },
+      {
+        "syllable": "osobno",
+        "weight": 33,
+        "is_word": true,
+        "word_rank": 468,
+        "full_word": "osobno",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "po",
+    "weight": 2918,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "pomóc",
+        "weight": 451,
+        "is_word": true,
+        "word_rank": 50,
+        "full_word": "pomóc",
+        "has_children": false
+      },
+      {
+        "syllable": "potem",
+        "weight": 407,
+        "is_word": true,
+        "word_rank": 94,
+        "full_word": "potem",
+        "has_children": false
+      },
+      {
+        "syllable": "pokój",
+        "weight": 305,
+        "is_word": true,
+        "word_rank": 196,
+        "full_word": "pokój",
+        "has_children": false
+      },
+      {
+        "syllable": "pomysł",
+        "weight": 281,
+        "is_word": true,
+        "word_rank": 220,
+        "full_word": "pomysł",
+        "has_children": false
+      },
+      {
+        "syllable": "pozwolić",
+        "weight": 269,
+        "is_word": true,
+        "word_rank": 232,
+        "full_word": "pozwolić",
+        "has_children": false
+      },
+      {
+        "syllable": "pokazać",
+        "weight": 266,
+        "is_word": true,
+        "word_rank": 235,
+        "full_word": "pokazać",
+        "has_children": false
+      },
+      {
+        "syllable": "podać",
+        "weight": 250,
+        "is_word": true,
+        "word_rank": 251,
+        "full_word": "podać",
+        "has_children": false
+      },
+      {
+        "syllable": "położyć",
+        "weight": 247,
+        "is_word": true,
+        "word_rank": 254,
+        "full_word": "położyć",
+        "has_children": false
+      },
+      {
+        "syllable": "postawić",
+        "weight": 246,
+        "is_word": true,
+        "word_rank": 255,
+        "full_word": "postawić",
+        "has_children": false
+      },
+      {
+        "syllable": "południe",
+        "weight": 149,
+        "is_word": true,
+        "word_rank": 352,
+        "full_word": "południe",
+        "has_children": false
+      },
+      {
+        "syllable": "początek",
+        "weight": 47,
+        "is_word": true,
+        "word_rank": 454,
+        "full_word": "początek",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "za",
+    "weight": 2334,
+    "is_word": true,
+    "word_rank": 157,
+    "full_word": "za",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "za",
+        "weight": 2334,
+        "is_word": true,
+        "word_rank": 157,
+        "full_word": "za",
+        "has_children": false
+      },
+      {
+        "syllable": "zamykać",
+        "weight": 446,
+        "is_word": true,
+        "word_rank": 55,
+        "full_word": "zamykać",
+        "has_children": false
+      },
+      {
+        "syllable": "zacząć",
+        "weight": 428,
+        "is_word": true,
+        "word_rank": 73,
+        "full_word": "zacząć",
+        "has_children": false
+      },
+      {
+        "syllable": "zaraz",
+        "weight": 406,
+        "is_word": true,
+        "word_rank": 95,
+        "full_word": "zaraz",
+        "has_children": false
+      },
+      {
+        "syllable": "zabawa",
+        "weight": 299,
+        "is_word": true,
+        "word_rank": 202,
+        "full_word": "zabawa",
+        "has_children": false
+      },
+      {
+        "syllable": "zapomnieć",
+        "weight": 220,
+        "is_word": true,
+        "word_rank": 281,
+        "full_word": "zapomnieć",
+        "has_children": false
+      },
+      {
+        "syllable": "zajęty",
+        "weight": 184,
+        "is_word": true,
+        "word_rank": 317,
+        "full_word": "zajęty",
+        "has_children": false
+      },
+      {
+        "syllable": "zapinać",
+        "weight": 7,
+        "is_word": true,
+        "word_rank": 494,
+        "full_word": "zapinać",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "u",
+    "weight": 2233,
+    "is_word": true,
+    "word_rank": 160,
+    "full_word": "u",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "u",
+        "weight": 2233,
+        "is_word": true,
+        "word_rank": 160,
+        "full_word": "u",
+        "has_children": false
+      },
+      {
+        "syllable": "uczyć się",
+        "weight": 422,
+        "is_word": true,
+        "word_rank": 79,
+        "full_word": "uczyć się",
+        "has_children": false
+      },
+      {
+        "syllable": "używać",
+        "weight": 271,
+        "is_word": true,
+        "word_rank": 230,
+        "full_word": "używać",
+        "has_children": false
+      },
+      {
+        "syllable": "udać się",
+        "weight": 256,
+        "is_word": true,
+        "word_rank": 245,
+        "full_word": "udać się",
+        "has_children": false
+      },
+      {
+        "syllable": "upaść",
+        "weight": 244,
+        "is_word": true,
+        "word_rank": 257,
+        "full_word": "upaść",
+        "has_children": false
+      },
+      {
+        "syllable": "uderzyć",
+        "weight": 240,
+        "is_word": true,
+        "word_rank": 261,
+        "full_word": "uderzyć",
+        "has_children": false
+      },
+      {
+        "syllable": "urodziny",
+        "weight": 136,
+        "is_word": true,
+        "word_rank": 365,
+        "full_word": "urodziny",
+        "has_children": false
+      },
+      {
+        "syllable": "ucho",
+        "weight": 130,
+        "is_word": true,
+        "word_rank": 371,
+        "full_word": "ucho",
+        "has_children": false
+      },
+      {
+        "syllable": "ulica",
+        "weight": 107,
+        "is_word": true,
+        "word_rank": 394,
+        "full_word": "ulica",
+        "has_children": false
+      },
+      {
+        "syllable": "ubranie",
+        "weight": 86,
+        "is_word": true,
+        "word_rank": 415,
+        "full_word": "ubranie",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "do",
+    "weight": 1660,
+    "is_word": true,
+    "word_rank": 151,
+    "full_word": "do",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "do",
+        "weight": 1660,
+        "is_word": true,
+        "word_rank": 151,
+        "full_word": "do",
+        "has_children": false
+      },
+      {
+        "syllable": "dobranoc",
+        "weight": 493,
+        "is_word": true,
+        "word_rank": 8,
+        "full_word": "dobranoc",
+        "has_children": false
+      },
+      {
+        "syllable": "dostać",
+        "weight": 439,
+        "is_word": true,
+        "word_rank": 62,
+        "full_word": "dostać",
+        "has_children": false
+      },
+      {
+        "syllable": "dobry",
+        "weight": 378,
+        "is_word": true,
+        "word_rank": 123,
+        "full_word": "dobry",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "ko",
+    "weight": 1572,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "koło",
+        "weight": 340,
+        "is_word": true,
+        "word_rank": 161,
+        "full_word": "koło",
+        "has_children": false
+      },
+      {
+        "syllable": "kolacja",
+        "weight": 314,
+        "is_word": true,
+        "word_rank": 187,
+        "full_word": "kolacja",
+        "has_children": false
+      },
+      {
+        "syllable": "kochać",
+        "weight": 264,
+        "is_word": true,
+        "word_rank": 237,
+        "full_word": "kochać",
+        "has_children": false
+      },
+      {
+        "syllable": "kopnąć",
+        "weight": 241,
+        "is_word": true,
+        "word_rank": 260,
+        "full_word": "kopnąć",
+        "has_children": false
+      },
+      {
+        "syllable": "kolorowy",
+        "weight": 208,
+        "is_word": true,
+        "word_rank": 293,
+        "full_word": "kolorowy",
+        "has_children": false
+      },
+      {
+        "syllable": "koszulka",
+        "weight": 83,
+        "is_word": true,
+        "word_rank": 418,
+        "full_word": "koszulka",
+        "has_children": false
+      },
+      {
+        "syllable": "kolega",
+        "weight": 71,
+        "is_word": true,
+        "word_rank": 430,
+        "full_word": "kolega",
+        "has_children": false
+      },
+      {
+        "syllable": "kolor",
+        "weight": 51,
+        "is_word": true,
+        "word_rank": 450,
+        "full_word": "kolor",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "ma",
+    "weight": 1462,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "mało",
+        "weight": 387,
+        "is_word": true,
+        "word_rank": 114,
+        "full_word": "mało",
+        "has_children": false
+      },
+      {
+        "syllable": "mały",
+        "weight": 375,
+        "is_word": true,
+        "word_rank": 126,
+        "full_word": "mały",
+        "has_children": false
+      },
+      {
+        "syllable": "mama",
+        "weight": 330,
+        "is_word": true,
+        "word_rank": 171,
+        "full_word": "mama",
+        "has_children": false
+      },
+      {
+        "syllable": "malować",
+        "weight": 231,
+        "is_word": true,
+        "word_rank": 270,
+        "full_word": "malować",
+        "has_children": false
+      },
+      {
+        "syllable": "makaron",
+        "weight": 116,
+        "is_word": true,
+        "word_rank": 385,
+        "full_word": "makaron",
+        "has_children": false
+      },
+      {
+        "syllable": "marzyć",
+        "weight": 23,
+        "is_word": true,
+        "word_rank": 478,
+        "full_word": "marzyć",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "nie",
+    "weight": 1341,
+    "is_word": true,
+    "word_rank": 2,
+    "full_word": "nie",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "nie",
+        "weight": 1341,
+        "is_word": true,
+        "word_rank": 2,
+        "full_word": "nie",
+        "has_children": false
+      },
+      {
+        "syllable": "nienawidzić",
+        "weight": 263,
+        "is_word": true,
+        "word_rank": 238,
+        "full_word": "nienawidzić",
+        "has_children": false
+      },
+      {
+        "syllable": "niemożliwy",
+        "weight": 213,
+        "is_word": true,
+        "word_rank": 288,
+        "full_word": "niemożliwy",
+        "has_children": false
+      },
+      {
+        "syllable": "niebezpieczny",
+        "weight": 186,
+        "is_word": true,
+        "word_rank": 315,
+        "full_word": "niebezpieczny",
+        "has_children": false
+      },
+      {
+        "syllable": "niemiły",
+        "weight": 180,
+        "is_word": true,
+        "word_rank": 321,
+        "full_word": "niemiły",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "pro",
+    "weight": 1240,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "proszę",
+        "weight": 496,
+        "is_word": true,
+        "word_rank": 5,
+        "full_word": "proszę",
+        "has_children": false
+      },
+      {
+        "syllable": "problem",
+        "weight": 282,
+        "is_word": true,
+        "word_rank": 219,
+        "full_word": "problem",
+        "has_children": false
+      },
+      {
+        "syllable": "prosić",
+        "weight": 267,
+        "is_word": true,
+        "word_rank": 234,
+        "full_word": "prosić",
+        "has_children": false
+      },
+      {
+        "syllable": "prosty",
+        "weight": 195,
+        "is_word": true,
+        "word_rank": 306,
+        "full_word": "prosty",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "ro",
+    "weight": 1210,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "robić",
+        "weight": 458,
+        "is_word": true,
+        "word_rank": 43,
+        "full_word": "robić",
+        "has_children": false
+      },
+      {
+        "syllable": "rozumieć",
+        "weight": 433,
+        "is_word": true,
+        "word_rank": 68,
+        "full_word": "rozumieć",
+        "has_children": false
+      },
+      {
+        "syllable": "rodzina",
+        "weight": 319,
+        "is_word": true,
+        "word_rank": 182,
+        "full_word": "rodzina",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "na",
+    "weight": 1178,
+    "is_word": true,
+    "word_rank": 149,
+    "full_word": "na",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "na",
+        "weight": 1178,
+        "is_word": true,
+        "word_rank": 149,
+        "full_word": "na",
+        "has_children": false
+      },
+      {
+        "syllable": "nazywać",
+        "weight": 270,
+        "is_word": true,
+        "word_rank": 231,
+        "full_word": "nazywać",
+        "has_children": false
+      },
+      {
+        "syllable": "praw",
+        "weight": 249,
+        "is_word": false,
+        "word_rank": null,
+        "full_word": "",
+        "has_children": true,
+        "children": [
+          {
+            "syllable": "naprawiać",
+            "weight": 223,
+            "is_word": true,
+            "word_rank": 278,
+            "full_word": "naprawiać",
+            "has_children": false
+          },
+          {
+            "syllable": "naprawdę",
+            "weight": 26,
+            "is_word": true,
+            "word_rank": 475,
+            "full_word": "naprawdę",
+            "has_children": false
+          }
+        ]
+      },
+      {
+        "syllable": "następny",
+        "weight": 158,
+        "is_word": true,
+        "word_rank": 343,
+        "full_word": "następny",
+        "has_children": false
+      },
+      {
+        "syllable": "nauczyciel",
+        "weight": 63,
+        "is_word": true,
+        "word_rank": 438,
+        "full_word": "nauczyciel",
+        "has_children": false
+      },
+      {
+        "syllable": "nazwisko",
+        "weight": 55,
+        "is_word": true,
+        "word_rank": 446,
+        "full_word": "nazwisko",
+        "has_children": false
+      },
+      {
+        "syllable": "nawet",
+        "weight": 31,
+        "is_word": true,
+        "word_rank": 470,
+        "full_word": "nawet",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "ta",
+    "weight": 1168,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "taki",
+        "weight": 357,
+        "is_word": true,
+        "word_rank": 144,
+        "full_word": "taki",
+        "has_children": false
+      },
+      {
+        "syllable": "tata",
+        "weight": 329,
+        "is_word": true,
+        "word_rank": 172,
+        "full_word": "tata",
+        "has_children": false
+      },
+      {
+        "syllable": "tablet",
+        "weight": 293,
+        "is_word": true,
+        "word_rank": 208,
+        "full_word": "tablet",
+        "has_children": false
+      },
+      {
+        "syllable": "tani",
+        "weight": 189,
+        "is_word": true,
+        "word_rank": 312,
+        "full_word": "tani",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "wy",
+    "weight": 1160,
+    "is_word": true,
+    "word_rank": 16,
+    "full_word": "wy",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "wy",
+        "weight": 1160,
+        "is_word": true,
+        "word_rank": 16,
+        "full_word": "wy",
+        "has_children": false
+      },
+      {
+        "syllable": "wyglądać",
+        "weight": 258,
+        "is_word": true,
+        "word_rank": 243,
+        "full_word": "wyglądać",
+        "has_children": false
+      },
+      {
+        "syllable": "wybrać",
+        "weight": 218,
+        "is_word": true,
+        "word_rank": 283,
+        "full_word": "wybrać",
+        "has_children": false
+      },
+      {
+        "syllable": "wysoki",
+        "weight": 199,
+        "is_word": true,
+        "word_rank": 302,
+        "full_word": "wysoki",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "czy",
+    "weight": 1120,
+    "is_word": true,
+    "word_rank": 170,
+    "full_word": "czy",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "czy",
+        "weight": 1120,
+        "is_word": true,
+        "word_rank": 170,
+        "full_word": "czy",
+        "has_children": false
+      },
+      {
+        "syllable": "czytać",
+        "weight": 420,
+        "is_word": true,
+        "word_rank": 81,
+        "full_word": "czytać",
+        "has_children": false
+      },
+      {
+        "syllable": "czysty",
+        "weight": 369,
+        "is_word": true,
+        "word_rank": 132,
+        "full_word": "czysty",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "cze",
+    "weight": 1030,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "czemu",
+        "weight": 465,
+        "is_word": true,
+        "word_rank": 36,
+        "full_word": "czemu",
+        "has_children": false
+      },
+      {
+        "syllable": "czekać",
+        "weight": 450,
+        "is_word": true,
+        "word_rank": 51,
+        "full_word": "czekać",
+        "has_children": false
+      },
+      {
+        "syllable": "czekolada",
+        "weight": 111,
+        "is_word": true,
+        "word_rank": 390,
+        "full_word": "czekolada",
+        "has_children": false
+      },
+      {
+        "syllable": "czesać",
+        "weight": 4,
+        "is_word": true,
+        "word_rank": 497,
+        "full_word": "czesać",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "a",
+    "weight": 1028,
+    "is_word": true,
+    "word_rank": 163,
+    "full_word": "a",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "a",
+        "weight": 1028,
+        "is_word": true,
+        "word_rank": 163,
+        "full_word": "a",
+        "has_children": false
+      },
+      {
+        "syllable": "ale",
+        "weight": 337,
+        "is_word": true,
+        "word_rank": 164,
+        "full_word": "ale",
+        "has_children": false
+      },
+      {
+        "syllable": "autobus",
+        "weight": 300,
+        "is_word": true,
+        "word_rank": 201,
+        "full_word": "autobus",
+        "has_children": false
+      },
+      {
+        "syllable": "adres",
+        "weight": 53,
+        "is_word": true,
+        "word_rank": 448,
+        "full_word": "adres",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "zo",
+    "weight": 975,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "zobaczyć",
+        "weight": 431,
+        "is_word": true,
+        "word_rank": 70,
+        "full_word": "zobaczyć",
+        "has_children": false
+      },
+      {
+        "syllable": "zostać",
+        "weight": 276,
+        "is_word": true,
+        "word_rank": 225,
+        "full_word": "zostać",
+        "has_children": false
+      },
+      {
+        "syllable": "zostawić",
+        "weight": 268,
+        "is_word": true,
+        "word_rank": 233,
+        "full_word": "zostawić",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "pra",
+    "weight": 973,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "pracować",
+        "weight": 423,
+        "is_word": true,
+        "word_rank": 78,
+        "full_word": "pracować",
+        "has_children": false
+      },
+      {
+        "syllable": "praca",
+        "weight": 325,
+        "is_word": true,
+        "word_rank": 176,
+        "full_word": "praca",
+        "has_children": false
+      },
+      {
+        "syllable": "prasować",
+        "weight": 225,
+        "is_word": true,
+        "word_rank": 276,
+        "full_word": "prasować",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "pa",
+    "weight": 943,
+    "is_word": true,
+    "word_rank": 7,
+    "full_word": "pa",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "pa",
+        "weight": 943,
+        "is_word": true,
+        "word_rank": 7,
+        "full_word": "pa",
+        "has_children": false
+      },
+      {
+        "syllable": "pani",
+        "weight": 323,
+        "is_word": true,
+        "word_rank": 178,
+        "full_word": "pani",
+        "has_children": false
+      },
+      {
+        "syllable": "palec",
+        "weight": 126,
+        "is_word": true,
+        "word_rank": 375,
+        "full_word": "palec",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "go",
+    "weight": 912,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "to",
+        "weight": 584,
+        "is_word": false,
+        "word_rank": null,
+        "full_word": "",
+        "has_children": true,
+        "children": [
+          {
+            "syllable": "gotowy",
+            "weight": 354,
+            "is_word": true,
+            "word_rank": 147,
+            "full_word": "gotowy",
+            "has_children": false
+          },
+          {
+            "syllable": "gotować",
+            "weight": 230,
+            "is_word": true,
+            "word_rank": 271,
+            "full_word": "gotować",
+            "has_children": false
+          }
+        ]
+      },
+      {
+        "syllable": "gorący",
+        "weight": 175,
+        "is_word": true,
+        "word_rank": 326,
+        "full_word": "gorący",
+        "has_children": false
+      },
+      {
+        "syllable": "godzina",
+        "weight": 153,
+        "is_word": true,
+        "word_rank": 348,
+        "full_word": "godzina",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "mo",
+    "weight": 881,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "moje",
+        "weight": 482,
+        "is_word": true,
+        "word_rank": 19,
+        "full_word": "moje",
+        "has_children": false
+      },
+      {
+        "syllable": "mokry",
+        "weight": 372,
+        "is_word": true,
+        "word_rank": 129,
+        "full_word": "mokry",
+        "has_children": false
+      },
+      {
+        "syllable": "może",
+        "weight": 27,
+        "is_word": true,
+        "word_rank": 474,
+        "full_word": "może",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "dla",
+    "weight": 815,
+    "is_word": true,
+    "word_rank": 154,
+    "full_word": "dla",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "dla",
+        "weight": 815,
+        "is_word": true,
+        "word_rank": 154,
+        "full_word": "dla",
+        "has_children": false
+      },
+      {
+        "syllable": "dlaczego",
+        "weight": 468,
+        "is_word": true,
+        "word_rank": 33,
+        "full_word": "dlaczego",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "to",
+    "weight": 796,
+    "is_word": true,
+    "word_rank": 12,
+    "full_word": "to",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "to",
+        "weight": 796,
+        "is_word": true,
+        "word_rank": 12,
+        "full_word": "to",
+        "has_children": false
+      },
+      {
+        "syllable": "toaleta",
+        "weight": 307,
+        "is_word": true,
+        "word_rank": 194,
+        "full_word": "toaleta",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "no",
+    "weight": 767,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "nowy",
+        "weight": 362,
+        "is_word": true,
+        "word_rank": 139,
+        "full_word": "nowy",
+        "has_children": false
+      },
+      {
+        "syllable": "nosić",
+        "weight": 272,
+        "is_word": true,
+        "word_rank": 229,
+        "full_word": "nosić",
+        "has_children": false
+      },
+      {
+        "syllable": "noga",
+        "weight": 133,
+        "is_word": true,
+        "word_rank": 368,
+        "full_word": "noga",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "du",
+    "weight": 764,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "dużo",
+        "weight": 388,
+        "is_word": true,
+        "word_rank": 113,
+        "full_word": "dużo",
+        "has_children": false
+      },
+      {
+        "syllable": "duży",
+        "weight": 376,
+        "is_word": true,
+        "word_rank": 125,
+        "full_word": "duży",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "bo",
+    "weight": 747,
+    "is_word": true,
+    "word_rank": 167,
+    "full_word": "bo",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "bo",
+        "weight": 747,
+        "is_word": true,
+        "word_rank": 167,
+        "full_word": "bo",
+        "has_children": false
+      },
+      {
+        "syllable": "boleć",
+        "weight": 413,
+        "is_word": true,
+        "word_rank": 88,
+        "full_word": "boleć",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "je",
+    "weight": 744,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "jechać",
+        "weight": 427,
+        "is_word": true,
+        "word_rank": 74,
+        "full_word": "jechać",
+        "has_children": false
+      },
+      {
+        "syllable": "jedzenie",
+        "weight": 317,
+        "is_word": true,
+        "word_rank": 184,
+        "full_word": "jedzenie",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "ja",
+    "weight": 701,
+    "is_word": true,
+    "word_rank": 10,
+    "full_word": "ja",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "ja",
+        "weight": 701,
+        "is_word": true,
+        "word_rank": 10,
+        "full_word": "ja",
+        "has_children": false
+      },
+      {
+        "syllable": "jasny",
+        "weight": 210,
+        "is_word": true,
+        "word_rank": 291,
+        "full_word": "jasny",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "te",
+    "weight": 700,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "teraz",
+        "weight": 408,
+        "is_word": true,
+        "word_rank": 93,
+        "full_word": "teraz",
+        "has_children": false
+      },
+      {
+        "syllable": "telefon",
+        "weight": 292,
+        "is_word": true,
+        "word_rank": 209,
+        "full_word": "telefon",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "ku",
+    "weight": 690,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "kupić",
+        "weight": 438,
+        "is_word": true,
+        "word_rank": 63,
+        "full_word": "kupić",
+        "has_children": false
+      },
+      {
+        "syllable": "kupować",
+        "weight": 252,
+        "is_word": true,
+        "word_rank": 249,
+        "full_word": "kupować",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "od",
+    "weight": 689,
+    "is_word": true,
+    "word_rank": 153,
+    "full_word": "od",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "od",
+        "weight": 689,
+        "is_word": true,
+        "word_rank": 153,
+        "full_word": "od",
+        "has_children": false
+      },
+      {
+        "syllable": "pow",
+        "weight": 320,
+        "is_word": false,
+        "word_rank": null,
+        "full_word": "",
+        "has_children": true,
+        "children": [
+          {
+            "syllable": "odpowiadać",
+            "weight": 279,
+            "is_word": true,
+            "word_rank": 222,
+            "full_word": "odpowiadać",
+            "has_children": false
+          },
+          {
+            "syllable": "odpowiedź",
+            "weight": 41,
+            "is_word": true,
+            "word_rank": 460,
+            "full_word": "odpowiedź",
+            "has_children": false
+          }
+        ]
+      },
+      {
+        "syllable": "odkurzać",
+        "weight": 15,
+        "is_word": true,
+        "word_rank": 486,
+        "full_word": "odkurzać",
+        "has_children": false
+      },
+      {
+        "syllable": "odpinać",
+        "weight": 6,
+        "is_word": true,
+        "word_rank": 495,
+        "full_word": "odpinać",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "dłu",
+    "weight": 679,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "go",
+        "weight": 478,
+        "is_word": true,
+        "word_rank": 102,
+        "full_word": "długo",
+        "has_children": true,
+        "children": [
+          {
+            "syllable": "go",
+            "weight": 478,
+            "is_word": true,
+            "word_rank": 102,
+            "full_word": "długo",
+            "has_children": false
+          },
+          {
+            "syllable": "długopis",
+            "weight": 79,
+            "is_word": true,
+            "word_rank": 422,
+            "full_word": "długopis",
+            "has_children": false
+          }
+        ]
+      },
+      {
+        "syllable": "długi",
+        "weight": 201,
+        "is_word": true,
+        "word_rank": 300,
+        "full_word": "długi",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "że",
+    "weight": 665,
+    "is_word": true,
+    "word_rank": 168,
+    "full_word": "że",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "że",
+        "weight": 665,
+        "is_word": true,
+        "word_rank": 168,
+        "full_word": "że",
+        "has_children": false
+      },
+      {
+        "syllable": "żeby",
+        "weight": 332,
+        "is_word": true,
+        "word_rank": 169,
+        "full_word": "żeby",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "tu",
+    "weight": 636,
+    "is_word": true,
+    "word_rank": 104,
+    "full_word": "tu",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "tu",
+        "weight": 636,
+        "is_word": true,
+        "word_rank": 104,
+        "full_word": "tu",
+        "has_children": false
+      },
+      {
+        "syllable": "tulić",
+        "weight": 239,
+        "is_word": true,
+        "word_rank": 262,
+        "full_word": "tulić",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "cie",
+    "weight": 620,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "cieszyć się",
+        "weight": 411,
+        "is_word": true,
+        "word_rank": 90,
+        "full_word": "cieszyć się",
+        "has_children": false
+      },
+      {
+        "syllable": "ciemny",
+        "weight": 209,
+        "is_word": true,
+        "word_rank": 292,
+        "full_word": "ciemny",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "in",
+    "weight": 617,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "inny",
+        "weight": 356,
+        "is_word": true,
+        "word_rank": 145,
+        "full_word": "inny",
+        "has_children": false
+      },
+      {
+        "syllable": "interesować",
+        "weight": 261,
+        "is_word": true,
+        "word_rank": 240,
+        "full_word": "interesować",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "krót",
+    "weight": 598,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "krótko",
+        "weight": 398,
+        "is_word": true,
+        "word_rank": 103,
+        "full_word": "krótko",
+        "has_children": false
+      },
+      {
+        "syllable": "krótki",
+        "weight": 200,
+        "is_word": true,
+        "word_rank": 301,
+        "full_word": "krótki",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "wol",
+    "weight": 568,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "wolno",
+        "weight": 383,
+        "is_word": true,
+        "word_rank": 118,
+        "full_word": "wolno",
+        "has_children": false
+      },
+      {
+        "syllable": "wolny",
+        "weight": 185,
+        "is_word": true,
+        "word_rank": 316,
+        "full_word": "wolny",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "ba",
+    "weight": 562,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "bawić się",
+        "weight": 449,
+        "is_word": true,
+        "word_rank": 52,
+        "full_word": "bawić się",
+        "has_children": false
+      },
+      {
+        "syllable": "banan",
+        "weight": 113,
+        "is_word": true,
+        "word_rank": 388,
+        "full_word": "banan",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "śro",
+    "weight": 537,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "środek",
+        "weight": 391,
+        "is_word": true,
+        "word_rank": 110,
+        "full_word": "środek",
+        "has_children": false
+      },
+      {
+        "syllable": "środa",
+        "weight": 146,
+        "is_word": true,
+        "word_rank": 355,
+        "full_word": "środa",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "wo",
+    "weight": 535,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "woda",
+        "weight": 318,
+        "is_word": true,
+        "word_rank": 183,
+        "full_word": "woda",
+        "has_children": false
+      },
+      {
+        "syllable": "woleć",
+        "weight": 217,
+        "is_word": true,
+        "word_rank": 284,
+        "full_word": "woleć",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "zi",
+    "weight": 514,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "zimny",
+        "weight": 373,
+        "is_word": true,
+        "word_rank": 128,
+        "full_word": "zimny",
+        "has_children": false
+      },
+      {
+        "syllable": "zima",
+        "weight": 141,
+        "is_word": true,
+        "word_rank": 360,
+        "full_word": "zima",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "tak",
+    "weight": 500,
+    "is_word": true,
+    "word_rank": 1,
+    "full_word": "tak",
+    "has_children": false
+  },
+  {
+    "syllable": "cześć",
+    "weight": 498,
+    "is_word": true,
+    "word_rank": 3,
+    "full_word": "cześć",
+    "has_children": false
+  },
+  {
+    "syllable": "dziękuję",
+    "weight": 497,
+    "is_word": true,
+    "word_rank": 4,
+    "full_word": "dziękuję",
+    "has_children": false
+  },
+  {
+    "syllable": "przepraszam",
+    "weight": 495,
+    "is_word": true,
+    "word_rank": 6,
+    "full_word": "przepraszam",
+    "has_children": false
+  },
+  {
+    "syllable": "dzień dobry",
+    "weight": 492,
+    "is_word": true,
+    "word_rank": 9,
+    "full_word": "dzień dobry",
+    "has_children": false
+  },
+  {
+    "syllable": "ty",
+    "weight": 490,
+    "is_word": true,
+    "word_rank": 11,
+    "full_word": "ty",
+    "has_children": false
+  },
+  {
+    "syllable": "pła",
+    "weight": 489,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "płacić",
+        "weight": 253,
+        "is_word": true,
+        "word_rank": 248,
+        "full_word": "płacić",
+        "has_children": false
+      },
+      {
+        "syllable": "płakać",
+        "weight": 236,
+        "is_word": true,
+        "word_rank": 265,
+        "full_word": "płakać",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "on",
+    "weight": 488,
+    "is_word": true,
+    "word_rank": 13,
+    "full_word": "on",
+    "has_children": false
+  },
+  {
+    "syllable": "le",
+    "weight": 488,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "leżeć",
+        "weight": 424,
+        "is_word": true,
+        "word_rank": 77,
+        "full_word": "leżeć",
+        "has_children": false
+      },
+      {
+        "syllable": "lekarz",
+        "weight": 64,
+        "is_word": true,
+        "word_rank": 437,
+        "full_word": "lekarz",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "my",
+    "weight": 486,
+    "is_word": true,
+    "word_rank": 15,
+    "full_word": "my",
+    "has_children": false
+  },
+  {
+    "syllable": "twoje",
+    "weight": 481,
+    "is_word": true,
+    "word_rank": 20,
+    "full_word": "twoje",
+    "has_children": false
+  },
+  {
+    "syllable": "się",
+    "weight": 480,
+    "is_word": true,
+    "word_rank": 21,
+    "full_word": "się",
+    "has_children": false
+  },
+  {
+    "syllable": "swoje",
+    "weight": 479,
+    "is_word": true,
+    "word_rank": 22,
+    "full_word": "swoje",
+    "has_children": false
+  },
+  {
+    "syllable": "coś",
+    "weight": 478,
+    "is_word": true,
+    "word_rank": 23,
+    "full_word": "coś",
+    "has_children": false
+  },
+  {
+    "syllable": "ktoś",
+    "weight": 477,
+    "is_word": true,
+    "word_rank": 24,
+    "full_word": "ktoś",
+    "has_children": false
+  },
+  {
+    "syllable": "ry",
+    "weight": 477,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "rysować",
+        "weight": 419,
+        "is_word": true,
+        "word_rank": 82,
+        "full_word": "rysować",
+        "has_children": false
+      },
+      {
+        "syllable": "ryba",
+        "weight": 58,
+        "is_word": true,
+        "word_rank": 443,
+        "full_word": "ryba",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "wszyscy",
+    "weight": 476,
+    "is_word": true,
+    "word_rank": 25,
+    "full_word": "wszyscy",
+    "has_children": false
+  },
+  {
+    "syllable": "wszystko",
+    "weight": 475,
+    "is_word": true,
+    "word_rank": 26,
+    "full_word": "wszystko",
+    "has_children": false
+  },
+  {
+    "syllable": "nic",
+    "weight": 474,
+    "is_word": true,
+    "word_rank": 27,
+    "full_word": "nic",
+    "has_children": false
+  },
+  {
+    "syllable": "nikt",
+    "weight": 473,
+    "is_word": true,
+    "word_rank": 28,
+    "full_word": "nikt",
+    "has_children": false
+  },
+  {
+    "syllable": "co",
+    "weight": 472,
+    "is_word": true,
+    "word_rank": 29,
+    "full_word": "co",
+    "has_children": false
+  },
+  {
+    "syllable": "kto",
+    "weight": 471,
+    "is_word": true,
+    "word_rank": 30,
+    "full_word": "kto",
+    "has_children": false
+  },
+  {
+    "syllable": "gdzie",
+    "weight": 470,
+    "is_word": true,
+    "word_rank": 31,
+    "full_word": "gdzie",
+    "has_children": false
+  },
+  {
+    "syllable": "kiedy",
+    "weight": 469,
+    "is_word": true,
+    "word_rank": 32,
+    "full_word": "kiedy",
+    "has_children": false
+  },
+  {
+    "syllable": "jak",
+    "weight": 467,
+    "is_word": true,
+    "word_rank": 34,
+    "full_word": "jak",
+    "has_children": false
+  },
+  {
+    "syllable": "który",
+    "weight": 466,
+    "is_word": true,
+    "word_rank": 35,
+    "full_word": "który",
+    "has_children": false
+  },
+  {
+    "syllable": "chcieć",
+    "weight": 464,
+    "is_word": true,
+    "word_rank": 37,
+    "full_word": "chcieć",
+    "has_children": false
+  },
+  {
+    "syllable": "dać",
+    "weight": 463,
+    "is_word": true,
+    "word_rank": 38,
+    "full_word": "dać",
+    "has_children": false
+  },
+  {
+    "syllable": "mieć",
+    "weight": 462,
+    "is_word": true,
+    "word_rank": 39,
+    "full_word": "mieć",
+    "has_children": false
+  },
+  {
+    "syllable": "być",
+    "weight": 461,
+    "is_word": true,
+    "word_rank": 40,
+    "full_word": "być",
+    "has_children": false
+  },
+  {
+    "syllable": "iść",
+    "weight": 460,
+    "is_word": true,
+    "word_rank": 41,
+    "full_word": "iść",
+    "has_children": false
+  },
+  {
+    "syllable": "lubić",
+    "weight": 459,
+    "is_word": true,
+    "word_rank": 42,
+    "full_word": "lubić",
+    "has_children": false
+  },
+  {
+    "syllable": "jeść",
+    "weight": 457,
+    "is_word": true,
+    "word_rank": 44,
+    "full_word": "jeść",
+    "has_children": false
+  },
+  {
+    "syllable": "pić",
+    "weight": 456,
+    "is_word": true,
+    "word_rank": 45,
+    "full_word": "pić",
+    "has_children": false
+  },
+  {
+    "syllable": "spać",
+    "weight": 455,
+    "is_word": true,
+    "word_rank": 46,
+    "full_word": "spać",
+    "has_children": false
+  },
+  {
+    "syllable": "widzieć",
+    "weight": 454,
+    "is_word": true,
+    "word_rank": 47,
+    "full_word": "widzieć",
+    "has_children": false
+  },
+  {
+    "syllable": "słyszeć",
+    "weight": 453,
+    "is_word": true,
+    "word_rank": 48,
+    "full_word": "słyszeć",
+    "has_children": false
+  },
+  {
+    "syllable": "mówić",
+    "weight": 452,
+    "is_word": true,
+    "word_rank": 49,
+    "full_word": "mówić",
+    "has_children": false
+  },
+  {
+    "syllable": "myć",
+    "weight": 448,
+    "is_word": true,
+    "word_rank": 53,
+    "full_word": "myć",
+    "has_children": false
+  },
+  {
+    "syllable": "otwierać",
+    "weight": 447,
+    "is_word": true,
+    "word_rank": 54,
+    "full_word": "otwierać",
+    "has_children": false
+  },
+  {
+    "syllable": "szukać",
+    "weight": 445,
+    "is_word": true,
+    "word_rank": 56,
+    "full_word": "szukać",
+    "has_children": false
+  },
+  {
+    "syllable": "znaleźć",
+    "weight": 444,
+    "is_word": true,
+    "word_rank": 57,
+    "full_word": "znaleźć",
+    "has_children": false
+  },
+  {
+    "syllable": "przyjść",
+    "weight": 443,
+    "is_word": true,
+    "word_rank": 58,
+    "full_word": "przyjść",
+    "has_children": false
+  },
+  {
+    "syllable": "wyjść",
+    "weight": 442,
+    "is_word": true,
+    "word_rank": 59,
+    "full_word": "wyjść",
+    "has_children": false
+  },
+  {
+    "syllable": "brać",
+    "weight": 441,
+    "is_word": true,
+    "word_rank": 60,
+    "full_word": "brać",
+    "has_children": false
+  },
+  {
+    "syllable": "wziąć",
+    "weight": 440,
+    "is_word": true,
+    "word_rank": 61,
+    "full_word": "wziąć",
+    "has_children": false
+  },
+  {
+    "syllable": "pod",
+    "weight": 438,
+    "is_word": true,
+    "word_rank": 158,
+    "full_word": "pod",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "pod",
+        "weight": 438,
+        "is_word": true,
+        "word_rank": 158,
+        "full_word": "pod",
+        "has_children": false
+      },
+      {
+        "syllable": "podłoga",
+        "weight": 95,
+        "is_word": true,
+        "word_rank": 406,
+        "full_word": "podłoga",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "musieć",
+    "weight": 437,
+    "is_word": true,
+    "word_rank": 64,
+    "full_word": "musieć",
+    "has_children": false
+  },
+  {
+    "syllable": "móc",
+    "weight": 436,
+    "is_word": true,
+    "word_rank": 65,
+    "full_word": "móc",
+    "has_children": false
+  },
+  {
+    "syllable": "umieć",
+    "weight": 435,
+    "is_word": true,
+    "word_rank": 66,
+    "full_word": "umieć",
+    "has_children": false
+  },
+  {
+    "syllable": "wiedzieć",
+    "weight": 434,
+    "is_word": true,
+    "word_rank": 67,
+    "full_word": "wiedzieć",
+    "has_children": false
+  },
+  {
+    "syllable": "pamiętać",
+    "weight": 432,
+    "is_word": true,
+    "word_rank": 69,
+    "full_word": "pamiętać",
+    "has_children": false
+  },
+  {
+    "syllable": "patrzeć",
+    "weight": 430,
+    "is_word": true,
+    "word_rank": 71,
+    "full_word": "patrzeć",
+    "has_children": false
+  },
+  {
+    "syllable": "skończyć",
+    "weight": 429,
+    "is_word": true,
+    "word_rank": 72,
+    "full_word": "skończyć",
+    "has_children": false
+  },
+  {
+    "syllable": "krzy",
+    "weight": 429,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "krzyczeć",
+        "weight": 235,
+        "is_word": true,
+        "word_rank": 266,
+        "full_word": "krzyczeć",
+        "has_children": false
+      },
+      {
+        "syllable": "krzywy",
+        "weight": 194,
+        "is_word": true,
+        "word_rank": 307,
+        "full_word": "krzywy",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "stać",
+    "weight": 426,
+    "is_word": true,
+    "word_rank": 75,
+    "full_word": "stać",
+    "has_children": false
+  },
+  {
+    "syllable": "wie",
+    "weight": 426,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "wierzyć",
+        "weight": 265,
+        "is_word": true,
+        "word_rank": 236,
+        "full_word": "wierzyć",
+        "has_children": false
+      },
+      {
+        "syllable": "wieczór",
+        "weight": 150,
+        "is_word": true,
+        "word_rank": 351,
+        "full_word": "wieczór",
+        "has_children": false
+      },
+      {
+        "syllable": "wieszać",
+        "weight": 11,
+        "is_word": true,
+        "word_rank": 490,
+        "full_word": "wieszać",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "siedzieć",
+    "weight": 425,
+    "is_word": true,
+    "word_rank": 76,
+    "full_word": "siedzieć",
+    "has_children": false
+  },
+  {
+    "syllable": "pisać",
+    "weight": 421,
+    "is_word": true,
+    "word_rank": 80,
+    "full_word": "pisać",
+    "has_children": false
+  },
+  {
+    "syllable": "grać",
+    "weight": 417,
+    "is_word": true,
+    "word_rank": 84,
+    "full_word": "grać",
+    "has_children": false
+  },
+  {
+    "syllable": "biegać",
+    "weight": 416,
+    "is_word": true,
+    "word_rank": 85,
+    "full_word": "biegać",
+    "has_children": false
+  },
+  {
+    "syllable": "skakać",
+    "weight": 415,
+    "is_word": true,
+    "word_rank": 86,
+    "full_word": "skakać",
+    "has_children": false
+  },
+  {
+    "syllable": "pływać",
+    "weight": 414,
+    "is_word": true,
+    "word_rank": 87,
+    "full_word": "pływać",
+    "has_children": false
+  },
+  {
+    "syllable": "bać się",
+    "weight": 412,
+    "is_word": true,
+    "word_rank": 89,
+    "full_word": "bać się",
+    "has_children": false
+  },
+  {
+    "syllable": "jeszcze",
+    "weight": 410,
+    "is_word": true,
+    "word_rank": 91,
+    "full_word": "jeszcze",
+    "has_children": false
+  },
+  {
+    "syllable": "już",
+    "weight": 409,
+    "is_word": true,
+    "word_rank": 92,
+    "full_word": "już",
+    "has_children": false
+  },
+  {
+    "syllable": "wczoraj",
+    "weight": 405,
+    "is_word": true,
+    "word_rank": 96,
+    "full_word": "wczoraj",
+    "has_children": false
+  },
+  {
+    "syllable": "jutro",
+    "weight": 404,
+    "is_word": true,
+    "word_rank": 97,
+    "full_word": "jutro",
+    "has_children": false
+  },
+  {
+    "syllable": "dzisiaj",
+    "weight": 403,
+    "is_word": true,
+    "word_rank": 98,
+    "full_word": "dzisiaj",
+    "has_children": false
+  },
+  {
+    "syllable": "zawsze",
+    "weight": 402,
+    "is_word": true,
+    "word_rank": 99,
+    "full_word": "zawsze",
+    "has_children": false
+  },
+  {
+    "syllable": "nigdy",
+    "weight": 401,
+    "is_word": true,
+    "word_rank": 100,
+    "full_word": "nigdy",
+    "has_children": false
+  },
+  {
+    "syllable": "czasami",
+    "weight": 400,
+    "is_word": true,
+    "word_rank": 101,
+    "full_word": "czasami",
+    "has_children": false
+  },
+  {
+    "syllable": "sa",
+    "weight": 400,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "samochód",
+        "weight": 301,
+        "is_word": true,
+        "word_rank": 200,
+        "full_word": "samochód",
+        "has_children": false
+      },
+      {
+        "syllable": "salon",
+        "weight": 99,
+        "is_word": true,
+        "word_rank": 402,
+        "full_word": "salon",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "tam",
+    "weight": 396,
+    "is_word": true,
+    "word_rank": 105,
+    "full_word": "tam",
+    "has_children": false
+  },
+  {
+    "syllable": "blisko",
+    "weight": 395,
+    "is_word": true,
+    "word_rank": 106,
+    "full_word": "blisko",
+    "has_children": false
+  },
+  {
+    "syllable": "daleko",
+    "weight": 394,
+    "is_word": true,
+    "word_rank": 107,
+    "full_word": "daleko",
+    "has_children": false
+  },
+  {
+    "syllable": "góra",
+    "weight": 393,
+    "is_word": true,
+    "word_rank": 108,
+    "full_word": "góra",
+    "has_children": false
+  },
+  {
+    "syllable": "dół",
+    "weight": 392,
+    "is_word": true,
+    "word_rank": 109,
+    "full_word": "dół",
+    "has_children": false
+  },
+  {
+    "syllable": "dobrze",
+    "weight": 390,
+    "is_word": true,
+    "word_rank": 111,
+    "full_word": "dobrze",
+    "has_children": false
+  },
+  {
+    "syllable": "źle",
+    "weight": 389,
+    "is_word": true,
+    "word_rank": 112,
+    "full_word": "źle",
+    "has_children": false
+  },
+  {
+    "syllable": "więcej",
+    "weight": 386,
+    "is_word": true,
+    "word_rank": 115,
+    "full_word": "więcej",
+    "has_children": false
+  },
+  {
+    "syllable": "mniej",
+    "weight": 385,
+    "is_word": true,
+    "word_rank": 116,
+    "full_word": "mniej",
+    "has_children": false
+  },
+  {
+    "syllable": "szybko",
+    "weight": 384,
+    "is_word": true,
+    "word_rank": 117,
+    "full_word": "szybko",
+    "has_children": false
+  },
+  {
+    "syllable": "su",
+    "weight": 383,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "suchy",
+        "weight": 371,
+        "is_word": true,
+        "word_rank": 130,
+        "full_word": "suchy",
+        "has_children": false
+      },
+      {
+        "syllable": "suszyć",
+        "weight": 12,
+        "is_word": true,
+        "word_rank": 489,
+        "full_word": "suszyć",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "głośno",
+    "weight": 382,
+    "is_word": true,
+    "word_rank": 119,
+    "full_word": "głośno",
+    "has_children": false
+  },
+  {
+    "syllable": "cicho",
+    "weight": 381,
+    "is_word": true,
+    "word_rank": 120,
+    "full_word": "cicho",
+    "has_children": false
+  },
+  {
+    "syllable": "fajnie",
+    "weight": 380,
+    "is_word": true,
+    "word_rank": 121,
+    "full_word": "fajnie",
+    "has_children": false
+  },
+  {
+    "syllable": "ładnie",
+    "weight": 379,
+    "is_word": true,
+    "word_rank": 122,
+    "full_word": "ładnie",
+    "has_children": false
+  },
+  {
+    "syllable": "zły",
+    "weight": 377,
+    "is_word": true,
+    "word_rank": 124,
+    "full_word": "zły",
+    "has_children": false
+  },
+  {
+    "syllable": "ciepły",
+    "weight": 374,
+    "is_word": true,
+    "word_rank": 127,
+    "full_word": "ciepły",
+    "has_children": false
+  },
+  {
+    "syllable": "brudny",
+    "weight": 370,
+    "is_word": true,
+    "word_rank": 131,
+    "full_word": "brudny",
+    "has_children": false
+  },
+  {
+    "syllable": "głodny",
+    "weight": 368,
+    "is_word": true,
+    "word_rank": 133,
+    "full_word": "głodny",
+    "has_children": false
+  },
+  {
+    "syllable": "spragniony",
+    "weight": 367,
+    "is_word": true,
+    "word_rank": 134,
+    "full_word": "spragniony",
+    "has_children": false
+  },
+  {
+    "syllable": "zmęczony",
+    "weight": 366,
+    "is_word": true,
+    "word_rank": 135,
+    "full_word": "zmęczony",
+    "has_children": false
+  },
+  {
+    "syllable": "chory",
+    "weight": 365,
+    "is_word": true,
+    "word_rank": 136,
+    "full_word": "chory",
+    "has_children": false
+  },
+  {
+    "syllable": "smutny",
+    "weight": 364,
+    "is_word": true,
+    "word_rank": 137,
+    "full_word": "smutny",
+    "has_children": false
+  },
+  {
+    "syllable": "wesoły",
+    "weight": 363,
+    "is_word": true,
+    "word_rank": 138,
+    "full_word": "wesoły",
+    "has_children": false
+  },
+  {
+    "syllable": "stary",
+    "weight": 361,
+    "is_word": true,
+    "word_rank": 140,
+    "full_word": "stary",
+    "has_children": false
+  },
+  {
+    "syllable": "łatwy",
+    "weight": 360,
+    "is_word": true,
+    "word_rank": 141,
+    "full_word": "łatwy",
+    "has_children": false
+  },
+  {
+    "syllable": "trudny",
+    "weight": 359,
+    "is_word": true,
+    "word_rank": 142,
+    "full_word": "trudny",
+    "has_children": false
+  },
+  {
+    "syllable": "fajny",
+    "weight": 358,
+    "is_word": true,
+    "word_rank": 143,
+    "full_word": "fajny",
+    "has_children": false
+  },
+  {
+    "syllable": "sam",
+    "weight": 355,
+    "is_word": true,
+    "word_rank": 146,
+    "full_word": "sam",
+    "has_children": false
+  },
+  {
+    "syllable": "w",
+    "weight": 353,
+    "is_word": true,
+    "word_rank": 148,
+    "full_word": "w",
+    "has_children": false
+  },
+  {
+    "syllable": "z",
+    "weight": 351,
+    "is_word": true,
+    "word_rank": 150,
+    "full_word": "z",
+    "has_children": false
+  },
+  {
+    "syllable": "bez",
+    "weight": 346,
+    "is_word": true,
+    "word_rank": 155,
+    "full_word": "bez",
+    "has_children": false
+  },
+  {
+    "syllable": "przez",
+    "weight": 345,
+    "is_word": true,
+    "word_rank": 156,
+    "full_word": "przez",
+    "has_children": false
+  },
+  {
+    "syllable": "nad",
+    "weight": 342,
+    "is_word": true,
+    "word_rank": 159,
+    "full_word": "nad",
+    "has_children": false
+  },
+  {
+    "syllable": "i",
+    "weight": 339,
+    "is_word": true,
+    "word_rank": 162,
+    "full_word": "i",
+    "has_children": false
+  },
+  {
+    "syllable": "lub",
+    "weight": 336,
+    "is_word": true,
+    "word_rank": 165,
+    "full_word": "lub",
+    "has_children": false
+  },
+  {
+    "syllable": "albo",
+    "weight": 335,
+    "is_word": true,
+    "word_rank": 166,
+    "full_word": "albo",
+    "has_children": false
+  },
+  {
+    "syllable": "mi",
+    "weight": 333,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "miły",
+        "weight": 181,
+        "is_word": true,
+        "word_rank": 320,
+        "full_word": "miły",
+        "has_children": false
+      },
+      {
+        "syllable": "minuta",
+        "weight": 152,
+        "is_word": true,
+        "word_rank": 349,
+        "full_word": "minuta",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "dom",
+    "weight": 328,
+    "is_word": true,
+    "word_rank": 173,
+    "full_word": "dom",
+    "has_children": false
+  },
+  {
+    "syllable": "szkoła",
+    "weight": 327,
+    "is_word": true,
+    "word_rank": 174,
+    "full_word": "szkoła",
+    "has_children": false
+  },
+  {
+    "syllable": "przedszkole",
+    "weight": 326,
+    "is_word": true,
+    "word_rank": 175,
+    "full_word": "przedszkole",
+    "has_children": false
+  },
+  {
+    "syllable": "pan",
+    "weight": 324,
+    "is_word": true,
+    "word_rank": 177,
+    "full_word": "pan",
+    "has_children": false
+  },
+  {
+    "syllable": "dziecko",
+    "weight": 322,
+    "is_word": true,
+    "word_rank": 179,
+    "full_word": "dziecko",
+    "has_children": false
+  },
+  {
+    "syllable": "py",
+    "weight": 322,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "pytać",
+        "weight": 280,
+        "is_word": true,
+        "word_rank": 221,
+        "full_word": "pytać",
+        "has_children": false
+      },
+      {
+        "syllable": "pytanie",
+        "weight": 42,
+        "is_word": true,
+        "word_rank": 459,
+        "full_word": "pytanie",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "chłopak",
+    "weight": 321,
+    "is_word": true,
+    "word_rank": 180,
+    "full_word": "chłopak",
+    "has_children": false
+  },
+  {
+    "syllable": "dziewczyna",
+    "weight": 320,
+    "is_word": true,
+    "word_rank": 181,
+    "full_word": "dziewczyna",
+    "has_children": false
+  },
+  {
+    "syllable": "obiad",
+    "weight": 316,
+    "is_word": true,
+    "word_rank": 185,
+    "full_word": "obiad",
+    "has_children": false
+  },
+  {
+    "syllable": "śniadanie",
+    "weight": 315,
+    "is_word": true,
+    "word_rank": 186,
+    "full_word": "śniadanie",
+    "has_children": false
+  },
+  {
+    "syllable": "chleb",
+    "weight": 313,
+    "is_word": true,
+    "word_rank": 188,
+    "full_word": "chleb",
+    "has_children": false
+  },
+  {
+    "syllable": "picie",
+    "weight": 312,
+    "is_word": true,
+    "word_rank": 189,
+    "full_word": "picie",
+    "has_children": false
+  },
+  {
+    "syllable": "sok",
+    "weight": 311,
+    "is_word": true,
+    "word_rank": 190,
+    "full_word": "sok",
+    "has_children": false
+  },
+  {
+    "syllable": "mleko",
+    "weight": 310,
+    "is_word": true,
+    "word_rank": 191,
+    "full_word": "mleko",
+    "has_children": false
+  },
+  {
+    "syllable": "jabłko",
+    "weight": 309,
+    "is_word": true,
+    "word_rank": 192,
+    "full_word": "jabłko",
+    "has_children": false
+  },
+  {
+    "syllable": "bu",
+    "weight": 309,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "budować",
+        "weight": 224,
+        "is_word": true,
+        "word_rank": 277,
+        "full_word": "budować",
+        "has_children": false
+      },
+      {
+        "syllable": "buty",
+        "weight": 85,
+        "is_word": true,
+        "word_rank": 416,
+        "full_word": "buty",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "ciastko",
+    "weight": 308,
+    "is_word": true,
+    "word_rank": 193,
+    "full_word": "ciastko",
+    "has_children": false
+  },
+  {
+    "syllable": "łazienka",
+    "weight": 306,
+    "is_word": true,
+    "word_rank": 195,
+    "full_word": "łazienka",
+    "has_children": false
+  },
+  {
+    "syllable": "łóżko",
+    "weight": 304,
+    "is_word": true,
+    "word_rank": 197,
+    "full_word": "łóżko",
+    "has_children": false
+  },
+  {
+    "syllable": "stół",
+    "weight": 303,
+    "is_word": true,
+    "word_rank": 198,
+    "full_word": "stół",
+    "has_children": false
+  },
+  {
+    "syllable": "krzesło",
+    "weight": 302,
+    "is_word": true,
+    "word_rank": 199,
+    "full_word": "krzesło",
+    "has_children": false
+  },
+  {
+    "syllable": "gra",
+    "weight": 298,
+    "is_word": true,
+    "word_rank": 203,
+    "full_word": "gra",
+    "has_children": false
+  },
+  {
+    "syllable": "bajka",
+    "weight": 297,
+    "is_word": true,
+    "word_rank": 204,
+    "full_word": "bajka",
+    "has_children": false
+  },
+  {
+    "syllable": "piłka",
+    "weight": 296,
+    "is_word": true,
+    "word_rank": 205,
+    "full_word": "piłka",
+    "has_children": false
+  },
+  {
+    "syllable": "lalka",
+    "weight": 295,
+    "is_word": true,
+    "word_rank": 206,
+    "full_word": "lalka",
+    "has_children": false
+  },
+  {
+    "syllable": "klocki",
+    "weight": 294,
+    "is_word": true,
+    "word_rank": 207,
+    "full_word": "klocki",
+    "has_children": false
+  },
+  {
+    "syllable": "komputer",
+    "weight": 291,
+    "is_word": true,
+    "word_rank": 210,
+    "full_word": "komputer",
+    "has_children": false
+  },
+  {
+    "syllable": "przy",
+    "weight": 291,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "przypomnieć",
+        "weight": 219,
+        "is_word": true,
+        "word_rank": 282,
+        "full_word": "przypomnieć",
+        "has_children": false
+      },
+      {
+        "syllable": "przyjaciel",
+        "weight": 72,
+        "is_word": true,
+        "word_rank": 429,
+        "full_word": "przyjaciel",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "pies",
+    "weight": 290,
+    "is_word": true,
+    "word_rank": 211,
+    "full_word": "pies",
+    "has_children": false
+  },
+  {
+    "syllable": "kot",
+    "weight": 289,
+    "is_word": true,
+    "word_rank": 212,
+    "full_word": "kot",
+    "has_children": false
+  },
+  {
+    "syllable": "dzień",
+    "weight": 288,
+    "is_word": true,
+    "word_rank": 213,
+    "full_word": "dzień",
+    "has_children": false
+  },
+  {
+    "syllable": "kro",
+    "weight": 288,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "kroić",
+        "weight": 228,
+        "is_word": true,
+        "word_rank": 273,
+        "full_word": "kroić",
+        "has_children": false
+      },
+      {
+        "syllable": "krowa",
+        "weight": 60,
+        "is_word": true,
+        "word_rank": 441,
+        "full_word": "krowa",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "noc",
+    "weight": 287,
+    "is_word": true,
+    "word_rank": 214,
+    "full_word": "noc",
+    "has_children": false
+  },
+  {
+    "syllable": "czas",
+    "weight": 286,
+    "is_word": true,
+    "word_rank": 215,
+    "full_word": "czas",
+    "has_children": false
+  },
+  {
+    "syllable": "ca",
+    "weight": 286,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "całować",
+        "weight": 238,
+        "is_word": true,
+        "word_rank": 263,
+        "full_word": "całować",
+        "has_children": false
+      },
+      {
+        "syllable": "całość",
+        "weight": 48,
+        "is_word": true,
+        "word_rank": 453,
+        "full_word": "całość",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "rzecz",
+    "weight": 285,
+    "is_word": true,
+    "word_rank": 216,
+    "full_word": "rzecz",
+    "has_children": false
+  },
+  {
+    "syllable": "sprawa",
+    "weight": 284,
+    "is_word": true,
+    "word_rank": 217,
+    "full_word": "sprawa",
+    "has_children": false
+  },
+  {
+    "syllable": "miejsce",
+    "weight": 283,
+    "is_word": true,
+    "word_rank": 218,
+    "full_word": "miejsce",
+    "has_children": false
+  },
+  {
+    "syllable": "zmieniać",
+    "weight": 278,
+    "is_word": true,
+    "word_rank": 223,
+    "full_word": "zmieniać",
+    "has_children": false
+  },
+  {
+    "syllable": "czuć",
+    "weight": 277,
+    "is_word": true,
+    "word_rank": 224,
+    "full_word": "czuć",
+    "has_children": false
+  },
+  {
+    "syllable": "wracać",
+    "weight": 275,
+    "is_word": true,
+    "word_rank": 226,
+    "full_word": "wracać",
+    "has_children": false
+  },
+  {
+    "syllable": "spotkać",
+    "weight": 274,
+    "is_word": true,
+    "word_rank": 227,
+    "full_word": "spotkać",
+    "has_children": false
+  },
+  {
+    "syllable": "trzymać",
+    "weight": 273,
+    "is_word": true,
+    "word_rank": 228,
+    "full_word": "trzymać",
+    "has_children": false
+  },
+  {
+    "syllable": "martwić się",
+    "weight": 262,
+    "is_word": true,
+    "word_rank": 239,
+    "full_word": "martwić się",
+    "has_children": false
+  },
+  {
+    "syllable": "próbować",
+    "weight": 260,
+    "is_word": true,
+    "word_rank": 241,
+    "full_word": "próbować",
+    "has_children": false
+  },
+  {
+    "syllable": "sprawdzić",
+    "weight": 259,
+    "is_word": true,
+    "word_rank": 242,
+    "full_word": "sprawdzić",
+    "has_children": false
+  },
+  {
+    "syllable": "zdarzyć się",
+    "weight": 257,
+    "is_word": true,
+    "word_rank": 244,
+    "full_word": "zdarzyć się",
+    "has_children": false
+  },
+  {
+    "syllable": "praw",
+    "weight": 256,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "prawdziwy",
+        "weight": 212,
+        "is_word": true,
+        "word_rank": 289,
+        "full_word": "prawdziwy",
+        "has_children": false
+      },
+      {
+        "syllable": "prawda",
+        "weight": 44,
+        "is_word": true,
+        "word_rank": 457,
+        "full_word": "prawda",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "brakować",
+    "weight": 255,
+    "is_word": true,
+    "word_rank": 246,
+    "full_word": "brakować",
+    "has_children": false
+  },
+  {
+    "syllable": "kosztować",
+    "weight": 254,
+    "is_word": true,
+    "word_rank": 247,
+    "full_word": "kosztować",
+    "has_children": false
+  },
+  {
+    "syllable": "sprzedawać",
+    "weight": 251,
+    "is_word": true,
+    "word_rank": 250,
+    "full_word": "sprzedawać",
+    "has_children": false
+  },
+  {
+    "syllable": "przynieść",
+    "weight": 249,
+    "is_word": true,
+    "word_rank": 252,
+    "full_word": "przynieść",
+    "has_children": false
+  },
+  {
+    "syllable": "zanieść",
+    "weight": 248,
+    "is_word": true,
+    "word_rank": 253,
+    "full_word": "zanieść",
+    "has_children": false
+  },
+  {
+    "syllable": "wisieć",
+    "weight": 245,
+    "is_word": true,
+    "word_rank": 256,
+    "full_word": "wisieć",
+    "has_children": false
+  },
+  {
+    "syllable": "rzucić",
+    "weight": 243,
+    "is_word": true,
+    "word_rank": 258,
+    "full_word": "rzucić",
+    "has_children": false
+  },
+  {
+    "syllable": "złapać",
+    "weight": 242,
+    "is_word": true,
+    "word_rank": 259,
+    "full_word": "złapać",
+    "has_children": false
+  },
+  {
+    "syllable": "śmiać się",
+    "weight": 237,
+    "is_word": true,
+    "word_rank": 264,
+    "full_word": "śmiać się",
+    "has_children": false
+  },
+  {
+    "syllable": "szeptać",
+    "weight": 234,
+    "is_word": true,
+    "word_rank": 267,
+    "full_word": "szeptać",
+    "has_children": false
+  },
+  {
+    "syllable": "śpiewać",
+    "weight": 233,
+    "is_word": true,
+    "word_rank": 268,
+    "full_word": "śpiewać",
+    "has_children": false
+  },
+  {
+    "syllable": "tańczyć",
+    "weight": 232,
+    "is_word": true,
+    "word_rank": 269,
+    "full_word": "tańczyć",
+    "has_children": false
+  },
+  {
+    "syllable": "piec",
+    "weight": 229,
+    "is_word": true,
+    "word_rank": 272,
+    "full_word": "piec",
+    "has_children": false
+  },
+  {
+    "syllable": "sprzątać",
+    "weight": 227,
+    "is_word": true,
+    "word_rank": 274,
+    "full_word": "sprzątać",
+    "has_children": false
+  },
+  {
+    "syllable": "prać",
+    "weight": 226,
+    "is_word": true,
+    "word_rank": 275,
+    "full_word": "prać",
+    "has_children": false
+  },
+  {
+    "syllable": "psuć",
+    "weight": 222,
+    "is_word": true,
+    "word_rank": 279,
+    "full_word": "psuć",
+    "has_children": false
+  },
+  {
+    "syllable": "zgubić",
+    "weight": 221,
+    "is_word": true,
+    "word_rank": 280,
+    "full_word": "zgubić",
+    "has_children": false
+  },
+  {
+    "syllable": "potrzebować",
+    "weight": 216,
+    "is_word": true,
+    "word_rank": 285,
+    "full_word": "potrzebować",
+    "has_children": false
+  },
+  {
+    "syllable": "ważny",
+    "weight": 215,
+    "is_word": true,
+    "word_rank": 286,
+    "full_word": "ważny",
+    "has_children": false
+  },
+  {
+    "syllable": "możliwy",
+    "weight": 214,
+    "is_word": true,
+    "word_rank": 287,
+    "full_word": "możliwy",
+    "has_children": false
+  },
+  {
+    "syllable": "ple",
+    "weight": 214,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "plecy",
+        "weight": 125,
+        "is_word": true,
+        "word_rank": 376,
+        "full_word": "plecy",
+        "has_children": false
+      },
+      {
+        "syllable": "plecak",
+        "weight": 89,
+        "is_word": true,
+        "word_rank": 412,
+        "full_word": "plecak",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "sztuczny",
+    "weight": 211,
+    "is_word": true,
+    "word_rank": 290,
+    "full_word": "sztuczny",
+    "has_children": false
+  },
+  {
+    "syllable": "czarny",
+    "weight": 207,
+    "is_word": true,
+    "word_rank": 294,
+    "full_word": "czarny",
+    "has_children": false
+  },
+  {
+    "syllable": "biały",
+    "weight": 206,
+    "is_word": true,
+    "word_rank": 295,
+    "full_word": "biały",
+    "has_children": false
+  },
+  {
+    "syllable": "czerwony",
+    "weight": 205,
+    "is_word": true,
+    "word_rank": 296,
+    "full_word": "czerwony",
+    "has_children": false
+  },
+  {
+    "syllable": "niebieski",
+    "weight": 204,
+    "is_word": true,
+    "word_rank": 297,
+    "full_word": "niebieski",
+    "has_children": false
+  },
+  {
+    "syllable": "zielony",
+    "weight": 203,
+    "is_word": true,
+    "word_rank": 298,
+    "full_word": "zielony",
+    "has_children": false
+  },
+  {
+    "syllable": "żółty",
+    "weight": 202,
+    "is_word": true,
+    "word_rank": 299,
+    "full_word": "żółty",
+    "has_children": false
+  },
+  {
+    "syllable": "niski",
+    "weight": 198,
+    "is_word": true,
+    "word_rank": 303,
+    "full_word": "niski",
+    "has_children": false
+  },
+  {
+    "syllable": "gruby",
+    "weight": 197,
+    "is_word": true,
+    "word_rank": 304,
+    "full_word": "gruby",
+    "has_children": false
+  },
+  {
+    "syllable": "chudy",
+    "weight": 196,
+    "is_word": true,
+    "word_rank": 305,
+    "full_word": "chudy",
+    "has_children": false
+  },
+  {
+    "syllable": "pełny",
+    "weight": 193,
+    "is_word": true,
+    "word_rank": 308,
+    "full_word": "pełny",
+    "has_children": false
+  },
+  {
+    "syllable": "pusty",
+    "weight": 192,
+    "is_word": true,
+    "word_rank": 309,
+    "full_word": "pusty",
+    "has_children": false
+  },
+  {
+    "syllable": "otwarty",
+    "weight": 191,
+    "is_word": true,
+    "word_rank": 310,
+    "full_word": "otwarty",
+    "has_children": false
+  },
+  {
+    "syllable": "zamknięty",
+    "weight": 190,
+    "is_word": true,
+    "word_rank": 311,
+    "full_word": "zamknięty",
+    "has_children": false
+  },
+  {
+    "syllable": "drogi",
+    "weight": 188,
+    "is_word": true,
+    "word_rank": 313,
+    "full_word": "drogi",
+    "has_children": false
+  },
+  {
+    "syllable": "bezpieczny",
+    "weight": 187,
+    "is_word": true,
+    "word_rank": 314,
+    "full_word": "bezpieczny",
+    "has_children": false
+  },
+  {
+    "syllable": "ra",
+    "weight": 185,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "rano",
+        "weight": 151,
+        "is_word": true,
+        "word_rank": 350,
+        "full_word": "rano",
+        "has_children": false
+      },
+      {
+        "syllable": "razem",
+        "weight": 34,
+        "is_word": true,
+        "word_rank": 467,
+        "full_word": "razem",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "spokojny",
+    "weight": 183,
+    "is_word": true,
+    "word_rank": 318,
+    "full_word": "spokojny",
+    "has_children": false
+  },
+  {
+    "syllable": "nerwowy",
+    "weight": 182,
+    "is_word": true,
+    "word_rank": 319,
+    "full_word": "nerwowy",
+    "has_children": false
+  },
+  {
+    "syllable": "mądry",
+    "weight": 179,
+    "is_word": true,
+    "word_rank": 322,
+    "full_word": "mądry",
+    "has_children": false
+  },
+  {
+    "syllable": "głupi",
+    "weight": 178,
+    "is_word": true,
+    "word_rank": 323,
+    "full_word": "głupi",
+    "has_children": false
+  },
+  {
+    "syllable": "piękny",
+    "weight": 177,
+    "is_word": true,
+    "word_rank": 324,
+    "full_word": "piękny",
+    "has_children": false
+  },
+  {
+    "syllable": "brzydki",
+    "weight": 176,
+    "is_word": true,
+    "word_rank": 325,
+    "full_word": "brzydki",
+    "has_children": false
+  },
+  {
+    "syllable": "smaczny",
+    "weight": 174,
+    "is_word": true,
+    "word_rank": 327,
+    "full_word": "smaczny",
+    "has_children": false
+  },
+  {
+    "syllable": "słodki",
+    "weight": 173,
+    "is_word": true,
+    "word_rank": 328,
+    "full_word": "słodki",
+    "has_children": false
+  },
+  {
+    "syllable": "kwaśny",
+    "weight": 172,
+    "is_word": true,
+    "word_rank": 329,
+    "full_word": "kwaśny",
+    "has_children": false
+  },
+  {
+    "syllable": "słony",
+    "weight": 171,
+    "is_word": true,
+    "word_rank": 330,
+    "full_word": "słony",
+    "has_children": false
+  },
+  {
+    "syllable": "miękki",
+    "weight": 169,
+    "is_word": true,
+    "word_rank": 332,
+    "full_word": "miękki",
+    "has_children": false
+  },
+  {
+    "syllable": "twardy",
+    "weight": 168,
+    "is_word": true,
+    "word_rank": 333,
+    "full_word": "twardy",
+    "has_children": false
+  },
+  {
+    "syllable": "lekki",
+    "weight": 167,
+    "is_word": true,
+    "word_rank": 334,
+    "full_word": "lekki",
+    "has_children": false
+  },
+  {
+    "syllable": "ciężki",
+    "weight": 166,
+    "is_word": true,
+    "word_rank": 335,
+    "full_word": "ciężki",
+    "has_children": false
+  },
+  {
+    "syllable": "silny",
+    "weight": 165,
+    "is_word": true,
+    "word_rank": 336,
+    "full_word": "silny",
+    "has_children": false
+  },
+  {
+    "syllable": "ze",
+    "weight": 165,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "zegarek",
+        "weight": 88,
+        "is_word": true,
+        "word_rank": 413,
+        "full_word": "zegarek",
+        "has_children": false
+      },
+      {
+        "syllable": "zeszyt",
+        "weight": 77,
+        "is_word": true,
+        "word_rank": 424,
+        "full_word": "zeszyt",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "słaby",
+    "weight": 164,
+    "is_word": true,
+    "word_rank": 337,
+    "full_word": "słaby",
+    "has_children": false
+  },
+  {
+    "syllable": "zdrowy",
+    "weight": 163,
+    "is_word": true,
+    "word_rank": 338,
+    "full_word": "zdrowy",
+    "has_children": false
+  },
+  {
+    "syllable": "szczęśliwy",
+    "weight": 162,
+    "is_word": true,
+    "word_rank": 339,
+    "full_word": "szczęśliwy",
+    "has_children": false
+  },
+  {
+    "syllable": "pierwszy",
+    "weight": 161,
+    "is_word": true,
+    "word_rank": 340,
+    "full_word": "pierwszy",
+    "has_children": false
+  },
+  {
+    "syllable": "drugi",
+    "weight": 160,
+    "is_word": true,
+    "word_rank": 341,
+    "full_word": "drugi",
+    "has_children": false
+  },
+  {
+    "syllable": "poprzedni",
+    "weight": 157,
+    "is_word": true,
+    "word_rank": 344,
+    "full_word": "poprzedni",
+    "has_children": false
+  },
+  {
+    "syllable": "tydzień",
+    "weight": 156,
+    "is_word": true,
+    "word_rank": 345,
+    "full_word": "tydzień",
+    "has_children": false
+  },
+  {
+    "syllable": "mię",
+    "weight": 156,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "mięso",
+        "weight": 119,
+        "is_word": true,
+        "word_rank": 382,
+        "full_word": "mięso",
+        "has_children": false
+      },
+      {
+        "syllable": "między",
+        "weight": 37,
+        "is_word": true,
+        "word_rank": 464,
+        "full_word": "między",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "miesiąc",
+    "weight": 155,
+    "is_word": true,
+    "word_rank": 346,
+    "full_word": "miesiąc",
+    "has_children": false
+  },
+  {
+    "syllable": "rok",
+    "weight": 154,
+    "is_word": true,
+    "word_rank": 347,
+    "full_word": "rok",
+    "has_children": false
+  },
+  {
+    "syllable": "poniedziałek",
+    "weight": 148,
+    "is_word": true,
+    "word_rank": 353,
+    "full_word": "poniedziałek",
+    "has_children": false
+  },
+  {
+    "syllable": "wtorek",
+    "weight": 147,
+    "is_word": true,
+    "word_rank": 354,
+    "full_word": "wtorek",
+    "has_children": false
+  },
+  {
+    "syllable": "czwartek",
+    "weight": 145,
+    "is_word": true,
+    "word_rank": 356,
+    "full_word": "czwartek",
+    "has_children": false
+  },
+  {
+    "syllable": "piątek",
+    "weight": 144,
+    "is_word": true,
+    "word_rank": 357,
+    "full_word": "piątek",
+    "has_children": false
+  },
+  {
+    "syllable": "sobota",
+    "weight": 143,
+    "is_word": true,
+    "word_rank": 358,
+    "full_word": "sobota",
+    "has_children": false
+  },
+  {
+    "syllable": "niedziela",
+    "weight": 142,
+    "is_word": true,
+    "word_rank": 359,
+    "full_word": "niedziela",
+    "has_children": false
+  },
+  {
+    "syllable": "lato",
+    "weight": 140,
+    "is_word": true,
+    "word_rank": 361,
+    "full_word": "lato",
+    "has_children": false
+  },
+  {
+    "syllable": "wiosna",
+    "weight": 139,
+    "is_word": true,
+    "word_rank": 362,
+    "full_word": "wiosna",
+    "has_children": false
+  },
+  {
+    "syllable": "jesień",
+    "weight": 138,
+    "is_word": true,
+    "word_rank": 363,
+    "full_word": "jesień",
+    "has_children": false
+  },
+  {
+    "syllable": "święto",
+    "weight": 137,
+    "is_word": true,
+    "word_rank": 364,
+    "full_word": "święto",
+    "has_children": false
+  },
+  {
+    "syllable": "głowa",
+    "weight": 135,
+    "is_word": true,
+    "word_rank": 366,
+    "full_word": "głowa",
+    "has_children": false
+  },
+  {
+    "syllable": "ręka",
+    "weight": 134,
+    "is_word": true,
+    "word_rank": 367,
+    "full_word": "ręka",
+    "has_children": false
+  },
+  {
+    "syllable": "brzuch",
+    "weight": 132,
+    "is_word": true,
+    "word_rank": 369,
+    "full_word": "brzuch",
+    "has_children": false
+  },
+  {
+    "syllable": "nos",
+    "weight": 129,
+    "is_word": true,
+    "word_rank": 372,
+    "full_word": "nos",
+    "has_children": false
+  },
+  {
+    "syllable": "buzia",
+    "weight": 128,
+    "is_word": true,
+    "word_rank": 373,
+    "full_word": "buzia",
+    "has_children": false
+  },
+  {
+    "syllable": "włosy",
+    "weight": 127,
+    "is_word": true,
+    "word_rank": 374,
+    "full_word": "włosy",
+    "has_children": false
+  },
+  {
+    "syllable": "krew",
+    "weight": 124,
+    "is_word": true,
+    "word_rank": 377,
+    "full_word": "krew",
+    "has_children": false
+  },
+  {
+    "syllable": "serce",
+    "weight": 123,
+    "is_word": true,
+    "word_rank": 378,
+    "full_word": "serce",
+    "has_children": false
+  },
+  {
+    "syllable": "herbata",
+    "weight": 122,
+    "is_word": true,
+    "word_rank": 379,
+    "full_word": "herbata",
+    "has_children": false
+  },
+  {
+    "syllable": "kawa",
+    "weight": 121,
+    "is_word": true,
+    "word_rank": 380,
+    "full_word": "kawa",
+    "has_children": false
+  },
+  {
+    "syllable": "zupa",
+    "weight": 120,
+    "is_word": true,
+    "word_rank": 381,
+    "full_word": "zupa",
+    "has_children": false
+  },
+  {
+    "syllable": "ziemniaki",
+    "weight": 118,
+    "is_word": true,
+    "word_rank": 383,
+    "full_word": "ziemniaki",
+    "has_children": false
+  },
+  {
+    "syllable": "ryż",
+    "weight": 117,
+    "is_word": true,
+    "word_rank": 384,
+    "full_word": "ryż",
+    "has_children": false
+  },
+  {
+    "syllable": "warzywo",
+    "weight": 114,
+    "is_word": true,
+    "word_rank": 387,
+    "full_word": "warzywo",
+    "has_children": false
+  },
+  {
+    "syllable": "lody",
+    "weight": 112,
+    "is_word": true,
+    "word_rank": 389,
+    "full_word": "lody",
+    "has_children": false
+  },
+  {
+    "syllable": "cukier",
+    "weight": 110,
+    "is_word": true,
+    "word_rank": 391,
+    "full_word": "cukier",
+    "has_children": false
+  },
+  {
+    "syllable": "sól",
+    "weight": 109,
+    "is_word": true,
+    "word_rank": 392,
+    "full_word": "sól",
+    "has_children": false
+  },
+  {
+    "syllable": "sklep",
+    "weight": 108,
+    "is_word": true,
+    "word_rank": 393,
+    "full_word": "sklep",
+    "has_children": false
+  },
+  {
+    "syllable": "miasto",
+    "weight": 106,
+    "is_word": true,
+    "word_rank": 395,
+    "full_word": "miasto",
+    "has_children": false
+  },
+  {
+    "syllable": "wieś",
+    "weight": 105,
+    "is_word": true,
+    "word_rank": 396,
+    "full_word": "wieś",
+    "has_children": false
+  },
+  {
+    "syllable": "park",
+    "weight": 103,
+    "is_word": true,
+    "word_rank": 398,
+    "full_word": "park",
+    "has_children": false
+  },
+  {
+    "syllable": "plac zabaw",
+    "weight": 102,
+    "is_word": true,
+    "word_rank": 399,
+    "full_word": "plac zabaw",
+    "has_children": false
+  },
+  {
+    "syllable": "las",
+    "weight": 101,
+    "is_word": true,
+    "word_rank": 400,
+    "full_word": "las",
+    "has_children": false
+  },
+  {
+    "syllable": "kuchnia",
+    "weight": 100,
+    "is_word": true,
+    "word_rank": 401,
+    "full_word": "kuchnia",
+    "has_children": false
+  },
+  {
+    "syllable": "drzwi",
+    "weight": 98,
+    "is_word": true,
+    "word_rank": 403,
+    "full_word": "drzwi",
+    "has_children": false
+  },
+  {
+    "syllable": "ściana",
+    "weight": 96,
+    "is_word": true,
+    "word_rank": 405,
+    "full_word": "ściana",
+    "has_children": false
+  },
+  {
+    "syllable": "schody",
+    "weight": 94,
+    "is_word": true,
+    "word_rank": 407,
+    "full_word": "schody",
+    "has_children": false
+  },
+  {
+    "syllable": "winda",
+    "weight": 93,
+    "is_word": true,
+    "word_rank": 408,
+    "full_word": "winda",
+    "has_children": false
+  },
+  {
+    "syllable": "klucz",
+    "weight": 92,
+    "is_word": true,
+    "word_rank": 409,
+    "full_word": "klucz",
+    "has_children": false
+  },
+  {
+    "syllable": "pieniądze",
+    "weight": 91,
+    "is_word": true,
+    "word_rank": 410,
+    "full_word": "pieniądze",
+    "has_children": false
+  },
+  {
+    "syllable": "torba",
+    "weight": 90,
+    "is_word": true,
+    "word_rank": 411,
+    "full_word": "torba",
+    "has_children": false
+  },
+  {
+    "syllable": "spodnie",
+    "weight": 84,
+    "is_word": true,
+    "word_rank": 417,
+    "full_word": "spodnie",
+    "has_children": false
+  },
+  {
+    "syllable": "czapka",
+    "weight": 82,
+    "is_word": true,
+    "word_rank": 419,
+    "full_word": "czapka",
+    "has_children": false
+  },
+  {
+    "syllable": "kurtka",
+    "weight": 81,
+    "is_word": true,
+    "word_rank": 420,
+    "full_word": "kurtka",
+    "has_children": false
+  },
+  {
+    "syllable": "papier",
+    "weight": 80,
+    "is_word": true,
+    "word_rank": 421,
+    "full_word": "papier",
+    "has_children": false
+  },
+  {
+    "syllable": "książka",
+    "weight": 78,
+    "is_word": true,
+    "word_rank": 423,
+    "full_word": "książka",
+    "has_children": false
+  },
+  {
+    "syllable": "prezent",
+    "weight": 76,
+    "is_word": true,
+    "word_rank": 425,
+    "full_word": "prezent",
+    "has_children": false
+  },
+  {
+    "syllable": "kobieta",
+    "weight": 75,
+    "is_word": true,
+    "word_rank": 426,
+    "full_word": "kobieta",
+    "has_children": false
+  },
+  {
+    "syllable": "mężczyzna",
+    "weight": 74,
+    "is_word": true,
+    "word_rank": 427,
+    "full_word": "mężczyzna",
+    "has_children": false
+  },
+  {
+    "syllable": "człowiek",
+    "weight": 73,
+    "is_word": true,
+    "word_rank": 428,
+    "full_word": "człowiek",
+    "has_children": false
+  },
+  {
+    "syllable": "babcia",
+    "weight": 70,
+    "is_word": true,
+    "word_rank": 431,
+    "full_word": "babcia",
+    "has_children": false
+  },
+  {
+    "syllable": "dziadek",
+    "weight": 69,
+    "is_word": true,
+    "word_rank": 432,
+    "full_word": "dziadek",
+    "has_children": false
+  },
+  {
+    "syllable": "siostra",
+    "weight": 68,
+    "is_word": true,
+    "word_rank": 433,
+    "full_word": "siostra",
+    "has_children": false
+  },
+  {
+    "syllable": "brat",
+    "weight": 67,
+    "is_word": true,
+    "word_rank": 434,
+    "full_word": "brat",
+    "has_children": false
+  },
+  {
+    "syllable": "ciocia",
+    "weight": 66,
+    "is_word": true,
+    "word_rank": 435,
+    "full_word": "ciocia",
+    "has_children": false
+  },
+  {
+    "syllable": "wujek",
+    "weight": 65,
+    "is_word": true,
+    "word_rank": 436,
+    "full_word": "wujek",
+    "has_children": false
+  },
+  {
+    "syllable": "ptak",
+    "weight": 62,
+    "is_word": true,
+    "word_rank": 439,
+    "full_word": "ptak",
+    "has_children": false
+  },
+  {
+    "syllable": "koń",
+    "weight": 61,
+    "is_word": true,
+    "word_rank": 440,
+    "full_word": "koń",
+    "has_children": false
+  },
+  {
+    "syllable": "świnia",
+    "weight": 59,
+    "is_word": true,
+    "word_rank": 442,
+    "full_word": "świnia",
+    "has_children": false
+  },
+  {
+    "syllable": "mysz",
+    "weight": 57,
+    "is_word": true,
+    "word_rank": 444,
+    "full_word": "mysz",
+    "has_children": false
+  },
+  {
+    "syllable": "imię",
+    "weight": 56,
+    "is_word": true,
+    "word_rank": 445,
+    "full_word": "imię",
+    "has_children": false
+  },
+  {
+    "syllable": "wiek",
+    "weight": 54,
+    "is_word": true,
+    "word_rank": 447,
+    "full_word": "wiek",
+    "has_children": false
+  },
+  {
+    "syllable": "numer",
+    "weight": 52,
+    "is_word": true,
+    "word_rank": 449,
+    "full_word": "numer",
+    "has_children": false
+  },
+  {
+    "syllable": "kształt",
+    "weight": 50,
+    "is_word": true,
+    "word_rank": 451,
+    "full_word": "kształt",
+    "has_children": false
+  },
+  {
+    "syllable": "część",
+    "weight": 49,
+    "is_word": true,
+    "word_rank": 452,
+    "full_word": "część",
+    "has_children": false
+  },
+  {
+    "syllable": "koniec",
+    "weight": 46,
+    "is_word": true,
+    "word_rank": 455,
+    "full_word": "koniec",
+    "has_children": false
+  },
+  {
+    "syllable": "błąd",
+    "weight": 45,
+    "is_word": true,
+    "word_rank": 456,
+    "full_word": "błąd",
+    "has_children": false
+  },
+  {
+    "syllable": "kłamstwo",
+    "weight": 43,
+    "is_word": true,
+    "word_rank": 458,
+    "full_word": "kłamstwo",
+    "has_children": false
+  },
+  {
+    "syllable": "zdjęcie",
+    "weight": 40,
+    "is_word": true,
+    "word_rank": 461,
+    "full_word": "zdjęcie",
+    "has_children": false
+  },
+  {
+    "syllable": "muzyka",
+    "weight": 39,
+    "is_word": true,
+    "word_rank": 462,
+    "full_word": "muzyka",
+    "has_children": false
+  },
+  {
+    "syllable": "sma",
+    "weight": 39,
+    "is_word": false,
+    "word_rank": null,
+    "full_word": "",
+    "has_children": true,
+    "children": [
+      {
+        "syllable": "smarować",
+        "weight": 21,
+        "is_word": true,
+        "word_rank": 480,
+        "full_word": "smarować",
+        "has_children": false
+      },
+      {
+        "syllable": "smażyć",
+        "weight": 18,
+        "is_word": true,
+        "word_rank": 483,
+        "full_word": "smażyć",
+        "has_children": false
+      }
+    ]
+  },
+  {
+    "syllable": "film",
+    "weight": 38,
+    "is_word": true,
+    "word_rank": 463,
+    "full_word": "film",
+    "has_children": false
+  },
+  {
+    "syllable": "przed",
+    "weight": 35,
+    "is_word": true,
+    "word_rank": 466,
+    "full_word": "przed",
+    "has_children": false
+  },
+  {
+    "syllable": "tylko",
+    "weight": 32,
+    "is_word": true,
+    "word_rank": 469,
+    "full_word": "tylko",
+    "has_children": false
+  },
+  {
+    "syllable": "też",
+    "weight": 30,
+    "is_word": true,
+    "word_rank": 471,
+    "full_word": "też",
+    "has_children": false
+  },
+  {
+    "syllable": "chyba",
+    "weight": 29,
+    "is_word": true,
+    "word_rank": 472,
+    "full_word": "chyba",
+    "has_children": false
+  },
+  {
+    "syllable": "pewnie",
+    "weight": 28,
+    "is_word": true,
+    "word_rank": 473,
+    "full_word": "pewnie",
+    "has_children": false
+  },
+  {
+    "syllable": "właśnie",
+    "weight": 25,
+    "is_word": true,
+    "word_rank": 476,
+    "full_word": "właśnie",
+    "has_children": false
+  },
+  {
+    "syllable": "śnić",
+    "weight": 24,
+    "is_word": true,
+    "word_rank": 477,
+    "full_word": "śnić",
+    "has_children": false
+  },
+  {
+    "syllable": "planować",
+    "weight": 22,
+    "is_word": true,
+    "word_rank": 479,
+    "full_word": "planować",
+    "has_children": false
+  },
+  {
+    "syllable": "trzeć",
+    "weight": 20,
+    "is_word": true,
+    "word_rank": 481,
+    "full_word": "trzeć",
+    "has_children": false
+  },
+  {
+    "syllable": "mieszać",
+    "weight": 19,
+    "is_word": true,
+    "word_rank": 482,
+    "full_word": "mieszać",
+    "has_children": false
+  },
+  {
+    "syllable": "lać",
+    "weight": 17,
+    "is_word": true,
+    "word_rank": 484,
+    "full_word": "lać",
+    "has_children": false
+  },
+  {
+    "syllable": "sypać",
+    "weight": 16,
+    "is_word": true,
+    "word_rank": 485,
+    "full_word": "sypać",
+    "has_children": false
+  },
+  {
+    "syllable": "zamiatać",
+    "weight": 14,
+    "is_word": true,
+    "word_rank": 487,
+    "full_word": "zamiatać",
+    "has_children": false
+  },
+  {
+    "syllable": "wycierać",
+    "weight": 13,
+    "is_word": true,
+    "word_rank": 488,
+    "full_word": "wycierać",
+    "has_children": false
+  },
+  {
+    "syllable": "składać",
+    "weight": 10,
+    "is_word": true,
+    "word_rank": 491,
+    "full_word": "składać",
+    "has_children": false
+  },
+  {
+    "syllable": "ubierać",
+    "weight": 9,
+    "is_word": true,
+    "word_rank": 492,
+    "full_word": "ubierać",
+    "has_children": false
+  },
+  {
+    "syllable": "rozbierać",
+    "weight": 8,
+    "is_word": true,
+    "word_rank": 493,
+    "full_word": "rozbierać",
+    "has_children": false
+  },
+  {
+    "syllable": "wiązać",
+    "weight": 5,
+    "is_word": true,
+    "word_rank": 496,
+    "full_word": "wiązać",
+    "has_children": false
+  },
+  {
+    "syllable": "ciąć",
+    "weight": 3,
+    "is_word": true,
+    "word_rank": 498,
+    "full_word": "ciąć",
+    "has_children": false
+  },
+  {
+    "syllable": "kleić",
+    "weight": 2,
+    "is_word": true,
+    "word_rank": 499,
+    "full_word": "kleić",
+    "has_children": false
+  },
+  {
+    "syllable": "liczyć",
+    "weight": 1,
+    "is_word": true,
+    "word_rank": 500,
+    "full_word": "liczyć",
+    "has_children": false
+  }
+]

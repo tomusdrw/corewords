@@ -1,0 +1,10 @@
+syllable,weight,is_word,word_rank,full_word,has_children
+uczyć się,422,True,79,uczyć się,False
+używać,271,True,230,używać,False
+udać się,256,True,245,udać się,False
+upaść,244,True,257,upaść,False
+uderzyć,240,True,261,uderzyć,False
+urodziny,136,True,365,urodziny,False
+ucho,130,True,371,ucho,False
+ulica,107,True,394,ulica,False
+ubranie,86,True,415,ubranie,False

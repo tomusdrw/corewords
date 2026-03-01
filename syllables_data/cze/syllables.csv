@@ -1,0 +1,5 @@
+syllable,weight,is_word,word_rank,full_word,has_children
+czemu,465,True,36,czemu,False
+czekać,450,True,51,czekać,False
+czekolada,111,True,390,czekolada,False
+czesać,4,True,497,czesać,False

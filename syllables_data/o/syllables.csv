@@ -1,0 +1,14 @@
+syllable,weight,is_word,word_rank,full_word,has_children
+ona,487,True,14,ona,False
+oni,484,True,17,oni,False
+one,483,True,18,one,False
+oglądać,418,True,83,oglądać,False
+ostry,170,True,331,ostry,False
+ostatni,159,True,342,ostatni,False
+oko,131,True,370,oko,False
+owoc,115,True,386,owoc,False
+ogród,104,True,397,ogród,False
+okno,97,True,404,okno,False
+okulary,87,True,414,okulary,False
+obok,36,True,465,obok,False
+osobno,33,True,468,osobno,False

@@ -1,0 +1,4 @@
+syllable,weight,is_word,word_rank,full_word,has_children
+ale,337,True,164,ale,False
+autobus,300,True,201,autobus,False
+adres,53,True,448,adres,False

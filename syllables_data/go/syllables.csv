@@ -1,0 +1,4 @@
+syllable,weight,is_word,word_rank,full_word,has_children
+to,584,False,,,True
+gorący,175,True,326,gorący,False
+godzina,153,True,348,godzina,False
