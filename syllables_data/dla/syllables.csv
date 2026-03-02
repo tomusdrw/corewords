@@ -1,2 +1,2 @@
-syllable,weight,is_word,word_rank,full_word,has_children
-dlaczego,468,True,33,dlaczego,False
+syllable,weight,is_word,word_rank,full_word,emoji,has_children
+dlaczego,468,True,33,dlaczego,🤔,False

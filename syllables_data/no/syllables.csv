@@ -1,4 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,has_children
-nowy,362,True,139,nowy,False
-nosić,272,True,229,nosić,False
-noga,133,True,368,noga,False
+syllable,weight,is_word,word_rank,full_word,emoji,has_children
+nowy,362,True,139,nowy,🆕,False
+nosić,272,True,229,nosić,🎒,False
+noga,133,True,368,noga,🦵,False

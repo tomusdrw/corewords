@@ -1,3 +1,3 @@
-syllable,weight,is_word,word_rank,full_word,has_children
-nigdy,401,True,100,nigdy,False
-niski,198,True,303,niski,False
+syllable,weight,is_word,word_rank,full_word,emoji,has_children
+nigdy,401,True,100,nigdy,🚫,False
+niski,198,True,303,niski,📐,False

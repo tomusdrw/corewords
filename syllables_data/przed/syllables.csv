@@ -1,2 +1,2 @@
-syllable,weight,is_word,word_rank,full_word,has_children
-przedszkole,326,True,175,przedszkole,False
+syllable,weight,is_word,word_rank,full_word,emoji,has_children
+przedszkole,326,True,175,przedszkole,🧒,False

@@ -1,3 +1,14 @@
+#!/usr/bin/env python3
+"""
+Build JSON tree from CSV syllables data.
+
+This script reads the hierarchical CSV files from syllables_data/ directory
+and builds a single JSON file (app/data.json) for the UI.
+
+Pipeline:
+  core_words_pl.csv  →  generate_syllables_tree.py  →  syllables_data/  →  this script  →  app/data.json
+"""
+
 import csv
 import json
 import os
@@ -22,6 +33,7 @@ def build_json_tree(root_dir):
                     "is_word": row["is_word"].lower() == "true",
                     "word_rank": int(row["word_rank"]) if row["word_rank"] else None,
                     "full_word": row["full_word"],
+                    "emoji": row.get("emoji", ""),
                     "has_children": row["has_children"].lower() == "true",
                 }
 
@@ -38,13 +50,15 @@ def build_json_tree(root_dir):
                         )
                         if children:
                             # If this item is also a word, add it as the first selectable option
+                            # so users can select "ja" directly OR navigate to "jasny"
                             if item["is_word"]:
                                 word_option = {
-                                    "syllable": item["syllable"],
+                                    "syllable": item["full_word"],
                                     "weight": item["weight"],
                                     "is_word": True,
                                     "word_rank": item["word_rank"],
                                     "full_word": item["full_word"],
+                                    "emoji": item["emoji"],
                                     "has_children": False,
                                 }
                                 children.insert(0, word_option)

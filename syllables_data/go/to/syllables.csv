@@ -1,3 +1,3 @@
-syllable,weight,is_word,word_rank,full_word,has_children
-gotowy,354,True,147,gotowy,False
-gotować,230,True,271,gotować,False
+syllable,weight,is_word,word_rank,full_word,emoji,has_children
+gotowy,354,True,147,gotowy,✅,False
+gotować,230,True,271,gotować,👨‍🍳,False

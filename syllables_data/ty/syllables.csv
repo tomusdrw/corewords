@@ -1,2 +1,2 @@
-syllable,weight,is_word,word_rank,full_word,has_children
-tydzień,156,True,345,tydzień,False
+syllable,weight,is_word,word_rank,full_word,emoji,has_children
+tydzień,156,True,345,tydzień,📅,False

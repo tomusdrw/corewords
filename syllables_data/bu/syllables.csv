@@ -1,4 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,has_children
-budować,224,True,277,budować,False
-buzia,128,True,373,buzia,False
-buty,85,True,416,buty,False
+syllable,weight,is_word,word_rank,full_word,emoji,has_children
+budować,224,True,277,budować,🏗️,False
+buzia,128,True,373,buzia,👄,False
+buty,85,True,416,buty,👟,False

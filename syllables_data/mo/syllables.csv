@@ -1,4 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,has_children
-moje,482,True,19,moje,False
-mokry,372,True,129,mokry,False
-może,27,True,474,może,False
+syllable,weight,is_word,word_rank,full_word,emoji,has_children
+moje,482,True,19,moje,🙋,False
+mokry,372,True,129,mokry,💧,False
+może,27,True,474,może,🤷,False

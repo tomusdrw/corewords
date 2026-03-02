@@ -1,8 +1,8 @@
-syllable,weight,is_word,word_rank,full_word,has_children
-nazywać,270,True,231,nazywać,False
-naprawiać,223,True,278,naprawiać,False
-następny,158,True,343,następny,False
-nauczyciel,63,True,438,nauczyciel,False
-nazwisko,55,True,446,nazwisko,False
-nawet,31,True,470,nawet,False
-naprawdę,26,True,475,naprawdę,False
+syllable,weight,is_word,word_rank,full_word,emoji,has_children
+nazywać,270,True,231,nazywać,📛,False
+naprawiać,223,True,278,naprawiać,🔧,False
+następny,158,True,343,następny,⏭️,False
+nauczyciel,63,True,438,nauczyciel,👨‍🏫,False
+nazwisko,55,True,446,nazwisko,📋,False
+nawet,31,True,470,nawet,❗,False
+naprawdę,26,True,475,naprawdę,💯,False

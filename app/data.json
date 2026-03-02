@@ -5,6 +5,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -13,6 +14,7 @@
         "is_word": true,
         "word_rank": 50,
         "full_word": "pomóc",
+        "emoji": "🆘",
         "has_children": false
       },
       {
@@ -21,6 +23,7 @@
         "is_word": true,
         "word_rank": 94,
         "full_word": "potem",
+        "emoji": "⏭️",
         "has_children": false
       },
       {
@@ -29,6 +32,7 @@
         "is_word": true,
         "word_rank": 196,
         "full_word": "pokój",
+        "emoji": "🛋️",
         "has_children": false
       },
       {
@@ -37,6 +41,7 @@
         "is_word": true,
         "word_rank": 220,
         "full_word": "pomysł",
+        "emoji": "💡",
         "has_children": false
       },
       {
@@ -45,6 +50,7 @@
         "is_word": true,
         "word_rank": 232,
         "full_word": "pozwolić",
+        "emoji": "✅",
         "has_children": false
       },
       {
@@ -53,6 +59,7 @@
         "is_word": true,
         "word_rank": 235,
         "full_word": "pokazać",
+        "emoji": "👆",
         "has_children": false
       },
       {
@@ -61,6 +68,7 @@
         "is_word": true,
         "word_rank": 251,
         "full_word": "podać",
+        "emoji": "🤲",
         "has_children": false
       },
       {
@@ -69,6 +77,7 @@
         "is_word": true,
         "word_rank": 254,
         "full_word": "położyć",
+        "emoji": "🛏️",
         "has_children": false
       },
       {
@@ -77,6 +86,7 @@
         "is_word": true,
         "word_rank": 255,
         "full_word": "postawić",
+        "emoji": "🪑",
         "has_children": false
       },
       {
@@ -85,6 +95,7 @@
         "is_word": true,
         "word_rank": 285,
         "full_word": "potrzebować",
+        "emoji": "❗",
         "has_children": false
       },
       {
@@ -93,6 +104,7 @@
         "is_word": true,
         "word_rank": 344,
         "full_word": "poprzedni",
+        "emoji": "⏮️",
         "has_children": false
       },
       {
@@ -101,6 +113,7 @@
         "is_word": true,
         "word_rank": 352,
         "full_word": "południe",
+        "emoji": "☀️",
         "has_children": false
       },
       {
@@ -109,6 +122,7 @@
         "is_word": true,
         "word_rank": 353,
         "full_word": "poniedziałek",
+        "emoji": "📅",
         "has_children": false
       },
       {
@@ -117,6 +131,7 @@
         "is_word": true,
         "word_rank": 454,
         "full_word": "początek",
+        "emoji": "▶️",
         "has_children": false
       }
     ]
@@ -127,6 +142,7 @@
     "is_word": true,
     "word_rank": 157,
     "full_word": "za",
+    "emoji": "🔙",
     "has_children": true,
     "children": [
       {
@@ -135,6 +151,7 @@
         "is_word": true,
         "word_rank": 157,
         "full_word": "za",
+        "emoji": "🔙",
         "has_children": false
       },
       {
@@ -143,6 +160,7 @@
         "is_word": true,
         "word_rank": 55,
         "full_word": "zamykać",
+        "emoji": "📁",
         "has_children": false
       },
       {
@@ -151,6 +169,7 @@
         "is_word": true,
         "word_rank": 73,
         "full_word": "zacząć",
+        "emoji": "▶️",
         "has_children": false
       },
       {
@@ -159,6 +178,7 @@
         "is_word": true,
         "word_rank": 95,
         "full_word": "zaraz",
+        "emoji": "⏳",
         "has_children": false
       },
       {
@@ -167,6 +187,7 @@
         "is_word": true,
         "word_rank": 99,
         "full_word": "zawsze",
+        "emoji": "♾️",
         "has_children": false
       },
       {
@@ -175,6 +196,7 @@
         "is_word": true,
         "word_rank": 202,
         "full_word": "zabawa",
+        "emoji": "🎉",
         "has_children": false
       },
       {
@@ -183,6 +205,7 @@
         "is_word": true,
         "word_rank": 253,
         "full_word": "zanieść",
+        "emoji": "📦",
         "has_children": false
       },
       {
@@ -191,6 +214,7 @@
         "is_word": true,
         "word_rank": 281,
         "full_word": "zapomnieć",
+        "emoji": "🧠❌",
         "has_children": false
       },
       {
@@ -199,6 +223,7 @@
         "is_word": true,
         "word_rank": 311,
         "full_word": "zamknięty",
+        "emoji": "📁",
         "has_children": false
       },
       {
@@ -207,6 +232,7 @@
         "is_word": true,
         "word_rank": 317,
         "full_word": "zajęty",
+        "emoji": "📅",
         "has_children": false
       },
       {
@@ -215,6 +241,7 @@
         "is_word": true,
         "word_rank": 487,
         "full_word": "zamiatać",
+        "emoji": "🧹",
         "has_children": false
       },
       {
@@ -223,6 +250,7 @@
         "is_word": true,
         "word_rank": 494,
         "full_word": "zapinać",
+        "emoji": "🔘",
         "has_children": false
       }
     ]
@@ -233,6 +261,7 @@
     "is_word": true,
     "word_rank": 151,
     "full_word": "do",
+    "emoji": "➡️",
     "has_children": true,
     "children": [
       {
@@ -241,6 +270,7 @@
         "is_word": true,
         "word_rank": 151,
         "full_word": "do",
+        "emoji": "➡️",
         "has_children": false
       },
       {
@@ -249,6 +279,7 @@
         "is_word": true,
         "word_rank": 8,
         "full_word": "dobranoc",
+        "emoji": "🌙",
         "has_children": false
       },
       {
@@ -257,6 +288,7 @@
         "is_word": true,
         "word_rank": 62,
         "full_word": "dostać",
+        "emoji": "📥",
         "has_children": false
       },
       {
@@ -265,6 +297,7 @@
         "is_word": true,
         "word_rank": 111,
         "full_word": "dobrze",
+        "emoji": "👍",
         "has_children": false
       },
       {
@@ -273,6 +306,7 @@
         "is_word": true,
         "word_rank": 123,
         "full_word": "dobry",
+        "emoji": "👍",
         "has_children": false
       }
     ]
@@ -283,6 +317,7 @@
     "is_word": true,
     "word_rank": 7,
     "full_word": "pa",
+    "emoji": "👋",
     "has_children": true,
     "children": [
       {
@@ -291,6 +326,7 @@
         "is_word": true,
         "word_rank": 7,
         "full_word": "pa",
+        "emoji": "👋",
         "has_children": false
       },
       {
@@ -299,6 +335,7 @@
         "is_word": true,
         "word_rank": 69,
         "full_word": "pamiętać",
+        "emoji": "🧠",
         "has_children": false
       },
       {
@@ -307,6 +344,7 @@
         "is_word": true,
         "word_rank": 71,
         "full_word": "patrzeć",
+        "emoji": "👀",
         "has_children": false
       },
       {
@@ -315,6 +353,7 @@
         "is_word": true,
         "word_rank": 178,
         "full_word": "pani",
+        "emoji": "👩",
         "has_children": false
       },
       {
@@ -323,6 +362,7 @@
         "is_word": true,
         "word_rank": 375,
         "full_word": "palec",
+        "emoji": "👆",
         "has_children": false
       },
       {
@@ -331,6 +371,7 @@
         "is_word": true,
         "word_rank": 421,
         "full_word": "papier",
+        "emoji": "📄",
         "has_children": false
       }
     ]
@@ -341,6 +382,7 @@
     "is_word": true,
     "word_rank": 2,
     "full_word": "nie",
+    "emoji": "❌",
     "has_children": true,
     "children": [
       {
@@ -349,6 +391,7 @@
         "is_word": true,
         "word_rank": 2,
         "full_word": "nie",
+        "emoji": "❌",
         "has_children": false
       },
       {
@@ -357,6 +400,7 @@
         "is_word": true,
         "word_rank": 238,
         "full_word": "nienawidzić",
+        "emoji": "💔",
         "has_children": false
       },
       {
@@ -365,6 +409,7 @@
         "is_word": true,
         "word_rank": 288,
         "full_word": "niemożliwy",
+        "emoji": "❌",
         "has_children": false
       },
       {
@@ -373,6 +418,7 @@
         "is_word": true,
         "word_rank": 297,
         "full_word": "niebieski",
+        "emoji": "🔵",
         "has_children": false
       },
       {
@@ -381,6 +427,7 @@
         "is_word": true,
         "word_rank": 315,
         "full_word": "niebezpieczny",
+        "emoji": "⚠️",
         "has_children": false
       },
       {
@@ -389,6 +436,7 @@
         "is_word": true,
         "word_rank": 321,
         "full_word": "niemiły",
+        "emoji": "😠",
         "has_children": false
       },
       {
@@ -397,6 +445,7 @@
         "is_word": true,
         "word_rank": 359,
         "full_word": "niedziela",
+        "emoji": "📅",
         "has_children": false
       }
     ]
@@ -407,6 +456,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -415,6 +465,7 @@
         "is_word": true,
         "word_rank": 114,
         "full_word": "mało",
+        "emoji": "📉",
         "has_children": false
       },
       {
@@ -423,6 +474,7 @@
         "is_word": true,
         "word_rank": 126,
         "full_word": "mały",
+        "emoji": "🐜",
         "has_children": false
       },
       {
@@ -431,6 +483,7 @@
         "is_word": true,
         "word_rank": 171,
         "full_word": "mama",
+        "emoji": "👩",
         "has_children": false
       },
       {
@@ -439,6 +492,7 @@
         "is_word": true,
         "word_rank": 270,
         "full_word": "malować",
+        "emoji": "🎨",
         "has_children": false
       },
       {
@@ -447,6 +501,7 @@
         "is_word": true,
         "word_rank": 385,
         "full_word": "makaron",
+        "emoji": "🍝",
         "has_children": false
       },
       {
@@ -455,6 +510,7 @@
         "is_word": true,
         "word_rank": 478,
         "full_word": "marzyć",
+        "emoji": "💭",
         "has_children": false
       }
     ]
@@ -465,6 +521,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -473,6 +530,7 @@
         "is_word": true,
         "word_rank": 161,
         "full_word": "koło",
+        "emoji": "📍",
         "has_children": false
       },
       {
@@ -481,6 +539,7 @@
         "is_word": true,
         "word_rank": 187,
         "full_word": "kolacja",
+        "emoji": "🍽️",
         "has_children": false
       },
       {
@@ -489,6 +548,7 @@
         "is_word": true,
         "word_rank": 237,
         "full_word": "kochać",
+        "emoji": "❤️",
         "has_children": false
       },
       {
@@ -497,6 +557,7 @@
         "is_word": true,
         "word_rank": 293,
         "full_word": "kolorowy",
+        "emoji": "🌈",
         "has_children": false
       },
       {
@@ -505,6 +566,7 @@
         "is_word": true,
         "word_rank": 418,
         "full_word": "koszulka",
+        "emoji": "👕",
         "has_children": false
       },
       {
@@ -513,6 +575,7 @@
         "is_word": true,
         "word_rank": 426,
         "full_word": "kobieta",
+        "emoji": "👩",
         "has_children": false
       },
       {
@@ -521,6 +584,7 @@
         "is_word": true,
         "word_rank": 430,
         "full_word": "kolega",
+        "emoji": "👥",
         "has_children": false
       },
       {
@@ -529,6 +593,7 @@
         "is_word": true,
         "word_rank": 450,
         "full_word": "kolor",
+        "emoji": "🎨",
         "has_children": false
       },
       {
@@ -537,6 +602,7 @@
         "is_word": true,
         "word_rank": 455,
         "full_word": "koniec",
+        "emoji": "🏁",
         "has_children": false
       }
     ]
@@ -547,6 +613,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -555,6 +622,7 @@
         "is_word": true,
         "word_rank": 5,
         "full_word": "proszę",
+        "emoji": "🙏",
         "has_children": false
       },
       {
@@ -563,6 +631,7 @@
         "is_word": true,
         "word_rank": 219,
         "full_word": "problem",
+        "emoji": "⚠️",
         "has_children": false
       },
       {
@@ -571,6 +640,7 @@
         "is_word": true,
         "word_rank": 234,
         "full_word": "prosić",
+        "emoji": "🙏",
         "has_children": false
       },
       {
@@ -579,6 +649,7 @@
         "is_word": true,
         "word_rank": 306,
         "full_word": "prosty",
+        "emoji": "📏",
         "has_children": false
       }
     ]
@@ -589,6 +660,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -597,6 +669,7 @@
         "is_word": true,
         "word_rank": 43,
         "full_word": "robić",
+        "emoji": "🔧",
         "has_children": false
       },
       {
@@ -605,6 +678,7 @@
         "is_word": true,
         "word_rank": 68,
         "full_word": "rozumieć",
+        "emoji": "🧠",
         "has_children": false
       },
       {
@@ -613,6 +687,7 @@
         "is_word": true,
         "word_rank": 182,
         "full_word": "rodzina",
+        "emoji": "👨‍👩‍👧‍👦",
         "has_children": false
       }
     ]
@@ -623,6 +698,7 @@
     "is_word": true,
     "word_rank": 149,
     "full_word": "na",
+    "emoji": "⬆️",
     "has_children": true,
     "children": [
       {
@@ -631,6 +707,7 @@
         "is_word": true,
         "word_rank": 149,
         "full_word": "na",
+        "emoji": "⬆️",
         "has_children": false
       },
       {
@@ -639,6 +716,7 @@
         "is_word": true,
         "word_rank": 231,
         "full_word": "nazywać",
+        "emoji": "📛",
         "has_children": false
       },
       {
@@ -647,6 +725,7 @@
         "is_word": true,
         "word_rank": 278,
         "full_word": "naprawiać",
+        "emoji": "🔧",
         "has_children": false
       },
       {
@@ -655,6 +734,7 @@
         "is_word": true,
         "word_rank": 343,
         "full_word": "następny",
+        "emoji": "⏭️",
         "has_children": false
       },
       {
@@ -663,6 +743,7 @@
         "is_word": true,
         "word_rank": 438,
         "full_word": "nauczyciel",
+        "emoji": "👨‍🏫",
         "has_children": false
       },
       {
@@ -671,6 +752,7 @@
         "is_word": true,
         "word_rank": 446,
         "full_word": "nazwisko",
+        "emoji": "📋",
         "has_children": false
       },
       {
@@ -679,6 +761,7 @@
         "is_word": true,
         "word_rank": 470,
         "full_word": "nawet",
+        "emoji": "❗",
         "has_children": false
       },
       {
@@ -687,6 +770,7 @@
         "is_word": true,
         "word_rank": 475,
         "full_word": "naprawdę",
+        "emoji": "💯",
         "has_children": false
       }
     ]
@@ -697,6 +781,7 @@
     "is_word": true,
     "word_rank": 16,
     "full_word": "wy",
+    "emoji": "👥",
     "has_children": true,
     "children": [
       {
@@ -705,6 +790,7 @@
         "is_word": true,
         "word_rank": 16,
         "full_word": "wy",
+        "emoji": "👥",
         "has_children": false
       },
       {
@@ -713,6 +799,7 @@
         "is_word": true,
         "word_rank": 243,
         "full_word": "wyglądać",
+        "emoji": "👀",
         "has_children": false
       },
       {
@@ -721,6 +808,7 @@
         "is_word": true,
         "word_rank": 283,
         "full_word": "wybrać",
+        "emoji": "☑️",
         "has_children": false
       },
       {
@@ -729,6 +817,7 @@
         "is_word": true,
         "word_rank": 302,
         "full_word": "wysoki",
+        "emoji": "📏",
         "has_children": false
       },
       {
@@ -737,6 +826,7 @@
         "is_word": true,
         "word_rank": 488,
         "full_word": "wycierać",
+        "emoji": "🧻",
         "has_children": false
       }
     ]
@@ -747,6 +837,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -755,6 +846,7 @@
         "is_word": true,
         "word_rank": 144,
         "full_word": "taki",
+        "emoji": "👆",
         "has_children": false
       },
       {
@@ -763,6 +855,7 @@
         "is_word": true,
         "word_rank": 172,
         "full_word": "tata",
+        "emoji": "👨",
         "has_children": false
       },
       {
@@ -771,6 +864,7 @@
         "is_word": true,
         "word_rank": 208,
         "full_word": "tablet",
+        "emoji": "📱",
         "has_children": false
       },
       {
@@ -779,6 +873,7 @@
         "is_word": true,
         "word_rank": 312,
         "full_word": "tani",
+        "emoji": "💰",
         "has_children": false
       }
     ]
@@ -789,6 +884,7 @@
     "is_word": true,
     "word_rank": 170,
     "full_word": "czy",
+    "emoji": "❓",
     "has_children": true,
     "children": [
       {
@@ -797,6 +893,7 @@
         "is_word": true,
         "word_rank": 170,
         "full_word": "czy",
+        "emoji": "❓",
         "has_children": false
       },
       {
@@ -805,6 +902,7 @@
         "is_word": true,
         "word_rank": 81,
         "full_word": "czytać",
+        "emoji": "📖",
         "has_children": false
       },
       {
@@ -813,6 +911,7 @@
         "is_word": true,
         "word_rank": 132,
         "full_word": "czysty",
+        "emoji": "✨",
         "has_children": false
       }
     ]
@@ -823,6 +922,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -831,6 +931,7 @@
         "is_word": true,
         "word_rank": 36,
         "full_word": "czemu",
+        "emoji": "🤔",
         "has_children": false
       },
       {
@@ -839,6 +940,7 @@
         "is_word": true,
         "word_rank": 51,
         "full_word": "czekać",
+        "emoji": "⏳",
         "has_children": false
       },
       {
@@ -847,6 +949,7 @@
         "is_word": true,
         "word_rank": 390,
         "full_word": "czekolada",
+        "emoji": "🍫",
         "has_children": false
       },
       {
@@ -855,6 +958,7 @@
         "is_word": true,
         "word_rank": 497,
         "full_word": "czesać",
+        "emoji": "💇",
         "has_children": false
       }
     ]
@@ -865,6 +969,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -873,6 +978,7 @@
         "is_word": true,
         "word_rank": 70,
         "full_word": "zobaczyć",
+        "emoji": "👁️",
         "has_children": false
       },
       {
@@ -881,6 +987,7 @@
         "is_word": true,
         "word_rank": 225,
         "full_word": "zostać",
+        "emoji": "🏠",
         "has_children": false
       },
       {
@@ -889,6 +996,7 @@
         "is_word": true,
         "word_rank": 233,
         "full_word": "zostawić",
+        "emoji": "🚪",
         "has_children": false
       }
     ]
@@ -899,6 +1007,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -907,6 +1016,7 @@
         "is_word": true,
         "word_rank": 52,
         "full_word": "bawić się",
+        "emoji": "🎮",
         "has_children": false
       },
       {
@@ -915,6 +1025,7 @@
         "is_word": true,
         "word_rank": 89,
         "full_word": "bać się",
+        "emoji": "😨",
         "has_children": false
       },
       {
@@ -923,6 +1034,7 @@
         "is_word": true,
         "word_rank": 388,
         "full_word": "banan",
+        "emoji": "🍌",
         "has_children": false
       }
     ]
@@ -933,6 +1045,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -941,6 +1054,7 @@
         "is_word": true,
         "word_rank": 78,
         "full_word": "pracować",
+        "emoji": "💼",
         "has_children": false
       },
       {
@@ -949,6 +1063,7 @@
         "is_word": true,
         "word_rank": 176,
         "full_word": "praca",
+        "emoji": "💼",
         "has_children": false
       },
       {
@@ -957,6 +1072,7 @@
         "is_word": true,
         "word_rank": 276,
         "full_word": "prasować",
+        "emoji": "👔",
         "has_children": false
       }
     ]
@@ -967,6 +1083,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -975,6 +1092,7 @@
         "is_word": false,
         "word_rank": null,
         "full_word": "",
+        "emoji": "",
         "has_children": true,
         "children": [
           {
@@ -983,6 +1101,7 @@
             "is_word": true,
             "word_rank": 147,
             "full_word": "gotowy",
+            "emoji": "✅",
             "has_children": false
           },
           {
@@ -991,6 +1110,7 @@
             "is_word": true,
             "word_rank": 271,
             "full_word": "gotować",
+            "emoji": "👨‍🍳",
             "has_children": false
           }
         ]
@@ -1001,6 +1121,7 @@
         "is_word": true,
         "word_rank": 326,
         "full_word": "gorący",
+        "emoji": "🔥",
         "has_children": false
       },
       {
@@ -1009,6 +1130,7 @@
         "is_word": true,
         "word_rank": 348,
         "full_word": "godzina",
+        "emoji": "🕐",
         "has_children": false
       }
     ]
@@ -1019,6 +1141,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1027,6 +1150,7 @@
         "is_word": true,
         "word_rank": 74,
         "full_word": "jechać",
+        "emoji": "🚗",
         "has_children": false
       },
       {
@@ -1035,6 +1159,7 @@
         "is_word": true,
         "word_rank": 184,
         "full_word": "jedzenie",
+        "emoji": "🍽️",
         "has_children": false
       },
       {
@@ -1043,6 +1168,7 @@
         "is_word": true,
         "word_rank": 363,
         "full_word": "jesień",
+        "emoji": "🍂",
         "has_children": false
       }
     ]
@@ -1053,6 +1179,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1061,6 +1188,7 @@
         "is_word": true,
         "word_rank": 19,
         "full_word": "moje",
+        "emoji": "🙋",
         "has_children": false
       },
       {
@@ -1069,6 +1197,7 @@
         "is_word": true,
         "word_rank": 129,
         "full_word": "mokry",
+        "emoji": "💧",
         "has_children": false
       },
       {
@@ -1077,6 +1206,7 @@
         "is_word": true,
         "word_rank": 474,
         "full_word": "może",
+        "emoji": "🤷",
         "has_children": false
       }
     ]
@@ -1087,6 +1217,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1095,6 +1226,7 @@
         "is_word": true,
         "word_rank": 67,
         "full_word": "wiedzieć",
+        "emoji": "💡",
         "has_children": false
       },
       {
@@ -1103,6 +1235,7 @@
         "is_word": true,
         "word_rank": 236,
         "full_word": "wierzyć",
+        "emoji": "🙏",
         "has_children": false
       },
       {
@@ -1111,6 +1244,7 @@
         "is_word": true,
         "word_rank": 351,
         "full_word": "wieczór",
+        "emoji": "🌆",
         "has_children": false
       },
       {
@@ -1119,6 +1253,7 @@
         "is_word": true,
         "word_rank": 490,
         "full_word": "wieszać",
+        "emoji": "👔",
         "has_children": false
       }
     ]
@@ -1129,6 +1264,7 @@
     "is_word": true,
     "word_rank": 154,
     "full_word": "dla",
+    "emoji": "🎁",
     "has_children": true,
     "children": [
       {
@@ -1137,6 +1273,7 @@
         "is_word": true,
         "word_rank": 154,
         "full_word": "dla",
+        "emoji": "🎁",
         "has_children": false
       },
       {
@@ -1145,6 +1282,7 @@
         "is_word": true,
         "word_rank": 33,
         "full_word": "dlaczego",
+        "emoji": "🤔",
         "has_children": false
       }
     ]
@@ -1155,6 +1293,7 @@
     "is_word": true,
     "word_rank": 12,
     "full_word": "to",
+    "emoji": "👉",
     "has_children": true,
     "children": [
       {
@@ -1163,6 +1302,7 @@
         "is_word": true,
         "word_rank": 12,
         "full_word": "to",
+        "emoji": "👉",
         "has_children": false
       },
       {
@@ -1171,6 +1311,7 @@
         "is_word": true,
         "word_rank": 194,
         "full_word": "toaleta",
+        "emoji": "🚽",
         "has_children": false
       }
     ]
@@ -1181,6 +1322,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1189,6 +1331,7 @@
         "is_word": true,
         "word_rank": 90,
         "full_word": "cieszyć się",
+        "emoji": "😄",
         "has_children": false
       },
       {
@@ -1197,6 +1340,7 @@
         "is_word": true,
         "word_rank": 127,
         "full_word": "ciepły",
+        "emoji": "🌡️",
         "has_children": false
       }
     ]
@@ -1207,6 +1351,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1215,6 +1360,7 @@
         "is_word": true,
         "word_rank": 139,
         "full_word": "nowy",
+        "emoji": "🆕",
         "has_children": false
       },
       {
@@ -1223,6 +1369,7 @@
         "is_word": true,
         "word_rank": 229,
         "full_word": "nosić",
+        "emoji": "🎒",
         "has_children": false
       },
       {
@@ -1231,6 +1378,7 @@
         "is_word": true,
         "word_rank": 368,
         "full_word": "noga",
+        "emoji": "🦵",
         "has_children": false
       }
     ]
@@ -1241,6 +1389,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1249,6 +1398,7 @@
         "is_word": true,
         "word_rank": 113,
         "full_word": "dużo",
+        "emoji": "📊",
         "has_children": false
       },
       {
@@ -1257,6 +1407,7 @@
         "is_word": true,
         "word_rank": 125,
         "full_word": "duży",
+        "emoji": "🐘",
         "has_children": false
       }
     ]
@@ -1267,6 +1418,7 @@
     "is_word": true,
     "word_rank": 167,
     "full_word": "bo",
+    "emoji": "💡",
     "has_children": true,
     "children": [
       {
@@ -1275,6 +1427,7 @@
         "is_word": true,
         "word_rank": 167,
         "full_word": "bo",
+        "emoji": "💡",
         "has_children": false
       },
       {
@@ -1283,6 +1436,7 @@
         "is_word": true,
         "word_rank": 88,
         "full_word": "boleć",
+        "emoji": "🤕",
         "has_children": false
       }
     ]
@@ -1293,6 +1447,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1301,6 +1456,7 @@
         "is_word": true,
         "word_rank": 121,
         "full_word": "fajnie",
+        "emoji": "😎",
         "has_children": false
       },
       {
@@ -1309,6 +1465,7 @@
         "is_word": true,
         "word_rank": 143,
         "full_word": "fajny",
+        "emoji": "😎",
         "has_children": false
       }
     ]
@@ -1319,6 +1476,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1327,6 +1485,7 @@
         "is_word": true,
         "word_rank": 80,
         "full_word": "pisać",
+        "emoji": "✍️",
         "has_children": false
       },
       {
@@ -1335,6 +1494,7 @@
         "is_word": true,
         "word_rank": 189,
         "full_word": "picie",
+        "emoji": "🥤",
         "has_children": false
       }
     ]
@@ -1345,6 +1505,7 @@
     "is_word": true,
     "word_rank": 10,
     "full_word": "ja",
+    "emoji": "👆",
     "has_children": true,
     "children": [
       {
@@ -1353,6 +1514,7 @@
         "is_word": true,
         "word_rank": 10,
         "full_word": "ja",
+        "emoji": "👆",
         "has_children": false
       },
       {
@@ -1361,6 +1523,7 @@
         "is_word": true,
         "word_rank": 291,
         "full_word": "jasny",
+        "emoji": "☀️",
         "has_children": false
       }
     ]
@@ -1371,6 +1534,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1379,6 +1543,7 @@
         "is_word": true,
         "word_rank": 93,
         "full_word": "teraz",
+        "emoji": "⏰",
         "has_children": false
       },
       {
@@ -1387,6 +1552,7 @@
         "is_word": true,
         "word_rank": 209,
         "full_word": "telefon",
+        "emoji": "📞",
         "has_children": false
       }
     ]
@@ -1397,6 +1563,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1405,6 +1572,7 @@
         "is_word": true,
         "word_rank": 47,
         "full_word": "widzieć",
+        "emoji": "👀",
         "has_children": false
       },
       {
@@ -1413,6 +1581,7 @@
         "is_word": true,
         "word_rank": 256,
         "full_word": "wisieć",
+        "emoji": "📍",
         "has_children": false
       }
     ]
@@ -1423,6 +1592,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1431,6 +1601,7 @@
         "is_word": true,
         "word_rank": 63,
         "full_word": "kupić",
+        "emoji": "🛒",
         "has_children": false
       },
       {
@@ -1439,6 +1610,7 @@
         "is_word": true,
         "word_rank": 249,
         "full_word": "kupować",
+        "emoji": "🛒",
         "has_children": false
       }
     ]
@@ -1449,6 +1621,7 @@
     "is_word": true,
     "word_rank": 153,
     "full_word": "od",
+    "emoji": "⬅️",
     "has_children": true,
     "children": [
       {
@@ -1457,6 +1630,7 @@
         "is_word": true,
         "word_rank": 153,
         "full_word": "od",
+        "emoji": "⬅️",
         "has_children": false
       },
       {
@@ -1465,6 +1639,7 @@
         "is_word": false,
         "word_rank": null,
         "full_word": "",
+        "emoji": "",
         "has_children": true,
         "children": [
           {
@@ -1473,6 +1648,7 @@
             "is_word": true,
             "word_rank": 222,
             "full_word": "odpowiadać",
+            "emoji": "💬",
             "has_children": false
           },
           {
@@ -1481,6 +1657,7 @@
             "is_word": true,
             "word_rank": 460,
             "full_word": "odpowiedź",
+            "emoji": "💬",
             "has_children": false
           }
         ]
@@ -1491,6 +1668,7 @@
         "is_word": true,
         "word_rank": 486,
         "full_word": "odkurzać",
+        "emoji": "🧹",
         "has_children": false
       },
       {
@@ -1499,6 +1677,7 @@
         "is_word": true,
         "word_rank": 495,
         "full_word": "odpinać",
+        "emoji": "🔘",
         "has_children": false
       }
     ]
@@ -1509,6 +1688,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1517,14 +1697,16 @@
         "is_word": true,
         "word_rank": 102,
         "full_word": "długo",
+        "emoji": "📏",
         "has_children": true,
         "children": [
           {
-            "syllable": "go",
+            "syllable": "długo",
             "weight": 478,
             "is_word": true,
             "word_rank": 102,
             "full_word": "długo",
+            "emoji": "📏",
             "has_children": false
           },
           {
@@ -1533,6 +1715,7 @@
             "is_word": true,
             "word_rank": 422,
             "full_word": "długopis",
+            "emoji": "🖊️",
             "has_children": false
           }
         ]
@@ -1543,6 +1726,7 @@
         "is_word": true,
         "word_rank": 300,
         "full_word": "długi",
+        "emoji": "📏",
         "has_children": false
       }
     ]
@@ -1553,6 +1737,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1561,6 +1746,7 @@
         "is_word": true,
         "word_rank": 141,
         "full_word": "łatwy",
+        "emoji": "✅",
         "has_children": false
       },
       {
@@ -1569,6 +1755,7 @@
         "is_word": true,
         "word_rank": 195,
         "full_word": "łazienka",
+        "emoji": "🛁",
         "has_children": false
       }
     ]
@@ -1579,6 +1766,7 @@
     "is_word": true,
     "word_rank": 168,
     "full_word": "że",
+    "emoji": "💬",
     "has_children": true,
     "children": [
       {
@@ -1587,6 +1775,7 @@
         "is_word": true,
         "word_rank": 168,
         "full_word": "że",
+        "emoji": "💬",
         "has_children": false
       },
       {
@@ -1595,6 +1784,7 @@
         "is_word": true,
         "word_rank": 169,
         "full_word": "żeby",
+        "emoji": "🎯",
         "has_children": false
       }
     ]
@@ -1605,6 +1795,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1613,6 +1804,7 @@
         "is_word": true,
         "word_rank": 134,
         "full_word": "spragniony",
+        "emoji": "🥤",
         "has_children": false
       },
       {
@@ -1621,6 +1813,7 @@
         "is_word": true,
         "word_rank": 217,
         "full_word": "sprawa",
+        "emoji": "📋",
         "has_children": false
       }
     ]
@@ -1631,6 +1824,7 @@
     "is_word": true,
     "word_rank": 11,
     "full_word": "ty",
+    "emoji": "👇",
     "has_children": true,
     "children": [
       {
@@ -1639,6 +1833,7 @@
         "is_word": true,
         "word_rank": 11,
         "full_word": "ty",
+        "emoji": "👇",
         "has_children": false
       },
       {
@@ -1647,6 +1842,7 @@
         "is_word": true,
         "word_rank": 345,
         "full_word": "tydzień",
+        "emoji": "📅",
         "has_children": false
       }
     ]
@@ -1657,6 +1853,7 @@
     "is_word": true,
     "word_rank": 104,
     "full_word": "tu",
+    "emoji": "📍",
     "has_children": true,
     "children": [
       {
@@ -1665,6 +1862,7 @@
         "is_word": true,
         "word_rank": 104,
         "full_word": "tu",
+        "emoji": "📍",
         "has_children": false
       },
       {
@@ -1673,6 +1871,7 @@
         "is_word": true,
         "word_rank": 262,
         "full_word": "tulić",
+        "emoji": "🤗",
         "has_children": false
       }
     ]
@@ -1683,6 +1882,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1691,6 +1891,7 @@
         "is_word": true,
         "word_rank": 145,
         "full_word": "inny",
+        "emoji": "🔄",
         "has_children": false
       },
       {
@@ -1699,6 +1900,7 @@
         "is_word": true,
         "word_rank": 240,
         "full_word": "interesować",
+        "emoji": "👀",
         "has_children": false
       }
     ]
@@ -1709,6 +1911,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1717,6 +1920,7 @@
         "is_word": true,
         "word_rank": 100,
         "full_word": "nigdy",
+        "emoji": "🚫",
         "has_children": false
       },
       {
@@ -1725,6 +1929,7 @@
         "is_word": true,
         "word_rank": 303,
         "full_word": "niski",
+        "emoji": "📐",
         "has_children": false
       }
     ]
@@ -1735,6 +1940,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1743,6 +1949,7 @@
         "is_word": true,
         "word_rank": 103,
         "full_word": "krótko",
+        "emoji": "📐",
         "has_children": false
       },
       {
@@ -1751,6 +1958,7 @@
         "is_word": true,
         "word_rank": 301,
         "full_word": "krótki",
+        "emoji": "📐",
         "has_children": false
       }
     ]
@@ -1761,6 +1969,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1769,6 +1978,7 @@
         "is_word": true,
         "word_rank": 118,
         "full_word": "wolno",
+        "emoji": "🐢",
         "has_children": false
       },
       {
@@ -1777,6 +1987,7 @@
         "is_word": true,
         "word_rank": 316,
         "full_word": "wolny",
+        "emoji": "🆓",
         "has_children": false
       }
     ]
@@ -1787,6 +1998,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1795,6 +2007,7 @@
         "is_word": true,
         "word_rank": 252,
         "full_word": "przynieść",
+        "emoji": "📦",
         "has_children": false
       },
       {
@@ -1803,6 +2016,7 @@
         "is_word": true,
         "word_rank": 282,
         "full_word": "przypomnieć",
+        "emoji": "🧠✅",
         "has_children": false
       },
       {
@@ -1811,6 +2025,7 @@
         "is_word": true,
         "word_rank": 429,
         "full_word": "przyjaciel",
+        "emoji": "🤝",
         "has_children": false
       }
     ]
@@ -1821,6 +2036,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1829,6 +2045,7 @@
         "is_word": true,
         "word_rank": 110,
         "full_word": "środek",
+        "emoji": "🎯",
         "has_children": false
       },
       {
@@ -1837,6 +2054,7 @@
         "is_word": true,
         "word_rank": 355,
         "full_word": "środa",
+        "emoji": "📅",
         "has_children": false
       }
     ]
@@ -1847,6 +2065,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1855,6 +2074,7 @@
         "is_word": true,
         "word_rank": 183,
         "full_word": "woda",
+        "emoji": "💧",
         "has_children": false
       },
       {
@@ -1863,6 +2083,7 @@
         "is_word": true,
         "word_rank": 284,
         "full_word": "woleć",
+        "emoji": "👍",
         "has_children": false
       }
     ]
@@ -1873,6 +2094,7 @@
     "is_word": true,
     "word_rank": 155,
     "full_word": "bez",
+    "emoji": "🚫",
     "has_children": true,
     "children": [
       {
@@ -1881,6 +2103,7 @@
         "is_word": true,
         "word_rank": 155,
         "full_word": "bez",
+        "emoji": "🚫",
         "has_children": false
       },
       {
@@ -1889,6 +2112,7 @@
         "is_word": true,
         "word_rank": 314,
         "full_word": "bezpieczny",
+        "emoji": "🛡️",
         "has_children": false
       }
     ]
@@ -1899,6 +2123,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1907,6 +2132,7 @@
         "is_word": true,
         "word_rank": 119,
         "full_word": "głośno",
+        "emoji": "🔊",
         "has_children": false
       },
       {
@@ -1915,6 +2141,7 @@
         "is_word": true,
         "word_rank": 366,
         "full_word": "głowa",
+        "emoji": "👤",
         "has_children": false
       }
     ]
@@ -1925,6 +2152,7 @@
     "is_word": true,
     "word_rank": 1,
     "full_word": "tak",
+    "emoji": "✅",
     "has_children": false
   },
   {
@@ -1933,6 +2161,7 @@
     "is_word": true,
     "word_rank": 3,
     "full_word": "cześć",
+    "emoji": "👋",
     "has_children": false
   },
   {
@@ -1941,6 +2170,7 @@
     "is_word": true,
     "word_rank": 4,
     "full_word": "dziękuję",
+    "emoji": "🙏",
     "has_children": false
   },
   {
@@ -1949,6 +2179,7 @@
     "is_word": true,
     "word_rank": 6,
     "full_word": "przepraszam",
+    "emoji": "😔",
     "has_children": false
   },
   {
@@ -1957,6 +2188,7 @@
     "is_word": true,
     "word_rank": 9,
     "full_word": "dzień dobry",
+    "emoji": "☀️",
     "has_children": false
   },
   {
@@ -1965,6 +2197,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -1973,6 +2206,7 @@
         "is_word": true,
         "word_rank": 248,
         "full_word": "płacić",
+        "emoji": "💳",
         "has_children": false
       },
       {
@@ -1981,6 +2215,7 @@
         "is_word": true,
         "word_rank": 265,
         "full_word": "płakać",
+        "emoji": "😢",
         "has_children": false
       }
     ]
@@ -1991,6 +2226,7 @@
     "is_word": true,
     "word_rank": 13,
     "full_word": "on",
+    "emoji": "👨",
     "has_children": false
   },
   {
@@ -1999,6 +2235,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -2007,6 +2244,7 @@
         "is_word": true,
         "word_rank": 77,
         "full_word": "leżeć",
+        "emoji": "🛋️",
         "has_children": false
       },
       {
@@ -2015,6 +2253,7 @@
         "is_word": true,
         "word_rank": 437,
         "full_word": "lekarz",
+        "emoji": "👨‍⚕️",
         "has_children": false
       }
     ]
@@ -2025,6 +2264,7 @@
     "is_word": true,
     "word_rank": 14,
     "full_word": "ona",
+    "emoji": "👩",
     "has_children": false
   },
   {
@@ -2033,6 +2273,7 @@
     "is_word": true,
     "word_rank": 15,
     "full_word": "my",
+    "emoji": "👥",
     "has_children": false
   },
   {
@@ -2041,6 +2282,7 @@
     "is_word": true,
     "word_rank": 17,
     "full_word": "oni",
+    "emoji": "👥",
     "has_children": false
   },
   {
@@ -2049,6 +2291,7 @@
     "is_word": true,
     "word_rank": 18,
     "full_word": "one",
+    "emoji": "👥",
     "has_children": false
   },
   {
@@ -2057,6 +2300,7 @@
     "is_word": true,
     "word_rank": 20,
     "full_word": "twoje",
+    "emoji": "💁",
     "has_children": false
   },
   {
@@ -2065,6 +2309,7 @@
     "is_word": true,
     "word_rank": 21,
     "full_word": "się",
+    "emoji": "🔄",
     "has_children": false
   },
   {
@@ -2073,6 +2318,7 @@
     "is_word": true,
     "word_rank": 22,
     "full_word": "swoje",
+    "emoji": "🏠",
     "has_children": false
   },
   {
@@ -2081,6 +2327,7 @@
     "is_word": true,
     "word_rank": 23,
     "full_word": "coś",
+    "emoji": "❓",
     "has_children": false
   },
   {
@@ -2089,6 +2336,7 @@
     "is_word": true,
     "word_rank": 24,
     "full_word": "ktoś",
+    "emoji": "🧑",
     "has_children": false
   },
   {
@@ -2097,6 +2345,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -2105,6 +2354,7 @@
         "is_word": true,
         "word_rank": 82,
         "full_word": "rysować",
+        "emoji": "🎨",
         "has_children": false
       },
       {
@@ -2113,6 +2363,7 @@
         "is_word": true,
         "word_rank": 443,
         "full_word": "ryba",
+        "emoji": "🐟",
         "has_children": false
       }
     ]
@@ -2123,6 +2374,7 @@
     "is_word": true,
     "word_rank": 25,
     "full_word": "wszyscy",
+    "emoji": "👥",
     "has_children": false
   },
   {
@@ -2131,6 +2383,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -2139,6 +2392,7 @@
         "is_word": true,
         "word_rank": 64,
         "full_word": "musieć",
+        "emoji": "⚠️",
         "has_children": false
       },
       {
@@ -2147,6 +2401,7 @@
         "is_word": true,
         "word_rank": 462,
         "full_word": "muzyka",
+        "emoji": "🎵",
         "has_children": false
       }
     ]
@@ -2157,6 +2412,7 @@
     "is_word": true,
     "word_rank": 26,
     "full_word": "wszystko",
+    "emoji": "💯",
     "has_children": false
   },
   {
@@ -2165,6 +2421,7 @@
     "is_word": true,
     "word_rank": 27,
     "full_word": "nic",
+    "emoji": "⭕",
     "has_children": false
   },
   {
@@ -2173,6 +2430,7 @@
     "is_word": true,
     "word_rank": 28,
     "full_word": "nikt",
+    "emoji": "🚫",
     "has_children": false
   },
   {
@@ -2181,6 +2439,7 @@
     "is_word": true,
     "word_rank": 29,
     "full_word": "co",
+    "emoji": "❓",
     "has_children": false
   },
   {
@@ -2189,6 +2448,7 @@
     "is_word": true,
     "word_rank": 30,
     "full_word": "kto",
+    "emoji": "🧑❓",
     "has_children": false
   },
   {
@@ -2197,6 +2457,7 @@
     "is_word": true,
     "word_rank": 31,
     "full_word": "gdzie",
+    "emoji": "📍",
     "has_children": false
   },
   {
@@ -2205,6 +2466,7 @@
     "is_word": true,
     "word_rank": 32,
     "full_word": "kiedy",
+    "emoji": "⏰",
     "has_children": false
   },
   {
@@ -2213,6 +2475,7 @@
     "is_word": true,
     "word_rank": 34,
     "full_word": "jak",
+    "emoji": "❔",
     "has_children": false
   },
   {
@@ -2221,6 +2484,7 @@
     "is_word": true,
     "word_rank": 35,
     "full_word": "który",
+    "emoji": "1️⃣",
     "has_children": false
   },
   {
@@ -2229,6 +2493,7 @@
     "is_word": true,
     "word_rank": 37,
     "full_word": "chcieć",
+    "emoji": "💭",
     "has_children": false
   },
   {
@@ -2237,6 +2502,7 @@
     "is_word": true,
     "word_rank": 38,
     "full_word": "dać",
+    "emoji": "🎁",
     "has_children": false
   },
   {
@@ -2245,6 +2511,7 @@
     "is_word": true,
     "word_rank": 39,
     "full_word": "mieć",
+    "emoji": "🤲",
     "has_children": false
   },
   {
@@ -2253,6 +2520,7 @@
     "is_word": true,
     "word_rank": 40,
     "full_word": "być",
+    "emoji": "✨",
     "has_children": false
   },
   {
@@ -2261,6 +2529,7 @@
     "is_word": true,
     "word_rank": 41,
     "full_word": "iść",
+    "emoji": "🚶",
     "has_children": false
   },
   {
@@ -2269,6 +2538,7 @@
     "is_word": true,
     "word_rank": 42,
     "full_word": "lubić",
+    "emoji": "❤️",
     "has_children": false
   },
   {
@@ -2277,6 +2547,7 @@
     "is_word": true,
     "word_rank": 44,
     "full_word": "jeść",
+    "emoji": "🍽️",
     "has_children": false
   },
   {
@@ -2285,6 +2556,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -2293,6 +2565,7 @@
         "is_word": true,
         "word_rank": 227,
         "full_word": "spotkać",
+        "emoji": "🤝",
         "has_children": false
       },
       {
@@ -2301,6 +2574,7 @@
         "is_word": true,
         "word_rank": 318,
         "full_word": "spokojny",
+        "emoji": "😌",
         "has_children": false
       }
     ]
@@ -2311,6 +2585,7 @@
     "is_word": true,
     "word_rank": 45,
     "full_word": "pić",
+    "emoji": "🥤",
     "has_children": false
   },
   {
@@ -2319,6 +2594,7 @@
     "is_word": true,
     "word_rank": 46,
     "full_word": "spać",
+    "emoji": "😴",
     "has_children": false
   },
   {
@@ -2327,6 +2603,7 @@
     "is_word": true,
     "word_rank": 48,
     "full_word": "słyszeć",
+    "emoji": "👂",
     "has_children": false
   },
   {
@@ -2335,6 +2612,7 @@
     "is_word": true,
     "word_rank": 49,
     "full_word": "mówić",
+    "emoji": "🗣️",
     "has_children": false
   },
   {
@@ -2343,6 +2621,7 @@
     "is_word": true,
     "word_rank": 53,
     "full_word": "myć",
+    "emoji": "🧼",
     "has_children": false
   },
   {
@@ -2351,6 +2630,7 @@
     "is_word": true,
     "word_rank": 54,
     "full_word": "otwierać",
+    "emoji": "📂",
     "has_children": false
   },
   {
@@ -2359,6 +2639,7 @@
     "is_word": true,
     "word_rank": 56,
     "full_word": "szukać",
+    "emoji": "🔍",
     "has_children": false
   },
   {
@@ -2367,6 +2648,7 @@
     "is_word": true,
     "word_rank": 57,
     "full_word": "znaleźć",
+    "emoji": "🔎",
     "has_children": false
   },
   {
@@ -2375,6 +2657,7 @@
     "is_word": true,
     "word_rank": 58,
     "full_word": "przyjść",
+    "emoji": "🚶‍➡️",
     "has_children": false
   },
   {
@@ -2383,6 +2666,7 @@
     "is_word": true,
     "word_rank": 59,
     "full_word": "wyjść",
+    "emoji": "🚪",
     "has_children": false
   },
   {
@@ -2391,6 +2675,7 @@
     "is_word": true,
     "word_rank": 60,
     "full_word": "brać",
+    "emoji": "✋",
     "has_children": false
   },
   {
@@ -2399,6 +2684,7 @@
     "is_word": true,
     "word_rank": 61,
     "full_word": "wziąć",
+    "emoji": "🤚",
     "has_children": false
   },
   {
@@ -2407,6 +2693,7 @@
     "is_word": true,
     "word_rank": 158,
     "full_word": "pod",
+    "emoji": "⬇️",
     "has_children": true,
     "children": [
       {
@@ -2415,6 +2702,7 @@
         "is_word": true,
         "word_rank": 158,
         "full_word": "pod",
+        "emoji": "⬇️",
         "has_children": false
       },
       {
@@ -2423,6 +2711,7 @@
         "is_word": true,
         "word_rank": 406,
         "full_word": "podłoga",
+        "emoji": "🏠",
         "has_children": false
       }
     ]
@@ -2433,6 +2722,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -2441,6 +2731,7 @@
         "is_word": true,
         "word_rank": 277,
         "full_word": "budować",
+        "emoji": "🏗️",
         "has_children": false
       },
       {
@@ -2449,6 +2740,7 @@
         "is_word": true,
         "word_rank": 373,
         "full_word": "buzia",
+        "emoji": "👄",
         "has_children": false
       },
       {
@@ -2457,6 +2749,7 @@
         "is_word": true,
         "word_rank": 416,
         "full_word": "buty",
+        "emoji": "👟",
         "has_children": false
       }
     ]
@@ -2467,6 +2760,7 @@
     "is_word": true,
     "word_rank": 65,
     "full_word": "móc",
+    "emoji": "💪",
     "has_children": false
   },
   {
@@ -2475,6 +2769,7 @@
     "is_word": true,
     "word_rank": 66,
     "full_word": "umieć",
+    "emoji": "🎓",
     "has_children": false
   },
   {
@@ -2483,6 +2778,7 @@
     "is_word": true,
     "word_rank": 72,
     "full_word": "skończyć",
+    "emoji": "🏁",
     "has_children": false
   },
   {
@@ -2491,6 +2787,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -2499,6 +2796,7 @@
         "is_word": true,
         "word_rank": 266,
         "full_word": "krzyczeć",
+        "emoji": "📢",
         "has_children": false
       },
       {
@@ -2507,6 +2805,7 @@
         "is_word": true,
         "word_rank": 307,
         "full_word": "krzywy",
+        "emoji": "〰️",
         "has_children": false
       }
     ]
@@ -2517,6 +2816,7 @@
     "is_word": true,
     "word_rank": 75,
     "full_word": "stać",
+    "emoji": "🧍",
     "has_children": false
   },
   {
@@ -2525,6 +2825,7 @@
     "is_word": true,
     "word_rank": 76,
     "full_word": "siedzieć",
+    "emoji": "🪑",
     "has_children": false
   },
   {
@@ -2533,6 +2834,7 @@
     "is_word": true,
     "word_rank": 79,
     "full_word": "uczyć się",
+    "emoji": "📚",
     "has_children": false
   },
   {
@@ -2541,6 +2843,7 @@
     "is_word": true,
     "word_rank": 83,
     "full_word": "oglądać",
+    "emoji": "📺",
     "has_children": false
   },
   {
@@ -2549,6 +2852,7 @@
     "is_word": true,
     "word_rank": 84,
     "full_word": "grać",
+    "emoji": "🎮",
     "has_children": false
   },
   {
@@ -2557,6 +2861,7 @@
     "is_word": true,
     "word_rank": 85,
     "full_word": "biegać",
+    "emoji": "🏃",
     "has_children": false
   },
   {
@@ -2565,6 +2870,7 @@
     "is_word": true,
     "word_rank": 86,
     "full_word": "skakać",
+    "emoji": "🦘",
     "has_children": false
   },
   {
@@ -2573,6 +2879,7 @@
     "is_word": true,
     "word_rank": 87,
     "full_word": "pływać",
+    "emoji": "🏊",
     "has_children": false
   },
   {
@@ -2581,6 +2888,7 @@
     "is_word": true,
     "word_rank": 91,
     "full_word": "jeszcze",
+    "emoji": "➕",
     "has_children": false
   },
   {
@@ -2589,6 +2897,7 @@
     "is_word": true,
     "word_rank": 92,
     "full_word": "już",
+    "emoji": "✅",
     "has_children": false
   },
   {
@@ -2597,6 +2906,7 @@
     "is_word": true,
     "word_rank": 96,
     "full_word": "wczoraj",
+    "emoji": "📆",
     "has_children": false
   },
   {
@@ -2605,6 +2915,7 @@
     "is_word": true,
     "word_rank": 97,
     "full_word": "jutro",
+    "emoji": "🌅",
     "has_children": false
   },
   {
@@ -2613,6 +2924,7 @@
     "is_word": true,
     "word_rank": 98,
     "full_word": "dzisiaj",
+    "emoji": "📅",
     "has_children": false
   },
   {
@@ -2621,6 +2933,7 @@
     "is_word": true,
     "word_rank": 101,
     "full_word": "czasami",
+    "emoji": "⏱️",
     "has_children": false
   },
   {
@@ -2629,6 +2942,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -2637,6 +2951,7 @@
         "is_word": true,
         "word_rank": 200,
         "full_word": "samochód",
+        "emoji": "🚗",
         "has_children": false
       },
       {
@@ -2645,6 +2960,7 @@
         "is_word": true,
         "word_rank": 402,
         "full_word": "salon",
+        "emoji": "🛋️",
         "has_children": false
       }
     ]
@@ -2655,6 +2971,7 @@
     "is_word": true,
     "word_rank": 105,
     "full_word": "tam",
+    "emoji": "📍",
     "has_children": false
   },
   {
@@ -2663,6 +2980,7 @@
     "is_word": true,
     "word_rank": 106,
     "full_word": "blisko",
+    "emoji": "📍",
     "has_children": false
   },
   {
@@ -2671,6 +2989,7 @@
     "is_word": true,
     "word_rank": 107,
     "full_word": "daleko",
+    "emoji": "🗺️",
     "has_children": false
   },
   {
@@ -2679,6 +2998,7 @@
     "is_word": true,
     "word_rank": 108,
     "full_word": "góra",
+    "emoji": "⛰️",
     "has_children": false
   },
   {
@@ -2687,6 +3007,7 @@
     "is_word": true,
     "word_rank": 109,
     "full_word": "dół",
+    "emoji": "⬇️",
     "has_children": false
   },
   {
@@ -2695,6 +3016,7 @@
     "is_word": true,
     "word_rank": 112,
     "full_word": "źle",
+    "emoji": "👎",
     "has_children": false
   },
   {
@@ -2703,6 +3025,7 @@
     "is_word": true,
     "word_rank": 115,
     "full_word": "więcej",
+    "emoji": "⬆️",
     "has_children": false
   },
   {
@@ -2711,6 +3034,7 @@
     "is_word": true,
     "word_rank": 116,
     "full_word": "mniej",
+    "emoji": "⬇️",
     "has_children": false
   },
   {
@@ -2719,6 +3043,7 @@
     "is_word": true,
     "word_rank": 117,
     "full_word": "szybko",
+    "emoji": "⚡",
     "has_children": false
   },
   {
@@ -2727,6 +3052,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -2735,6 +3061,7 @@
         "is_word": true,
         "word_rank": 130,
         "full_word": "suchy",
+        "emoji": "🏜️",
         "has_children": false
       },
       {
@@ -2743,6 +3070,7 @@
         "is_word": true,
         "word_rank": 489,
         "full_word": "suszyć",
+        "emoji": "☀️",
         "has_children": false
       }
     ]
@@ -2753,6 +3081,7 @@
     "is_word": true,
     "word_rank": 120,
     "full_word": "cicho",
+    "emoji": "🔇",
     "has_children": false
   },
   {
@@ -2761,6 +3090,7 @@
     "is_word": true,
     "word_rank": 122,
     "full_word": "ładnie",
+    "emoji": "✨",
     "has_children": false
   },
   {
@@ -2769,6 +3099,7 @@
     "is_word": true,
     "word_rank": 124,
     "full_word": "zły",
+    "emoji": "👿",
     "has_children": false
   },
   {
@@ -2777,6 +3108,7 @@
     "is_word": true,
     "word_rank": 128,
     "full_word": "zimny",
+    "emoji": "❄️",
     "has_children": false
   },
   {
@@ -2785,6 +3117,7 @@
     "is_word": true,
     "word_rank": 131,
     "full_word": "brudny",
+    "emoji": "🤢",
     "has_children": false
   },
   {
@@ -2793,6 +3126,7 @@
     "is_word": true,
     "word_rank": 133,
     "full_word": "głodny",
+    "emoji": "🍽️",
     "has_children": false
   },
   {
@@ -2801,6 +3135,7 @@
     "is_word": true,
     "word_rank": 135,
     "full_word": "zmęczony",
+    "emoji": "😩",
     "has_children": false
   },
   {
@@ -2809,6 +3144,7 @@
     "is_word": true,
     "word_rank": 136,
     "full_word": "chory",
+    "emoji": "🤒",
     "has_children": false
   },
   {
@@ -2817,6 +3153,7 @@
     "is_word": true,
     "word_rank": 137,
     "full_word": "smutny",
+    "emoji": "😢",
     "has_children": false
   },
   {
@@ -2825,6 +3162,7 @@
     "is_word": true,
     "word_rank": 138,
     "full_word": "wesoły",
+    "emoji": "😄",
     "has_children": false
   },
   {
@@ -2833,6 +3171,7 @@
     "is_word": true,
     "word_rank": 140,
     "full_word": "stary",
+    "emoji": "👴",
     "has_children": false
   },
   {
@@ -2841,6 +3180,7 @@
     "is_word": true,
     "word_rank": 466,
     "full_word": "przed",
+    "emoji": "⏮️",
     "has_children": true,
     "children": [
       {
@@ -2849,6 +3189,7 @@
         "is_word": true,
         "word_rank": 466,
         "full_word": "przed",
+        "emoji": "⏮️",
         "has_children": false
       },
       {
@@ -2857,6 +3198,7 @@
         "is_word": true,
         "word_rank": 175,
         "full_word": "przedszkole",
+        "emoji": "🧒",
         "has_children": false
       }
     ]
@@ -2867,6 +3209,7 @@
     "is_word": true,
     "word_rank": 142,
     "full_word": "trudny",
+    "emoji": "❌",
     "has_children": false
   },
   {
@@ -2875,6 +3218,7 @@
     "is_word": true,
     "word_rank": 146,
     "full_word": "sam",
+    "emoji": "1️⃣",
     "has_children": false
   },
   {
@@ -2883,6 +3227,7 @@
     "is_word": true,
     "word_rank": 148,
     "full_word": "w",
+    "emoji": "📥",
     "has_children": false
   },
   {
@@ -2891,6 +3236,7 @@
     "is_word": true,
     "word_rank": 150,
     "full_word": "z",
+    "emoji": "📤",
     "has_children": false
   },
   {
@@ -2899,6 +3245,7 @@
     "is_word": true,
     "word_rank": 152,
     "full_word": "o",
+    "emoji": "💬",
     "has_children": false
   },
   {
@@ -2907,6 +3254,7 @@
     "is_word": true,
     "word_rank": 156,
     "full_word": "przez",
+    "emoji": "➡️",
     "has_children": false
   },
   {
@@ -2915,6 +3263,7 @@
     "is_word": true,
     "word_rank": 159,
     "full_word": "nad",
+    "emoji": "⬆️",
     "has_children": false
   },
   {
@@ -2923,6 +3272,7 @@
     "is_word": true,
     "word_rank": 160,
     "full_word": "u",
+    "emoji": "🏠",
     "has_children": false
   },
   {
@@ -2931,6 +3281,7 @@
     "is_word": true,
     "word_rank": 162,
     "full_word": "i",
+    "emoji": "➕",
     "has_children": false
   },
   {
@@ -2939,6 +3290,7 @@
     "is_word": true,
     "word_rank": 163,
     "full_word": "a",
+    "emoji": "🔄",
     "has_children": false
   },
   {
@@ -2947,6 +3299,7 @@
     "is_word": true,
     "word_rank": 164,
     "full_word": "ale",
+    "emoji": "⚠️",
     "has_children": false
   },
   {
@@ -2955,6 +3308,7 @@
     "is_word": true,
     "word_rank": 165,
     "full_word": "lub",
+    "emoji": "🔀",
     "has_children": false
   },
   {
@@ -2963,6 +3317,7 @@
     "is_word": true,
     "word_rank": 166,
     "full_word": "albo",
+    "emoji": "🔀",
     "has_children": false
   },
   {
@@ -2971,6 +3326,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -2979,6 +3335,7 @@
         "is_word": true,
         "word_rank": 320,
         "full_word": "miły",
+        "emoji": "😊",
         "has_children": false
       },
       {
@@ -2987,6 +3344,7 @@
         "is_word": true,
         "word_rank": 349,
         "full_word": "minuta",
+        "emoji": "⏱️",
         "has_children": false
       }
     ]
@@ -2997,6 +3355,7 @@
     "is_word": true,
     "word_rank": 173,
     "full_word": "dom",
+    "emoji": "🏠",
     "has_children": false
   },
   {
@@ -3005,6 +3364,7 @@
     "is_word": true,
     "word_rank": 174,
     "full_word": "szkoła",
+    "emoji": "🏫",
     "has_children": false
   },
   {
@@ -3013,6 +3373,7 @@
     "is_word": true,
     "word_rank": 177,
     "full_word": "pan",
+    "emoji": "👨",
     "has_children": false
   },
   {
@@ -3021,6 +3382,7 @@
     "is_word": true,
     "word_rank": 179,
     "full_word": "dziecko",
+    "emoji": "👶",
     "has_children": false
   },
   {
@@ -3029,6 +3391,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -3037,6 +3400,7 @@
         "is_word": true,
         "word_rank": 221,
         "full_word": "pytać",
+        "emoji": "❓",
         "has_children": false
       },
       {
@@ -3045,6 +3409,7 @@
         "is_word": true,
         "word_rank": 459,
         "full_word": "pytanie",
+        "emoji": "❓",
         "has_children": false
       }
     ]
@@ -3055,6 +3420,7 @@
     "is_word": true,
     "word_rank": 180,
     "full_word": "chłopak",
+    "emoji": "👦",
     "has_children": false
   },
   {
@@ -3063,6 +3429,7 @@
     "is_word": true,
     "word_rank": 181,
     "full_word": "dziewczyna",
+    "emoji": "👧",
     "has_children": false
   },
   {
@@ -3071,6 +3438,7 @@
     "is_word": true,
     "word_rank": 185,
     "full_word": "obiad",
+    "emoji": "🍝",
     "has_children": false
   },
   {
@@ -3079,6 +3447,7 @@
     "is_word": true,
     "word_rank": 186,
     "full_word": "śniadanie",
+    "emoji": "🥣",
     "has_children": false
   },
   {
@@ -3087,6 +3456,7 @@
     "is_word": true,
     "word_rank": 188,
     "full_word": "chleb",
+    "emoji": "🍞",
     "has_children": false
   },
   {
@@ -3095,6 +3465,7 @@
     "is_word": true,
     "word_rank": 190,
     "full_word": "sok",
+    "emoji": "🧃",
     "has_children": false
   },
   {
@@ -3103,6 +3474,7 @@
     "is_word": true,
     "word_rank": 191,
     "full_word": "mleko",
+    "emoji": "🥛",
     "has_children": false
   },
   {
@@ -3111,6 +3483,7 @@
     "is_word": true,
     "word_rank": 192,
     "full_word": "jabłko",
+    "emoji": "🍎",
     "has_children": false
   },
   {
@@ -3119,6 +3492,7 @@
     "is_word": true,
     "word_rank": 193,
     "full_word": "ciastko",
+    "emoji": "🍪",
     "has_children": false
   },
   {
@@ -3127,6 +3501,7 @@
     "is_word": true,
     "word_rank": 197,
     "full_word": "łóżko",
+    "emoji": "🛏️",
     "has_children": false
   },
   {
@@ -3135,6 +3510,7 @@
     "is_word": true,
     "word_rank": 198,
     "full_word": "stół",
+    "emoji": "🪑",
     "has_children": false
   },
   {
@@ -3143,6 +3519,7 @@
     "is_word": true,
     "word_rank": 199,
     "full_word": "krzesło",
+    "emoji": "🪑",
     "has_children": false
   },
   {
@@ -3151,6 +3528,7 @@
     "is_word": true,
     "word_rank": 201,
     "full_word": "autobus",
+    "emoji": "🚌",
     "has_children": false
   },
   {
@@ -3159,6 +3537,7 @@
     "is_word": true,
     "word_rank": 203,
     "full_word": "gra",
+    "emoji": "🎮",
     "has_children": false
   },
   {
@@ -3167,6 +3546,7 @@
     "is_word": true,
     "word_rank": 204,
     "full_word": "bajka",
+    "emoji": "📺",
     "has_children": false
   },
   {
@@ -3175,6 +3555,7 @@
     "is_word": true,
     "word_rank": 205,
     "full_word": "piłka",
+    "emoji": "⚽",
     "has_children": false
   },
   {
@@ -3183,6 +3564,7 @@
     "is_word": true,
     "word_rank": 206,
     "full_word": "lalka",
+    "emoji": "🪆",
     "has_children": false
   },
   {
@@ -3191,6 +3573,7 @@
     "is_word": true,
     "word_rank": 207,
     "full_word": "klocki",
+    "emoji": "🧱",
     "has_children": false
   },
   {
@@ -3199,6 +3582,7 @@
     "is_word": true,
     "word_rank": 210,
     "full_word": "komputer",
+    "emoji": "💻",
     "has_children": false
   },
   {
@@ -3207,6 +3591,7 @@
     "is_word": true,
     "word_rank": 211,
     "full_word": "pies",
+    "emoji": "🐕",
     "has_children": false
   },
   {
@@ -3215,6 +3600,7 @@
     "is_word": true,
     "word_rank": 212,
     "full_word": "kot",
+    "emoji": "🐱",
     "has_children": false
   },
   {
@@ -3223,6 +3609,7 @@
     "is_word": true,
     "word_rank": 213,
     "full_word": "dzień",
+    "emoji": "☀️",
     "has_children": false
   },
   {
@@ -3231,6 +3618,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -3239,6 +3627,7 @@
         "is_word": true,
         "word_rank": 273,
         "full_word": "kroić",
+        "emoji": "🔪",
         "has_children": false
       },
       {
@@ -3247,6 +3636,7 @@
         "is_word": true,
         "word_rank": 441,
         "full_word": "krowa",
+        "emoji": "🐄",
         "has_children": false
       }
     ]
@@ -3257,6 +3647,7 @@
     "is_word": true,
     "word_rank": 214,
     "full_word": "noc",
+    "emoji": "🌙",
     "has_children": false
   },
   {
@@ -3265,6 +3656,7 @@
     "is_word": true,
     "word_rank": 215,
     "full_word": "czas",
+    "emoji": "⏰",
     "has_children": false
   },
   {
@@ -3273,6 +3665,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -3281,6 +3674,7 @@
         "is_word": true,
         "word_rank": 263,
         "full_word": "całować",
+        "emoji": "💋",
         "has_children": false
       },
       {
@@ -3289,6 +3683,7 @@
         "is_word": true,
         "word_rank": 453,
         "full_word": "całość",
+        "emoji": "🤲",
         "has_children": false
       }
     ]
@@ -3299,6 +3694,7 @@
     "is_word": true,
     "word_rank": 216,
     "full_word": "rzecz",
+    "emoji": "📦",
     "has_children": false
   },
   {
@@ -3307,6 +3703,7 @@
     "is_word": true,
     "word_rank": 218,
     "full_word": "miejsce",
+    "emoji": "📍",
     "has_children": false
   },
   {
@@ -3315,6 +3712,7 @@
     "is_word": true,
     "word_rank": 223,
     "full_word": "zmieniać",
+    "emoji": "🔄",
     "has_children": false
   },
   {
@@ -3323,6 +3721,7 @@
     "is_word": true,
     "word_rank": 224,
     "full_word": "czuć",
+    "emoji": "👃",
     "has_children": false
   },
   {
@@ -3331,6 +3730,7 @@
     "is_word": true,
     "word_rank": 226,
     "full_word": "wracać",
+    "emoji": "🔙",
     "has_children": false
   },
   {
@@ -3339,6 +3739,7 @@
     "is_word": true,
     "word_rank": 228,
     "full_word": "trzymać",
+    "emoji": "✊",
     "has_children": false
   },
   {
@@ -3347,6 +3748,7 @@
     "is_word": true,
     "word_rank": 230,
     "full_word": "używać",
+    "emoji": "🔧",
     "has_children": false
   },
   {
@@ -3355,6 +3757,7 @@
     "is_word": true,
     "word_rank": 239,
     "full_word": "martwić się",
+    "emoji": "😟",
     "has_children": false
   },
   {
@@ -3363,6 +3766,7 @@
     "is_word": true,
     "word_rank": 241,
     "full_word": "próbować",
+    "emoji": "🔄",
     "has_children": false
   },
   {
@@ -3371,6 +3775,7 @@
     "is_word": true,
     "word_rank": 242,
     "full_word": "sprawdzić",
+    "emoji": "✔️",
     "has_children": false
   },
   {
@@ -3379,6 +3784,7 @@
     "is_word": true,
     "word_rank": 244,
     "full_word": "zdarzyć się",
+    "emoji": "⚡",
     "has_children": false
   },
   {
@@ -3387,6 +3793,7 @@
     "is_word": true,
     "word_rank": 245,
     "full_word": "udać się",
+    "emoji": "✅",
     "has_children": false
   },
   {
@@ -3395,6 +3802,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -3403,6 +3811,7 @@
         "is_word": true,
         "word_rank": 289,
         "full_word": "prawdziwy",
+        "emoji": "✔️",
         "has_children": false
       },
       {
@@ -3411,6 +3820,7 @@
         "is_word": true,
         "word_rank": 457,
         "full_word": "prawda",
+        "emoji": "✔️",
         "has_children": false
       }
     ]
@@ -3421,6 +3831,7 @@
     "is_word": true,
     "word_rank": 246,
     "full_word": "brakować",
+    "emoji": "❌",
     "has_children": false
   },
   {
@@ -3429,6 +3840,7 @@
     "is_word": true,
     "word_rank": 247,
     "full_word": "kosztować",
+    "emoji": "💰",
     "has_children": false
   },
   {
@@ -3437,6 +3849,7 @@
     "is_word": true,
     "word_rank": 250,
     "full_word": "sprzedawać",
+    "emoji": "🏪",
     "has_children": false
   },
   {
@@ -3445,6 +3858,7 @@
     "is_word": true,
     "word_rank": 257,
     "full_word": "upaść",
+    "emoji": "⬇️",
     "has_children": false
   },
   {
@@ -3453,6 +3867,7 @@
     "is_word": true,
     "word_rank": 258,
     "full_word": "rzucić",
+    "emoji": "🎯",
     "has_children": false
   },
   {
@@ -3461,6 +3876,7 @@
     "is_word": true,
     "word_rank": 259,
     "full_word": "złapać",
+    "emoji": "✋",
     "has_children": false
   },
   {
@@ -3469,6 +3885,7 @@
     "is_word": true,
     "word_rank": 260,
     "full_word": "kopnąć",
+    "emoji": "🦶",
     "has_children": false
   },
   {
@@ -3477,6 +3894,7 @@
     "is_word": true,
     "word_rank": 261,
     "full_word": "uderzyć",
+    "emoji": "👊",
     "has_children": false
   },
   {
@@ -3485,6 +3903,7 @@
     "is_word": true,
     "word_rank": 264,
     "full_word": "śmiać się",
+    "emoji": "😂",
     "has_children": false
   },
   {
@@ -3493,6 +3912,7 @@
     "is_word": true,
     "word_rank": 267,
     "full_word": "szeptać",
+    "emoji": "🤫",
     "has_children": false
   },
   {
@@ -3501,6 +3921,7 @@
     "is_word": true,
     "word_rank": 268,
     "full_word": "śpiewać",
+    "emoji": "🎤",
     "has_children": false
   },
   {
@@ -3509,6 +3930,7 @@
     "is_word": true,
     "word_rank": 269,
     "full_word": "tańczyć",
+    "emoji": "💃",
     "has_children": false
   },
   {
@@ -3517,6 +3939,7 @@
     "is_word": true,
     "word_rank": 272,
     "full_word": "piec",
+    "emoji": "🥧",
     "has_children": false
   },
   {
@@ -3525,6 +3948,7 @@
     "is_word": true,
     "word_rank": 274,
     "full_word": "sprzątać",
+    "emoji": "🧹",
     "has_children": false
   },
   {
@@ -3533,6 +3957,7 @@
     "is_word": true,
     "word_rank": 275,
     "full_word": "prać",
+    "emoji": "🧺",
     "has_children": false
   },
   {
@@ -3541,6 +3966,7 @@
     "is_word": true,
     "word_rank": 279,
     "full_word": "psuć",
+    "emoji": "💔",
     "has_children": false
   },
   {
@@ -3549,6 +3975,7 @@
     "is_word": true,
     "word_rank": 280,
     "full_word": "zgubić",
+    "emoji": "🔎",
     "has_children": false
   },
   {
@@ -3557,6 +3984,7 @@
     "is_word": true,
     "word_rank": 286,
     "full_word": "ważny",
+    "emoji": "⚠️",
     "has_children": false
   },
   {
@@ -3565,6 +3993,7 @@
     "is_word": true,
     "word_rank": 287,
     "full_word": "możliwy",
+    "emoji": "✅",
     "has_children": false
   },
   {
@@ -3573,6 +4002,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -3581,6 +4011,7 @@
         "is_word": true,
         "word_rank": 376,
         "full_word": "plecy",
+        "emoji": "🔙",
         "has_children": false
       },
       {
@@ -3589,6 +4020,7 @@
         "is_word": true,
         "word_rank": 412,
         "full_word": "plecak",
+        "emoji": "🎒",
         "has_children": false
       }
     ]
@@ -3599,6 +4031,7 @@
     "is_word": true,
     "word_rank": 290,
     "full_word": "sztuczny",
+    "emoji": "🤖",
     "has_children": false
   },
   {
@@ -3607,6 +4040,7 @@
     "is_word": true,
     "word_rank": 292,
     "full_word": "ciemny",
+    "emoji": "🌑",
     "has_children": false
   },
   {
@@ -3615,6 +4049,7 @@
     "is_word": true,
     "word_rank": 294,
     "full_word": "czarny",
+    "emoji": "⬛",
     "has_children": false
   },
   {
@@ -3623,6 +4058,7 @@
     "is_word": true,
     "word_rank": 295,
     "full_word": "biały",
+    "emoji": "⬜",
     "has_children": false
   },
   {
@@ -3631,6 +4067,7 @@
     "is_word": true,
     "word_rank": 296,
     "full_word": "czerwony",
+    "emoji": "🔴",
     "has_children": false
   },
   {
@@ -3639,6 +4076,7 @@
     "is_word": true,
     "word_rank": 298,
     "full_word": "zielony",
+    "emoji": "🟢",
     "has_children": false
   },
   {
@@ -3647,6 +4085,7 @@
     "is_word": true,
     "word_rank": 299,
     "full_word": "żółty",
+    "emoji": "🟡",
     "has_children": false
   },
   {
@@ -3655,6 +4094,7 @@
     "is_word": true,
     "word_rank": 304,
     "full_word": "gruby",
+    "emoji": "🐘",
     "has_children": false
   },
   {
@@ -3663,6 +4103,7 @@
     "is_word": true,
     "word_rank": 305,
     "full_word": "chudy",
+    "emoji": "🦴",
     "has_children": false
   },
   {
@@ -3671,6 +4112,7 @@
     "is_word": true,
     "word_rank": 308,
     "full_word": "pełny",
+    "emoji": "💯",
     "has_children": false
   },
   {
@@ -3679,6 +4121,7 @@
     "is_word": true,
     "word_rank": 309,
     "full_word": "pusty",
+    "emoji": "⭕",
     "has_children": false
   },
   {
@@ -3687,6 +4130,7 @@
     "is_word": true,
     "word_rank": 310,
     "full_word": "otwarty",
+    "emoji": "📂",
     "has_children": false
   },
   {
@@ -3695,6 +4139,7 @@
     "is_word": true,
     "word_rank": 313,
     "full_word": "drogi",
+    "emoji": "💎",
     "has_children": false
   },
   {
@@ -3703,6 +4148,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -3711,6 +4157,7 @@
         "is_word": true,
         "word_rank": 350,
         "full_word": "rano",
+        "emoji": "🌅",
         "has_children": false
       },
       {
@@ -3719,6 +4166,7 @@
         "is_word": true,
         "word_rank": 467,
         "full_word": "razem",
+        "emoji": "👥",
         "has_children": false
       }
     ]
@@ -3729,6 +4177,7 @@
     "is_word": true,
     "word_rank": 319,
     "full_word": "nerwowy",
+    "emoji": "😰",
     "has_children": false
   },
   {
@@ -3737,6 +4186,7 @@
     "is_word": true,
     "word_rank": 322,
     "full_word": "mądry",
+    "emoji": "🧠",
     "has_children": false
   },
   {
@@ -3745,6 +4195,7 @@
     "is_word": true,
     "word_rank": 323,
     "full_word": "głupi",
+    "emoji": "🤪",
     "has_children": false
   },
   {
@@ -3753,6 +4204,7 @@
     "is_word": true,
     "word_rank": 324,
     "full_word": "piękny",
+    "emoji": "🌸",
     "has_children": false
   },
   {
@@ -3761,6 +4213,7 @@
     "is_word": true,
     "word_rank": 325,
     "full_word": "brzydki",
+    "emoji": "🤢",
     "has_children": false
   },
   {
@@ -3769,6 +4222,7 @@
     "is_word": true,
     "word_rank": 327,
     "full_word": "smaczny",
+    "emoji": "😋",
     "has_children": false
   },
   {
@@ -3777,6 +4231,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -3785,6 +4240,7 @@
         "is_word": true,
         "word_rank": 346,
         "full_word": "miesiąc",
+        "emoji": "📆",
         "has_children": false
       },
       {
@@ -3793,6 +4249,7 @@
         "is_word": true,
         "word_rank": 482,
         "full_word": "mieszać",
+        "emoji": "🥄",
         "has_children": false
       }
     ]
@@ -3803,6 +4260,7 @@
     "is_word": true,
     "word_rank": 328,
     "full_word": "słodki",
+    "emoji": "🍬",
     "has_children": false
   },
   {
@@ -3811,6 +4269,7 @@
     "is_word": true,
     "word_rank": 329,
     "full_word": "kwaśny",
+    "emoji": "🍋",
     "has_children": false
   },
   {
@@ -3819,6 +4278,7 @@
     "is_word": true,
     "word_rank": 330,
     "full_word": "słony",
+    "emoji": "🧂",
     "has_children": false
   },
   {
@@ -3827,6 +4287,7 @@
     "is_word": true,
     "word_rank": 331,
     "full_word": "ostry",
+    "emoji": "🌶️",
     "has_children": false
   },
   {
@@ -3835,6 +4296,7 @@
     "is_word": true,
     "word_rank": 332,
     "full_word": "miękki",
+    "emoji": "☁️",
     "has_children": false
   },
   {
@@ -3843,6 +4305,7 @@
     "is_word": true,
     "word_rank": 333,
     "full_word": "twardy",
+    "emoji": "🪨",
     "has_children": false
   },
   {
@@ -3851,6 +4314,7 @@
     "is_word": true,
     "word_rank": 334,
     "full_word": "lekki",
+    "emoji": "🪶",
     "has_children": false
   },
   {
@@ -3859,6 +4323,7 @@
     "is_word": true,
     "word_rank": 335,
     "full_word": "ciężki",
+    "emoji": "🏋️",
     "has_children": false
   },
   {
@@ -3867,6 +4332,7 @@
     "is_word": true,
     "word_rank": 336,
     "full_word": "silny",
+    "emoji": "💪",
     "has_children": false
   },
   {
@@ -3875,6 +4341,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -3883,6 +4350,7 @@
         "is_word": true,
         "word_rank": 413,
         "full_word": "zegarek",
+        "emoji": "⌚",
         "has_children": false
       },
       {
@@ -3891,6 +4359,7 @@
         "is_word": true,
         "word_rank": 424,
         "full_word": "zeszyt",
+        "emoji": "📓",
         "has_children": false
       }
     ]
@@ -3901,6 +4370,7 @@
     "is_word": true,
     "word_rank": 337,
     "full_word": "słaby",
+    "emoji": "🥀",
     "has_children": false
   },
   {
@@ -3909,6 +4379,7 @@
     "is_word": true,
     "word_rank": 338,
     "full_word": "zdrowy",
+    "emoji": "💚",
     "has_children": false
   },
   {
@@ -3917,6 +4388,7 @@
     "is_word": true,
     "word_rank": 339,
     "full_word": "szczęśliwy",
+    "emoji": "😊",
     "has_children": false
   },
   {
@@ -3925,6 +4397,7 @@
     "is_word": true,
     "word_rank": 340,
     "full_word": "pierwszy",
+    "emoji": "1️⃣",
     "has_children": false
   },
   {
@@ -3933,6 +4406,7 @@
     "is_word": true,
     "word_rank": 341,
     "full_word": "drugi",
+    "emoji": "2️⃣",
     "has_children": false
   },
   {
@@ -3941,6 +4415,7 @@
     "is_word": true,
     "word_rank": 342,
     "full_word": "ostatni",
+    "emoji": "🔚",
     "has_children": false
   },
   {
@@ -3949,6 +4424,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -3957,6 +4433,7 @@
         "is_word": true,
         "word_rank": 382,
         "full_word": "mięso",
+        "emoji": "🥩",
         "has_children": false
       },
       {
@@ -3965,6 +4442,7 @@
         "is_word": true,
         "word_rank": 464,
         "full_word": "między",
+        "emoji": "↔️",
         "has_children": false
       }
     ]
@@ -3975,6 +4453,7 @@
     "is_word": true,
     "word_rank": 347,
     "full_word": "rok",
+    "emoji": "🗓️",
     "has_children": false
   },
   {
@@ -3983,6 +4462,7 @@
     "is_word": true,
     "word_rank": 354,
     "full_word": "wtorek",
+    "emoji": "📅",
     "has_children": false
   },
   {
@@ -3991,6 +4471,7 @@
     "is_word": true,
     "word_rank": 356,
     "full_word": "czwartek",
+    "emoji": "📅",
     "has_children": false
   },
   {
@@ -3999,6 +4480,7 @@
     "is_word": true,
     "word_rank": 357,
     "full_word": "piątek",
+    "emoji": "📅",
     "has_children": false
   },
   {
@@ -4007,6 +4489,7 @@
     "is_word": true,
     "word_rank": 358,
     "full_word": "sobota",
+    "emoji": "📅",
     "has_children": false
   },
   {
@@ -4015,6 +4498,7 @@
     "is_word": true,
     "word_rank": 360,
     "full_word": "zima",
+    "emoji": "❄️",
     "has_children": false
   },
   {
@@ -4023,6 +4507,7 @@
     "is_word": true,
     "word_rank": 361,
     "full_word": "lato",
+    "emoji": "☀️",
     "has_children": false
   },
   {
@@ -4031,6 +4516,7 @@
     "is_word": true,
     "word_rank": 362,
     "full_word": "wiosna",
+    "emoji": "🌸",
     "has_children": false
   },
   {
@@ -4039,6 +4525,7 @@
     "is_word": true,
     "word_rank": 364,
     "full_word": "święto",
+    "emoji": "🎉",
     "has_children": false
   },
   {
@@ -4047,6 +4534,7 @@
     "is_word": true,
     "word_rank": 365,
     "full_word": "urodziny",
+    "emoji": "🎂",
     "has_children": false
   },
   {
@@ -4055,6 +4543,7 @@
     "is_word": true,
     "word_rank": 367,
     "full_word": "ręka",
+    "emoji": "✋",
     "has_children": false
   },
   {
@@ -4063,6 +4552,7 @@
     "is_word": true,
     "word_rank": 369,
     "full_word": "brzuch",
+    "emoji": "🫃",
     "has_children": false
   },
   {
@@ -4071,6 +4561,7 @@
     "is_word": true,
     "word_rank": 370,
     "full_word": "oko",
+    "emoji": "👁️",
     "has_children": false
   },
   {
@@ -4079,6 +4570,7 @@
     "is_word": true,
     "word_rank": 371,
     "full_word": "ucho",
+    "emoji": "👂",
     "has_children": false
   },
   {
@@ -4087,6 +4579,7 @@
     "is_word": true,
     "word_rank": 372,
     "full_word": "nos",
+    "emoji": "👃",
     "has_children": false
   },
   {
@@ -4095,6 +4588,7 @@
     "is_word": true,
     "word_rank": 374,
     "full_word": "włosy",
+    "emoji": "💇",
     "has_children": false
   },
   {
@@ -4103,6 +4597,7 @@
     "is_word": true,
     "word_rank": 377,
     "full_word": "krew",
+    "emoji": "🩸",
     "has_children": false
   },
   {
@@ -4111,6 +4606,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -4119,6 +4615,7 @@
         "is_word": true,
         "word_rank": 399,
         "full_word": "plac zabaw",
+        "emoji": "🎪",
         "has_children": false
       },
       {
@@ -4127,6 +4624,7 @@
         "is_word": true,
         "word_rank": 479,
         "full_word": "planować",
+        "emoji": "📋",
         "has_children": false
       }
     ]
@@ -4137,6 +4635,7 @@
     "is_word": true,
     "word_rank": 378,
     "full_word": "serce",
+    "emoji": "❤️",
     "has_children": false
   },
   {
@@ -4145,6 +4644,7 @@
     "is_word": true,
     "word_rank": 379,
     "full_word": "herbata",
+    "emoji": "🍵",
     "has_children": false
   },
   {
@@ -4153,6 +4653,7 @@
     "is_word": true,
     "word_rank": 380,
     "full_word": "kawa",
+    "emoji": "☕",
     "has_children": false
   },
   {
@@ -4161,6 +4662,7 @@
     "is_word": true,
     "word_rank": 381,
     "full_word": "zupa",
+    "emoji": "🍲",
     "has_children": false
   },
   {
@@ -4169,6 +4671,7 @@
     "is_word": true,
     "word_rank": 383,
     "full_word": "ziemniaki",
+    "emoji": "🥔",
     "has_children": false
   },
   {
@@ -4177,6 +4680,7 @@
     "is_word": true,
     "word_rank": 384,
     "full_word": "ryż",
+    "emoji": "🍚",
     "has_children": false
   },
   {
@@ -4185,6 +4689,7 @@
     "is_word": true,
     "word_rank": 386,
     "full_word": "owoc",
+    "emoji": "🍎",
     "has_children": false
   },
   {
@@ -4193,6 +4698,7 @@
     "is_word": true,
     "word_rank": 387,
     "full_word": "warzywo",
+    "emoji": "🥕",
     "has_children": false
   },
   {
@@ -4201,6 +4707,7 @@
     "is_word": true,
     "word_rank": 389,
     "full_word": "lody",
+    "emoji": "🍦",
     "has_children": false
   },
   {
@@ -4209,6 +4716,7 @@
     "is_word": true,
     "word_rank": 391,
     "full_word": "cukier",
+    "emoji": "🍬",
     "has_children": false
   },
   {
@@ -4217,6 +4725,7 @@
     "is_word": true,
     "word_rank": 392,
     "full_word": "sól",
+    "emoji": "🧂",
     "has_children": false
   },
   {
@@ -4225,6 +4734,7 @@
     "is_word": true,
     "word_rank": 393,
     "full_word": "sklep",
+    "emoji": "🏪",
     "has_children": false
   },
   {
@@ -4233,6 +4743,7 @@
     "is_word": true,
     "word_rank": 394,
     "full_word": "ulica",
+    "emoji": "🛣️",
     "has_children": false
   },
   {
@@ -4241,6 +4752,7 @@
     "is_word": true,
     "word_rank": 395,
     "full_word": "miasto",
+    "emoji": "🏙️",
     "has_children": false
   },
   {
@@ -4249,6 +4761,7 @@
     "is_word": true,
     "word_rank": 396,
     "full_word": "wieś",
+    "emoji": "🏡",
     "has_children": false
   },
   {
@@ -4257,6 +4770,7 @@
     "is_word": true,
     "word_rank": 397,
     "full_word": "ogród",
+    "emoji": "🌻",
     "has_children": false
   },
   {
@@ -4265,6 +4779,7 @@
     "is_word": true,
     "word_rank": 398,
     "full_word": "park",
+    "emoji": "🌳",
     "has_children": false
   },
   {
@@ -4273,6 +4788,7 @@
     "is_word": true,
     "word_rank": 400,
     "full_word": "las",
+    "emoji": "🌲",
     "has_children": false
   },
   {
@@ -4281,6 +4797,7 @@
     "is_word": true,
     "word_rank": 401,
     "full_word": "kuchnia",
+    "emoji": "🍳",
     "has_children": false
   },
   {
@@ -4289,6 +4806,7 @@
     "is_word": true,
     "word_rank": 403,
     "full_word": "drzwi",
+    "emoji": "🚪",
     "has_children": false
   },
   {
@@ -4297,6 +4815,7 @@
     "is_word": true,
     "word_rank": 404,
     "full_word": "okno",
+    "emoji": "🪟",
     "has_children": false
   },
   {
@@ -4305,6 +4824,7 @@
     "is_word": true,
     "word_rank": 405,
     "full_word": "ściana",
+    "emoji": "🧱",
     "has_children": false
   },
   {
@@ -4313,6 +4833,7 @@
     "is_word": true,
     "word_rank": 407,
     "full_word": "schody",
+    "emoji": "🪜",
     "has_children": false
   },
   {
@@ -4321,6 +4842,7 @@
     "is_word": true,
     "word_rank": 408,
     "full_word": "winda",
+    "emoji": "🛗",
     "has_children": false
   },
   {
@@ -4329,6 +4851,7 @@
     "is_word": true,
     "word_rank": 409,
     "full_word": "klucz",
+    "emoji": "🔑",
     "has_children": false
   },
   {
@@ -4337,6 +4860,7 @@
     "is_word": true,
     "word_rank": 410,
     "full_word": "pieniądze",
+    "emoji": "💰",
     "has_children": false
   },
   {
@@ -4345,6 +4869,7 @@
     "is_word": true,
     "word_rank": 411,
     "full_word": "torba",
+    "emoji": "👜",
     "has_children": false
   },
   {
@@ -4353,6 +4878,7 @@
     "is_word": true,
     "word_rank": 414,
     "full_word": "okulary",
+    "emoji": "👓",
     "has_children": false
   },
   {
@@ -4361,6 +4887,7 @@
     "is_word": true,
     "word_rank": 415,
     "full_word": "ubranie",
+    "emoji": "👕",
     "has_children": false
   },
   {
@@ -4369,6 +4896,7 @@
     "is_word": true,
     "word_rank": 417,
     "full_word": "spodnie",
+    "emoji": "👖",
     "has_children": false
   },
   {
@@ -4377,6 +4905,7 @@
     "is_word": true,
     "word_rank": 419,
     "full_word": "czapka",
+    "emoji": "🧢",
     "has_children": false
   },
   {
@@ -4385,6 +4914,7 @@
     "is_word": true,
     "word_rank": 420,
     "full_word": "kurtka",
+    "emoji": "🧥",
     "has_children": false
   },
   {
@@ -4393,6 +4923,7 @@
     "is_word": true,
     "word_rank": 423,
     "full_word": "książka",
+    "emoji": "📚",
     "has_children": false
   },
   {
@@ -4401,6 +4932,7 @@
     "is_word": true,
     "word_rank": 425,
     "full_word": "prezent",
+    "emoji": "🎁",
     "has_children": false
   },
   {
@@ -4409,6 +4941,7 @@
     "is_word": true,
     "word_rank": 427,
     "full_word": "mężczyzna",
+    "emoji": "👨",
     "has_children": false
   },
   {
@@ -4417,6 +4950,7 @@
     "is_word": true,
     "word_rank": 428,
     "full_word": "człowiek",
+    "emoji": "🧑",
     "has_children": false
   },
   {
@@ -4425,6 +4959,7 @@
     "is_word": true,
     "word_rank": 431,
     "full_word": "babcia",
+    "emoji": "👵",
     "has_children": false
   },
   {
@@ -4433,6 +4968,7 @@
     "is_word": true,
     "word_rank": 432,
     "full_word": "dziadek",
+    "emoji": "👴",
     "has_children": false
   },
   {
@@ -4441,6 +4977,7 @@
     "is_word": true,
     "word_rank": 433,
     "full_word": "siostra",
+    "emoji": "👧",
     "has_children": false
   },
   {
@@ -4449,6 +4986,7 @@
     "is_word": true,
     "word_rank": 434,
     "full_word": "brat",
+    "emoji": "👦",
     "has_children": false
   },
   {
@@ -4457,6 +4995,7 @@
     "is_word": true,
     "word_rank": 435,
     "full_word": "ciocia",
+    "emoji": "👩",
     "has_children": false
   },
   {
@@ -4465,6 +5004,7 @@
     "is_word": true,
     "word_rank": 436,
     "full_word": "wujek",
+    "emoji": "👨",
     "has_children": false
   },
   {
@@ -4473,6 +5013,7 @@
     "is_word": true,
     "word_rank": 439,
     "full_word": "ptak",
+    "emoji": "🐦",
     "has_children": false
   },
   {
@@ -4481,6 +5022,7 @@
     "is_word": true,
     "word_rank": 440,
     "full_word": "koń",
+    "emoji": "🐴",
     "has_children": false
   },
   {
@@ -4489,6 +5031,7 @@
     "is_word": true,
     "word_rank": 442,
     "full_word": "świnia",
+    "emoji": "🐷",
     "has_children": false
   },
   {
@@ -4497,6 +5040,7 @@
     "is_word": true,
     "word_rank": 444,
     "full_word": "mysz",
+    "emoji": "🐭",
     "has_children": false
   },
   {
@@ -4505,6 +5049,7 @@
     "is_word": true,
     "word_rank": 445,
     "full_word": "imię",
+    "emoji": "📛",
     "has_children": false
   },
   {
@@ -4513,6 +5058,7 @@
     "is_word": true,
     "word_rank": 447,
     "full_word": "wiek",
+    "emoji": "🎂",
     "has_children": false
   },
   {
@@ -4521,6 +5067,7 @@
     "is_word": true,
     "word_rank": 448,
     "full_word": "adres",
+    "emoji": "📍",
     "has_children": false
   },
   {
@@ -4529,6 +5076,7 @@
     "is_word": true,
     "word_rank": 449,
     "full_word": "numer",
+    "emoji": "🔢",
     "has_children": false
   },
   {
@@ -4537,6 +5085,7 @@
     "is_word": true,
     "word_rank": 451,
     "full_word": "kształt",
+    "emoji": "🔷",
     "has_children": false
   },
   {
@@ -4545,6 +5094,7 @@
     "is_word": true,
     "word_rank": 452,
     "full_word": "część",
+    "emoji": "🧩",
     "has_children": false
   },
   {
@@ -4553,6 +5103,7 @@
     "is_word": true,
     "word_rank": 456,
     "full_word": "błąd",
+    "emoji": "❌",
     "has_children": false
   },
   {
@@ -4561,6 +5112,7 @@
     "is_word": true,
     "word_rank": 458,
     "full_word": "kłamstwo",
+    "emoji": "🤥",
     "has_children": false
   },
   {
@@ -4569,6 +5121,7 @@
     "is_word": true,
     "word_rank": 461,
     "full_word": "zdjęcie",
+    "emoji": "📸",
     "has_children": false
   },
   {
@@ -4577,6 +5130,7 @@
     "is_word": false,
     "word_rank": null,
     "full_word": "",
+    "emoji": "",
     "has_children": true,
     "children": [
       {
@@ -4585,6 +5139,7 @@
         "is_word": true,
         "word_rank": 480,
         "full_word": "smarować",
+        "emoji": "🧈",
         "has_children": false
       },
       {
@@ -4593,6 +5148,7 @@
         "is_word": true,
         "word_rank": 483,
         "full_word": "smażyć",
+        "emoji": "🍳",
         "has_children": false
       }
     ]
@@ -4603,6 +5159,7 @@
     "is_word": true,
     "word_rank": 463,
     "full_word": "film",
+    "emoji": "🎬",
     "has_children": false
   },
   {
@@ -4611,6 +5168,7 @@
     "is_word": true,
     "word_rank": 465,
     "full_word": "obok",
+    "emoji": "📍",
     "has_children": false
   },
   {
@@ -4619,6 +5177,7 @@
     "is_word": true,
     "word_rank": 468,
     "full_word": "osobno",
+    "emoji": "1️⃣",
     "has_children": false
   },
   {
@@ -4627,6 +5186,7 @@
     "is_word": true,
     "word_rank": 469,
     "full_word": "tylko",
+    "emoji": "⚠️",
     "has_children": false
   },
   {
@@ -4635,6 +5195,7 @@
     "is_word": true,
     "word_rank": 471,
     "full_word": "też",
+    "emoji": "➕",
     "has_children": false
   },
   {
@@ -4643,6 +5204,7 @@
     "is_word": true,
     "word_rank": 472,
     "full_word": "chyba",
+    "emoji": "🤔",
     "has_children": false
   },
   {
@@ -4651,6 +5213,7 @@
     "is_word": true,
     "word_rank": 473,
     "full_word": "pewnie",
+    "emoji": "✔️",
     "has_children": false
   },
   {
@@ -4659,6 +5222,7 @@
     "is_word": true,
     "word_rank": 476,
     "full_word": "właśnie",
+    "emoji": "⏰",
     "has_children": false
   },
   {
@@ -4667,6 +5231,7 @@
     "is_word": true,
     "word_rank": 477,
     "full_word": "śnić",
+    "emoji": "💭",
     "has_children": false
   },
   {
@@ -4675,6 +5240,7 @@
     "is_word": true,
     "word_rank": 481,
     "full_word": "trzeć",
+    "emoji": "🧽",
     "has_children": false
   },
   {
@@ -4683,6 +5249,7 @@
     "is_word": true,
     "word_rank": 484,
     "full_word": "lać",
+    "emoji": "🫗",
     "has_children": false
   },
   {
@@ -4691,6 +5258,7 @@
     "is_word": true,
     "word_rank": 485,
     "full_word": "sypać",
+    "emoji": "🧂",
     "has_children": false
   },
   {
@@ -4699,6 +5267,7 @@
     "is_word": true,
     "word_rank": 491,
     "full_word": "składać",
+    "emoji": "📦",
     "has_children": false
   },
   {
@@ -4707,6 +5276,7 @@
     "is_word": true,
     "word_rank": 492,
     "full_word": "ubierać",
+    "emoji": "👕",
     "has_children": false
   },
   {
@@ -4715,6 +5285,7 @@
     "is_word": true,
     "word_rank": 493,
     "full_word": "rozbierać",
+    "emoji": "👕",
     "has_children": false
   },
   {
@@ -4723,6 +5294,7 @@
     "is_word": true,
     "word_rank": 496,
     "full_word": "wiązać",
+    "emoji": "🎀",
     "has_children": false
   },
   {
@@ -4731,6 +5303,7 @@
     "is_word": true,
     "word_rank": 498,
     "full_word": "ciąć",
+    "emoji": "✂️",
     "has_children": false
   },
   {
@@ -4739,6 +5312,7 @@
     "is_word": true,
     "word_rank": 499,
     "full_word": "kleić",
+    "emoji": "🧴",
     "has_children": false
   },
   {
@@ -4747,6 +5321,7 @@
     "is_word": true,
     "word_rank": 500,
     "full_word": "liczyć",
+    "emoji": "🔢",
     "has_children": false
   }
 ]

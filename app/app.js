@@ -61,7 +61,7 @@ const SpeakingIndicator = ({ visible }) => html`
 `;
 
 // New Top Bar Component
-const TopBar = ({ path, sentence, onBack, onRemoveWord, onReadSentence }) => {
+const TopBar = ({ path, sentence, onBack, onRemoveWord, onClearSentence, onReadSentence }) => {
     const isRoot = path.length === 0;
     
     // Auto-scroll to end of sentence
@@ -83,17 +83,26 @@ const TopBar = ({ path, sentence, onBack, onRemoveWord, onReadSentence }) => {
 
             <!-- Sentence Display -->
             <div class="sentence-display" 
-                 onClick=${onReadSentence}
                  ref=${sentenceRef}
-                 style="flex: 1; background: #f0f4f8; border-radius: 12px; padding: 0 16px; display: flex; align-items: center; overflow-x: auto; white-space: nowrap; cursor: pointer; border: 2px solid transparent; transition: all 0.2s;">
-                ${sentence.length === 0 
-                    ? html`<span style="color: #99aab5; font-style: italic;">Zdanie...</span>`
-                    : sentence.map((word, i) => html`
-                        <span style="background: white; padding: 4px 8px; border-radius: 6px; margin-right: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); font-weight: 600;">
-                            ${word}
-                        </span>
-                    `)
-                }
+                 style="flex: 1; background: #f0f4f8; border-radius: 12px; padding: 0 16px; display: flex; align-items: center; overflow-x: auto; white-space: nowrap; cursor: pointer; border: 2px solid transparent; transition: all 0.2s; position: relative;"
+                 onClick=${(e) => e.target === e.currentTarget && onReadSentence()}>
+                <div style="flex: 1; display: flex; align-items: center; gap: 6px; min-width: 0;" onClick=${onReadSentence}>
+                    ${sentence.length === 0 
+                        ? html`<span style="color: #99aab5; font-style: italic;">Zdanie...</span>`
+                        : sentence.map((entry, i) => html`
+                            <span style="background: white; padding: 4px 8px; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.05); font-weight: 600; flex-shrink: 0; display: flex; align-items: center; gap: 4px;">
+                                ${entry.emoji && html`<span style="font-size: 14px;">${entry.emoji}</span>`}
+                                <span>${entry.word}</span>
+                            </span>
+                        `)
+                    }
+                </div>
+                ${sentence.length > 0 && html`
+                    <span 
+                        onClick=${(e) => { e.stopPropagation(); onClearSentence(); }}
+                        style="color: #333; cursor: pointer; font-size: 18px; margin-left: 8px; flex-shrink: 0; padding: 4px; user-select: none;"
+                    >✕</span>
+                `}
             </div>
 
             <!-- Remove Word Button -->
@@ -112,12 +121,14 @@ const GridItem = ({ item, index, onClick }) => {
     const isWord = item.is_word;
     const type = hasChildren ? 'category' : (isWord ? 'word' : 'none');
     const badge = type === 'category' ? '→' : (type === 'word' ? '♪' : null);
+    const emoji = item.emoji && isWord ? item.emoji : null;
 
     return html`
         <div class="grid-item ${type} fade-in" 
              style="animation-delay: ${index * 0.02}s"
              onClick=${() => onClick(item)}>
             ${badge && html`<div class="grid-item-badge ${type}">${badge}</div>`}
+            ${emoji && html`<div style="font-size: 24px; margin-bottom: 4px;">${emoji}</div>`}
             <div class="grid-item-text">${item.syllable}${type === 'category' ? '-' : ''}</div>
         </div>
     `;
@@ -181,9 +192,12 @@ const App = () => {
         const handleKey = (e) => {
             if (e.key === 'Backspace') {
                 if (path.length > 0) setPath(p => p.slice(0, -1));
-                else if (sentence.length > 0) setSentence(s => s.slice(0, -1));
+                else if (sentence.length > 0) {
+                    const lastWord = sentence[sentence.length - 1];
+                    setSentence(s => s.slice(0, -1));
+                    if (lastWord.path) setPath(lastWord.path);
+                }
             }
-            if (e.key === 'Escape') setPath([]);
         };
         window.addEventListener('keydown', handleKey);
         return () => window.removeEventListener('keydown', handleKey);
@@ -231,7 +245,11 @@ const App = () => {
             setPath([...path, item]);
         } else if (item.is_word && item.full_word) {
             setPath([]); // Reset to root
-            setSentence(s => [...s, item.full_word]); // Add to sentence
+            setSentence(s => [...s, { 
+                word: item.full_word, 
+                emoji: item.emoji || '',
+                path: [...path] // Store the path where this word came from
+            }]);
             
             setTimeout(() => {
                 setSpeaking(true);
@@ -239,15 +257,23 @@ const App = () => {
             }, 100);
         }
     };
-
     const handleRemoveWord = () => {
-        setSentence(s => s.slice(0, -1));
+        setSentence(s => {
+            const newSentence = s.slice(0, -1);
+            // Navigate back to the path of the removed word
+            if (s.length > 0 && s[s.length - 1].path) {
+                setPath(s[s.length - 1].path);
+            }
+            return newSentence;
+        });
     };
-
+    const handleClearSentence = () => {
+        setSentence([]);
+    };
     const handleReadSentence = () => {
         if (sentence.length === 0) return;
         setSpeaking(true);
-        speak(sentence.join(' '), () => setSpeaking(false));
+        speak(sentence.map(s => s.word).join(' '), () => setSpeaking(false));
     };
 
     if (loading) return html`<${Spinner} />`;
@@ -260,6 +286,7 @@ const App = () => {
                 sentence=${sentence}
                 onBack=${handleBack}
                 onRemoveWord=${handleRemoveWord}
+                onClearSentence=${handleClearSentence}
                 onReadSentence=${handleReadSentence}
             />
 

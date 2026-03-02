@@ -1,4 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,has_children
-zobaczyć,431,True,70,zobaczyć,False
-zostać,276,True,225,zostać,False
-zostawić,268,True,233,zostawić,False
+syllable,weight,is_word,word_rank,full_word,emoji,has_children
+zobaczyć,431,True,70,zobaczyć,👁️,False
+zostać,276,True,225,zostać,🏠,False
+zostawić,268,True,233,zostawić,🚪,False
