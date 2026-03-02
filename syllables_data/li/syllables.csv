@@ -1,0 +1,5 @@
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+liczyć,1,True,500,liczyć,🔢,verb,False
+listonosz,-32,True,533,listonosz,📬,noun,False
+lizak,-145,True,646,lizak,🍭,noun,False
+listwa,-260,True,761,listwa,📏,noun,False

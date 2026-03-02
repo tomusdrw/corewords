@@ -1,0 +1,3 @@
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+kier,-92,True,391,cukier,🍬,noun,True
+cukierek,-144,True,645,cukierek,🍬,noun,False

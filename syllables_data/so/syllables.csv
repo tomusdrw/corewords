@@ -1,0 +1,4 @@
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+sobota,143,True,358,sobota,📅,noun,False
+sowa,-74,True,575,sowa,🦉,noun,False
+sofa,-277,True,778,sofa,🛋️,noun,False

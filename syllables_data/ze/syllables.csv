@@ -1,3 +1,5 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-zegarek,88,True,413,zegarek,⌚,False
-zeszyt,77,True,424,zeszyt,📓,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+zegarek,88,True,413,zegarek,⌚,noun,False
+zeszyt,77,True,424,zeszyt,📓,noun,False
+zepsuć,-6,True,507,zepsuć,🔄,verb,False
+zegar,-297,True,798,zegar,🕰️,noun,False

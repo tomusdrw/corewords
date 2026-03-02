@@ -1,3 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-miesiąc,155,True,346,miesiąc,📆,False
-mieszać,19,True,482,mieszać,🥄,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+miesiąc,155,True,346,miesiąc,📆,noun,False
+mieszać,19,True,482,mieszać,🥄,verb,False
+mielony,-169,True,670,mielony,🍖,noun,False

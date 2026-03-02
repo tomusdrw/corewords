@@ -1,3 +1,9 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-kupić,438,True,63,kupić,🛒,False
-kupować,252,True,249,kupować,🛒,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+kupić,386,True,115,kupić,🛒,verb,False
+kupować,252,True,249,kupować,🛒,verb,False
+zyn,-37,True,519,kuzyn,👦,noun,True
+kucharz,-37,True,538,kucharz,👨‍🍳,noun,False
+kura,-48,True,549,kura,🐔,noun,False
+kukurydza,-117,True,618,kukurydza,🌽,noun,False
+kubek,-194,True,695,kubek,☕,noun,False
+kuchenka,-209,True,710,kuchenka,🍳,noun,False

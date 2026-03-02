@@ -1,3 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-musieć,437,True,64,musieć,⚠️,False
-muzyka,39,True,462,muzyka,🎵,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+musieć,460,True,41,musieć,⚠️,verb,False
+muzyka,39,True,462,muzyka,🎵,noun,False
+muzeum,-376,True,877,muzeum,🏛️,noun,False

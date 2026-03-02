@@ -1,0 +1,5 @@
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+gałąź,-81,True,582,gałąź,🌿,noun,False
+gabinet,-235,True,736,gabinet,💼,noun,False
+ganek,-248,True,749,ganek,🏠,noun,False
+galeria,-366,True,867,galeria,🖼️,noun,False

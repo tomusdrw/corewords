@@ -1,3 +1,5 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-suchy,371,True,130,suchy,🏜️,False
-suszyć,12,True,489,suszyć,☀️,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+suchy,345,True,156,suchy,🏜️,adjective,False
+suszyć,12,True,489,suszyć,☀️,verb,False
+surówka,-186,True,687,surówka,🥗,noun,False
+sufit,-252,True,753,sufit,🏠,noun,False

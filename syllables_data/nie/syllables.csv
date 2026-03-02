@@ -1,7 +1,8 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-nienawidzić,263,True,238,nienawidzić,💔,False
-niemożliwy,213,True,288,niemożliwy,❌,False
-niebieski,204,True,297,niebieski,🔵,False
-niebezpieczny,186,True,315,niebezpieczny,⚠️,False
-niemiły,180,True,321,niemiły,😠,False
-niedziela,142,True,359,niedziela,📅,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+nienawidzić,263,True,238,nienawidzić,💔,verb,False
+niemożliwy,213,True,288,niemożliwy,❌,adjective,False
+niebieski,204,True,297,niebieski,🔵,adjective,False
+niebezpieczny,186,True,315,niebezpieczny,⚠️,adjective,False
+niemiły,180,True,321,niemiły,😠,adjective,False
+niedziela,142,True,359,niedziela,📅,noun,False
+niebo,-429,True,930,niebo,☁️,noun,False

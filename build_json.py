@@ -34,6 +34,7 @@ def build_json_tree(root_dir):
                     "word_rank": int(row["word_rank"]) if row["word_rank"] else None,
                     "full_word": row["full_word"],
                     "emoji": row.get("emoji", ""),
+                    "pos": row.get("pos", "noun"),
                     "has_children": row["has_children"].lower() == "true",
                 }
 
@@ -59,6 +60,7 @@ def build_json_tree(root_dir):
                                     "word_rank": item["word_rank"],
                                     "full_word": item["full_word"],
                                     "emoji": item["emoji"],
+                                    "pos": item["pos"],
                                     "has_children": False,
                                 }
                                 children.insert(0, word_option)

@@ -1,3 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-teraz,408,True,93,teraz,⏰,False
-telefon,292,True,209,telefon,📞,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+teraz,450,True,51,teraz,⏰,adverb,False
+telefon,292,True,209,telefon,📞,noun,False
+teatr,-374,True,875,teatr,🎭,noun,False

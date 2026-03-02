@@ -1,3 +1,3 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-mięso,119,True,382,mięso,🥩,False
-między,37,True,464,między,↔️,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+mięso,119,True,382,mięso,🥩,noun,False
+między,37,True,464,między,↔️,adjective,False

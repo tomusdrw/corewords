@@ -1,3 +1,5 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-inny,356,True,145,inny,🔄,False
-interesować,261,True,240,interesować,👀,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+inny,332,True,169,inny,🔄,adjective,False
+interesować,261,True,240,interesować,👀,verb,False
+indyk,-51,True,552,indyk,🦃,noun,False
+informacja,-341,True,842,informacja,ℹ️,noun,False

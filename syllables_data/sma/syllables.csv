@@ -1,3 +1,3 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-smarować,21,True,480,smarować,🧈,False
-smażyć,18,True,483,smażyć,🍳,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+smarować,21,True,480,smarować,🧈,verb,False
+smażyć,18,True,483,smażyć,🍳,verb,False

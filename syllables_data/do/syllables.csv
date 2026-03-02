@@ -1,5 +1,6 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-dobranoc,493,True,8,dobranoc,🌙,False
-dostać,439,True,62,dostać,📥,False
-dobrze,390,True,111,dobrze,👍,False
-dobry,378,True,123,dobry,👍,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+dobrze,446,True,55,dobrze,👍,adverb,False
+dobry,440,True,61,dobry,👍,adjective,False
+dobranoc,408,True,93,dobranoc,🌙,interjection,False
+dostać,387,True,114,dostać,📥,verb,False
+doniczka,-294,True,795,doniczka,🪴,noun,False

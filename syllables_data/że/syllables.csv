@@ -1,2 +1,2 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-żeby,332,True,169,żeby,🎯,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+żeby,320,True,181,żeby,🎯,conjunction,False

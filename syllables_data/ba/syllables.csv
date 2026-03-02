@@ -1,4 +1,8 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-bawić się,449,True,52,bawić się,🎮,False
-bać się,412,True,89,bać się,😨,False
-banan,113,True,388,banan,🍌,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+bawić się,462,True,39,bawić się,🎮,verb,False
+bać się,368,True,133,bać się,😨,verb,False
+banan,113,True,388,banan,🍌,noun,False
+bagietka,-123,True,624,bagietka,🥖,noun,False
+baton,-143,True,644,baton,🍫,noun,False
+bagaż,-344,True,845,bagaż,🧳,noun,False
+basen,-380,True,881,basen,🏊,noun,False

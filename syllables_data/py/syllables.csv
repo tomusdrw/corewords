@@ -1,3 +1,3 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-pytać,280,True,221,pytać,❓,False
-pytanie,42,True,459,pytanie,❓,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+pytać,280,True,221,pytać,❓,verb,False
+pytanie,42,True,459,pytanie,❓,noun,False

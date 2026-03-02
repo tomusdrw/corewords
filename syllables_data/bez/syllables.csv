@@ -1,2 +1,2 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-bezpieczny,187,True,314,bezpieczny,🛡️,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+bezpieczny,187,True,314,bezpieczny,🛡️,adjective,False

@@ -44,6 +44,7 @@ def process_core_words(input_file, output_root):
                         "rank": rank,
                         "weight": weight,
                         "emoji": row.get("emoji", ""),
+                        "pos": row.get("pos", "noun"),
                         "syllables": syllabify_polish(row["word"]),
                     }
                 )
@@ -74,6 +75,7 @@ def process_core_words(input_file, output_root):
             "rank": entry["rank"],
             "full_word": entry["word"],
             "emoji": entry["emoji"],
+            "pos": entry["pos"],
         }
 
     # Count Words in Subtree
@@ -125,6 +127,7 @@ def process_core_words(input_file, output_root):
                     "word_rank": w_info["rank"],
                     "full_word": w_info["full_word"],
                     "emoji": w_info["emoji"],
+                    "pos": w_info.get("pos", "noun"),
                     "has_children": False,  # Collapsed
                 }
                 rows.append(row)
@@ -146,6 +149,9 @@ def process_core_words(input_file, output_root):
                     "emoji": child_node["word_info"]["emoji"]
                     if child_node["word_info"]
                     else "",
+                    "pos": child_node["word_info"]["pos"]
+                    if child_node["word_info"]
+                    else "",
                     "has_children": has_children,
                 }
                 rows.append(row)
@@ -162,6 +168,7 @@ def process_core_words(input_file, output_root):
                         "word_rank",
                         "full_word",
                         "emoji",
+                        "pos",
                         "has_children",
                     ],
                 )

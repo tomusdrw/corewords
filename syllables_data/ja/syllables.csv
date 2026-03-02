@@ -1,2 +1,6 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-jasny,210,True,291,jasny,☀️,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+jasny,210,True,291,jasny,☀️,adjective,False
+jagoda,-90,True,591,jagoda,🫐,noun,False
+jajecznica,-132,True,633,jajecznica,🍳,noun,False
+jarzynowa,-158,True,659,jarzynowa,🥕,noun,False
+jadalnia,-234,True,735,jadalnia,🍽️,noun,False

@@ -1,4 +1,8 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-budować,224,True,277,budować,🏗️,False
-buzia,128,True,373,buzia,👄,False
-buty,85,True,416,buty,👟,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+budować,224,True,277,budować,🏗️,verb,False
+buzia,128,True,373,buzia,👄,noun,False
+buty,85,True,416,buty,👟,adjective,False
+burak,-118,True,619,burak,🍠,noun,False
+butelka,-197,True,698,butelka,🍾,noun,False
+budzik,-298,True,799,budzik,⏰,noun,False
+burza,-421,True,922,burza,⛈️,noun,False

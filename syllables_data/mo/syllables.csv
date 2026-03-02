@@ -1,4 +1,7 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-moje,482,True,19,moje,🙋,False
-mokry,372,True,129,mokry,💧,False
-może,27,True,474,może,🤷,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+moje,488,True,13,moje,🙋,pronoun,False
+mokry,346,True,155,mokry,💧,adjective,False
+może,27,True,474,może,🤷,noun,False
+motel,-229,True,730,motel,🏨,noun,False
+moneta,-351,True,852,moneta,🪙,noun,False
+morze,-395,True,896,morze,🌊,noun,False

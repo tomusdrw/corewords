@@ -1,5 +1,11 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-wyglądać,258,True,243,wyglądać,👀,False
-wybrać,218,True,283,wybrać,☑️,False
-wysoki,199,True,302,wysoki,📏,False
-wycierać,13,True,488,wycierać,🧻,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+wyglądać,258,True,243,wyglądać,👀,verb,False
+wybrać,218,True,283,wybrać,☑️,verb,False
+wysoki,199,True,302,wysoki,📏,adjective,False
+wygrać,0,True,501,wygrać,🔄,verb,False
+wyłączać,-5,True,506,wyłączać,🔄,verb,False
+wykładzina,-254,True,755,wykładzina,🏠,noun,False
+cie,-294,False,,,,,True
+wystawa,-377,True,878,wystawa,🖼️,noun,False
+wydma,-402,True,903,wydma,🏖️,noun,False
+wyspa,-437,True,938,wyspa,🏝️,noun,False

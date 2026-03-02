@@ -1,5 +1,8 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-wiedzieć,434,True,67,wiedzieć,💡,False
-wierzyć,265,True,236,wierzyć,🙏,False
-wieczór,150,True,351,wieczór,🌆,False
-wieszać,11,True,490,wieszać,👔,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+wiedzieć,457,True,44,wiedzieć,💡,verb,False
+wierzyć,265,True,236,wierzyć,🙏,verb,False
+wieczór,150,True,351,wieczór,🌆,noun,False
+wieszać,11,True,490,wieszać,👔,verb,False
+wiewiórka,-64,True,565,wiewiórka,🐿️,noun,False
+wieżowiec,-222,True,723,wieżowiec,🏙️,noun,False
+wieszak,-300,True,801,wieszak,👔,noun,False

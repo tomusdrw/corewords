@@ -1,0 +1,5 @@
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+przepraszam,495,True,6,przepraszam,😔,interjection,False
+przegrać,-1,True,502,przegrać,🔄,verb,False
+prześcieradło,-283,True,784,prześcieradło,🛏️,noun,False
+przejazd,-329,True,830,przejazd,🚗,noun,False

@@ -1,0 +1,8 @@
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+pieniądze,91,True,410,pieniądze,💰,noun,False
+pielęgniarka,-35,True,536,pielęgniarka,👩‍⚕️,noun,False
+pietruszka,-103,True,604,pietruszka,🥬,noun,False
+pierogi,-179,True,680,pierogi,🥟,noun,False
+pieprzniczka,-204,True,705,pieprzniczka,🧂,noun,False
+piekarnik,-210,True,711,piekarnik,🍳,noun,False
+pieniądz,-350,True,851,pieniądz,💰,noun,False

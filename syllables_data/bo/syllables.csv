@@ -1,2 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-boleć,413,True,88,boleć,🤕,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+boleć,453,True,48,boleć,🤕,verb,False
+bocian,-75,True,576,bocian,🦩,noun,False
+boisko,-382,True,883,boisko,⚽,noun,False

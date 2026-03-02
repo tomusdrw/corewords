@@ -1,5 +1,5 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-proszę,496,True,5,proszę,🙏,False
-problem,282,True,219,problem,⚠️,False
-prosić,267,True,234,prosić,🙏,False
-prosty,195,True,306,prosty,📏,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+proszę,496,True,5,proszę,🙏,interjection,False
+problem,282,True,219,problem,⚠️,noun,False
+prosić,267,True,234,prosić,🙏,verb,False
+prosty,195,True,306,prosty,📏,adjective,False

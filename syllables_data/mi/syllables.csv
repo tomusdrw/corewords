@@ -1,3 +1,5 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-miły,181,True,320,miły,😊,False
-minuta,152,True,349,minuta,⏱️,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+miły,181,True,320,miły,😊,adjective,False
+minuta,152,True,349,minuta,⏱️,noun,False
+miska,-193,True,694,miska,🥣,noun,False
+mikrofala,-211,True,712,mikrofala,📦,noun,False

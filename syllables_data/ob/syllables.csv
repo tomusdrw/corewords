@@ -1,0 +1,5 @@
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+obcy,-25,True,526,obcy,👤,noun,False
+obrus,-206,True,707,obrus,🍽️,noun,False
+obraz,-290,True,791,obraz,🖼️,noun,False
+obwodnica,-324,True,825,obwodnica,🛣️,noun,False

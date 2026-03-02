@@ -1,4 +1,7 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-przynieść,249,True,252,przynieść,📦,False
-przypomnieć,219,True,282,przypomnieć,🧠✅,False
-przyjaciel,72,True,429,przyjaciel,🤝,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+przynieść,249,True,252,przynieść,📦,verb,False
+przypomnieć,219,True,282,przypomnieć,🧠✅,verb,False
+ja,49,False,,,,,True
+przyczepa,-232,True,733,przyczepa,🚐,noun,False
+przystanek,-335,True,836,przystanek,🚏,noun,False
+przychodnia,-369,True,870,przychodnia,🏥,noun,False

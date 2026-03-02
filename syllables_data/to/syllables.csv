@@ -1,2 +1,2 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-toaleta,307,True,194,toaleta,🚽,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+toaleta,410,True,91,toaleta,🚽,noun,False

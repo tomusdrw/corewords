@@ -1,4 +1,6 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-to,584,False,,,,True
-gorący,175,True,326,gorący,🔥,False
-godzina,153,True,348,godzina,🕐,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+to,560,False,,,,,True
+gorący,175,True,326,gorący,🔥,adjective,False
+godzina,153,True,348,godzina,🕐,noun,False
+gospodarz,-27,True,528,gospodarz,🏠,noun,False
+gołąb,-69,True,570,gołąb,🕊️,noun,False

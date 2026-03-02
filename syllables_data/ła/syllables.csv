@@ -1,3 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-łatwy,360,True,141,łatwy,✅,False
-łazienka,306,True,195,łazienka,🛁,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+łatwy,335,True,166,łatwy,✅,adjective,False
+łazienka,305,True,196,łazienka,🛁,noun,False
+ława,-274,True,775,ława,🪑,noun,False

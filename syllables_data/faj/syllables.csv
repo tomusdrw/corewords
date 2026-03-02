@@ -1,3 +1,3 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-fajnie,380,True,121,fajnie,😎,False
-fajny,358,True,143,fajny,😎,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+fajnie,441,True,60,fajnie,😎,adverb,False
+fajny,433,True,68,fajny,😎,adjective,False

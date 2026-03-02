@@ -1,4 +1,7 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-robić,458,True,43,robić,🔧,False
-rozumieć,433,True,68,rozumieć,🧠,False
-rodzina,319,True,182,rodzina,👨‍👩‍👧‍👦,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+robić,471,True,30,robić,🔧,verb,False
+rozumieć,385,True,116,rozumieć,🧠,verb,False
+rodzina,314,True,187,rodzina,👨‍👩‍👧‍👦,noun,False
+rogal,-122,True,623,rogal,🥐,noun,False
+rosół,-154,True,655,rosół,🍲,noun,False
+roleta,-288,True,789,roleta,🪟,noun,False

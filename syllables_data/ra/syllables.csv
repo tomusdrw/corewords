@@ -1,3 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-rano,151,True,350,rano,🌅,False
-razem,34,True,467,razem,👥,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+rano,151,True,350,rano,🌅,noun,False
+razem,34,True,467,razem,👥,noun,False
+racuchy,-182,True,683,racuchy,🥞,noun,False

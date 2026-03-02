@@ -1,3 +1,3 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-dużo,388,True,113,dużo,📊,False
-duży,376,True,125,duży,🐘,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+dużo,444,True,57,dużo,📊,adverb,False
+duży,438,True,63,duży,🐘,adjective,False

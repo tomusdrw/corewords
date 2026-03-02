@@ -1,3 +1,5 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-plac zabaw,102,True,399,plac zabaw,🎪,False
-planować,22,True,479,planować,📋,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+plac zabaw,102,True,399,plac zabaw,🎪,noun,False
+planować,22,True,479,planować,📋,verb,False
+plakat,-291,True,792,plakat,🖼️,noun,False
+plaża,-400,True,901,plaża,🏖️,noun,False

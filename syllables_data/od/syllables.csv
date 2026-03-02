@@ -1,4 +1,4 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-po,320,False,,,,True
-odkurzać,15,True,486,odkurzać,🧹,False
-odpinać,6,True,495,odpinać,🔘,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+po,311,False,,,,,True
+odkurzać,15,True,486,odkurzać,🧹,verb,False
+odpinać,6,True,495,odpinać,🔘,verb,False

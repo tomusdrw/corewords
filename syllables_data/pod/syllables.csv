@@ -1,2 +1,2 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-podłoga,95,True,406,podłoga,🏠,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+podłoga,95,True,406,podłoga,🏠,noun,False

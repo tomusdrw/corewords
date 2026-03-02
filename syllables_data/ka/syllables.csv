@@ -1,0 +1,13 @@
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+kawa,121,True,380,kawa,☕,noun,False
+kalafior,-113,True,614,kalafior,🥦,noun,False
+kanapka,-125,True,626,kanapka,🥪,noun,False
+kakao,-147,True,648,kakao,☕,noun,False
+kasza,-183,True,684,kasza,🍚,noun,False
+kafelki,-258,True,759,kafelki,🟫,noun,False
+pu,-274,False,,,,,True
+kanapa,-276,True,777,kanapa,🛋️,noun,False
+kasownik,-338,True,839,kasownik,🎫,noun,False
+kasa,-342,True,843,kasa,💰,noun,False
+kawiarnia,-390,True,891,kawiarnia,☕,noun,False
+kamień,-405,True,906,kamień,🪨,noun,False

@@ -1,7 +1,10 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-mało,387,True,114,mało,📉,False
-mały,375,True,126,mały,🐜,False
-mama,330,True,171,mama,👩,False
-malować,231,True,270,malować,🎨,False
-makaron,116,True,385,makaron,🍝,False
-marzyć,23,True,478,marzyć,💭,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+mało,443,True,58,mało,📉,adverb,False
+mały,437,True,64,mały,🐜,adjective,False
+mama,419,True,82,mama,👩,noun,False
+malować,231,True,270,malować,🎨,verb,False
+makaron,116,True,385,makaron,🍝,noun,False
+marzyć,23,True,478,marzyć,💭,verb,False
+malina,-89,True,590,malina,🍓,noun,False
+masło,-126,True,627,masło,🧈,noun,False
+materac,-279,True,780,materac,🛏️,noun,False

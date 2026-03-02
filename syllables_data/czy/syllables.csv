@@ -1,3 +1,3 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-czytać,420,True,81,czytać,📖,False
-czysty,369,True,132,czysty,✨,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+czytać,375,True,126,czytać,📖,verb,False
+czysty,343,True,158,czysty,✨,adjective,False

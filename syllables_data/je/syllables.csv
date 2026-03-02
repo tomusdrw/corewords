@@ -1,4 +1,6 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-jechać,427,True,74,jechać,🚗,False
-jedzenie,317,True,184,jedzenie,🍽️,False
-jesień,138,True,363,jesień,🍂,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+jedzenie,412,True,89,jedzenie,🍽️,noun,False
+jechać,382,True,119,jechać,🚗,verb,False
+jesień,138,True,363,jesień,🍂,noun,False
+jeleń,-67,True,568,jeleń,🦌,noun,False
+jezioro,-396,True,897,jezioro,🏞️,noun,False

@@ -1,5 +1,8 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-taki,357,True,144,taki,👆,False
-tata,329,True,172,tata,👨,False
-tablet,293,True,208,tablet,📱,False
-tani,189,True,312,tani,💰,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+tata,418,True,83,tata,👨,noun,False
+taki,333,True,168,taki,👆,adjective,False
+tablet,293,True,208,tablet,📱,noun,False
+tani,189,True,312,tani,💰,adjective,False
+talerz,-192,True,693,talerz,🍽️,noun,False
+taras,-247,True,748,taras,🏠,noun,False
+tablica,-340,True,841,tablica,📋,noun,False

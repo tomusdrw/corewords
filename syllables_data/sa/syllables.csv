@@ -1,3 +1,5 @@
-syllable,weight,is_word,word_rank,full_word,emoji,has_children
-samochód,301,True,200,samochód,🚗,False
-salon,99,True,402,salon,🛋️,False
+syllable,weight,is_word,word_rank,full_word,emoji,pos,has_children
+samochód,300,True,201,samochód,🚗,noun,False
+salon,99,True,402,salon,🛋️,noun,False
+sałata,-111,True,612,sałata,🥬,noun,False
+sałatka,-185,True,686,sałatka,🥗,noun,False
