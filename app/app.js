@@ -60,8 +60,60 @@ const SpeakingIndicator = ({ visible }) => html`
     </div>
 `;
 
-// New Top Bar Component
-const TopBar = ({ path, sentence, onBack, onRemoveWord, onClearSentence, onReadSentence }) => {
+const CustomWordDialog = ({ isOpen, onClose, onAdd }) => {
+    const [word, setWord] = useState('');
+    const inputRef = useRef(null);
+    
+    useEffect(() => {
+        if (isOpen && inputRef.current) {
+            inputRef.current.focus();
+        }
+        if (!isOpen) {
+            setWord('');
+        }
+    }, [isOpen]);
+    
+    const handleSubmit = (e) => {
+        e.preventDefault();
+        const trimmed = word.trim();
+        if (trimmed) {
+            onAdd(trimmed);
+            setWord('');
+            onClose();
+        }
+    };
+    
+    if (!isOpen) return null;
+    
+    return html`
+        <div class="dialog-overlay" onClick=${onClose}>
+            <div class="dialog" onClick=${(e) => e.stopPropagation()}>
+                <div class="dialog-header">
+                    <h3>Dodaj słowo</h3>
+                    <button class="dialog-close" onClick=${onClose}>✕</button>
+                </div>
+                <form onSubmit=${handleSubmit}>
+                    <input
+                        ref=${inputRef}
+                        type="text"
+                        value=${word}
+                        onInput=${(e) => setWord(e.target.value)}
+                        placeholder="Wpisz słowo..."
+                        class="dialog-input"
+                        autocomplete="off"
+                        autocapitalize="off"
+                    />
+                    <div class="dialog-actions">
+                        <button type="button" class="dialog-btn cancel" onClick=${onClose}>Anuluj</button>
+                        <button type="submit" class="dialog-btn confirm" disabled=${!word.trim()}>Dodaj</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    `;
+};
+
+const TopBar = ({ path, sentence, onBack, onRemoveWord, onClearSentence, onReadSentence, onOpenCustomWord }) => {
     const isRoot = path.length === 0;
     
     // Auto-scroll to end of sentence
@@ -104,6 +156,14 @@ const TopBar = ({ path, sentence, onBack, onRemoveWord, onClearSentence, onReadS
                     >✕</span>
                 `}
             </div>
+
+            <!-- Custom Word Button -->
+            <button class="back-btn" 
+                    onClick=${onOpenCustomWord}
+                    title="Wpisz własne słowo"
+                    style="flex-shrink: 0; min-width: 60px; justify-content: center; background: #e3f2fd; color: #1976d2;">
+                <span style="font-size: 20px;">⌨</span>
+            </button>
 
             <!-- Remove Word Button -->
             <button class="back-btn" 
@@ -166,6 +226,7 @@ const App = () => {
     const [path, setPath] = useState([]); 
     const [speaking, setSpeaking] = useState(false);
     const [sentence, setSentence] = useState([]);
+    const [customWordOpen, setCustomWordOpen] = useState(false);
 
     useEffect(() => {
         fetch('data.json')
@@ -276,6 +337,20 @@ const App = () => {
         speak(sentence.map(s => s.word).join(' '), () => setSpeaking(false));
     };
 
+    const handleAddCustomWord = (word) => {
+        setSentence(s => [...s, { 
+            word: word, 
+            emoji: '',
+            path: null,
+            isCustom: true
+        }]);
+        setPath([]);
+        setTimeout(() => {
+            setSpeaking(true);
+            speak(word, () => setSpeaking(false));
+        }, 100);
+    };
+
     if (loading) return html`<${Spinner} />`;
     if (error) return html`<${ErrorState} message=${error} />`;
 
@@ -288,6 +363,7 @@ const App = () => {
                 onRemoveWord=${handleRemoveWord}
                 onClearSentence=${handleClearSentence}
                 onReadSentence=${handleReadSentence}
+                onOpenCustomWord=${() => setCustomWordOpen(true)}
             />
 
             <main class="grid-container" style="${path.length === 0 ? 'display: flex; flex-direction: column;' : ''}">
@@ -308,6 +384,11 @@ const App = () => {
             </main>
 
             <${SpeakingIndicator} visible=${speaking} />
+            <${CustomWordDialog} 
+                isOpen=${customWordOpen} 
+                onClose=${() => setCustomWordOpen(false)} 
+                onAdd=${handleAddCustomWord} 
+            />
         </div>
     `;
 };

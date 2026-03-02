@@ -3,6 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#FF6B6B">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="AAC Polish">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="icon-192.svg">
     <title>AAC Core Words - Polish</title>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Baloo+2:wght@500;600;700&display=swap" rel="stylesheet">
     <style>
@@ -281,10 +287,149 @@
                 gap: 20px;
             }
         }
+
+        /* Dialog Styles */
+        .dialog-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 2000;
+            padding: 20px;
+        }
+
+        .dialog {
+            background: white;
+            border-radius: var(--radius-lg);
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            width: 100%;
+            max-width: 400px;
+            animation: dialogIn 0.2s ease-out;
+        }
+
+        @keyframes dialogIn {
+            from {
+                opacity: 0;
+                transform: scale(0.95) translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1) translateY(0);
+            }
+        }
+
+        .dialog-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 20px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .dialog-header h3 {
+            margin: 0;
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .dialog-close {
+            background: none;
+            border: none;
+            font-size: 20px;
+            color: var(--text-secondary);
+            cursor: pointer;
+            padding: 4px;
+            line-height: 1;
+        }
+
+        .dialog-close:hover {
+            color: var(--text-primary);
+        }
+
+        .dialog-input {
+            width: 100%;
+            padding: 16px 20px;
+            font-size: 24px;
+            font-family: 'Baloo 2', cursive;
+            border: none;
+            border-bottom: 2px solid #eee;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .dialog-input:focus {
+            border-bottom-color: var(--accent-primary);
+        }
+
+        .dialog-input::placeholder {
+            color: #bbb;
+        }
+
+        .dialog-actions {
+            display: flex;
+            gap: 12px;
+            padding: 16px 20px;
+        }
+
+        .dialog-btn {
+            flex: 1;
+            padding: 14px 20px;
+            border: none;
+            border-radius: var(--radius-md);
+            font-family: 'Nunito', sans-serif;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .dialog-btn.cancel {
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+        }
+
+        .dialog-btn.cancel:hover {
+            background: #e0e4e8;
+        }
+
+        .dialog-btn.confirm {
+            background: var(--accent-primary);
+            color: white;
+        }
+
+        .dialog-btn.confirm:hover:not(:disabled) {
+            background: #ff5252;
+            transform: translateY(-1px);
+        }
+
+        .dialog-btn.confirm:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
     </style>
 </head>
 <body>
     <div id="app"></div>
     <script type="module" src="app.js"></script>
+    <script>
+        // Register service worker for PWA offline support
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then((registration) => {
+                        console.log('SW registered:', registration.scope);
+                    })
+                    .catch((error) => {
+                        console.log('SW registration failed:', error);
+                    });
+            });
+        }
+    </script>
 </body>
 </html>
