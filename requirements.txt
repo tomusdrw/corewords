@@ -1,2 +1,2 @@
-pyphen>=4.0
+pyphen>=0.17
 ruff>=0.1.0
